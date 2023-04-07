@@ -23,10 +23,10 @@ body {
 }
 
 main {
-  padding: var(--header-height) 13px 13px;
+  
 
   @media (min-width: 1024px) {
-    padding-top: var(--header-height-lg);
+    
   }
 }
 
@@ -59,19 +59,26 @@ h6 {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 2.618125em;
+  font-variation-settings: "wght" 570;
 }
 
 h2 {
-  font-size: 1.75em;
+  font-size: 2.618125em;
+  font-variation-settings: "wght" 570;
 }
 
 h3 {
-  font-size: 1.5em;
+  font-family: var(--font-family-base);
+  font-size: 1.618125em;
+  font-variation-settings: "wght" 340,"wdth" 75;
 }
 
 h4 {
-  font-size: 1.25em;
+  font-family: var(--font-family-base);
+  font-size: .793125em;
+  font-variation-settings: "wght" 590,"wdth" 100;
+  text-transform: uppercase;
 }
 
 h5 {
@@ -83,8 +90,35 @@ h6 {
 }
 
 p {
-  margin-top: 0;
-  margin-bottom: 2.5rem;
+    -webkit-hyphenate-limit-before: 4;
+    -webkit-hyphenate-limit-after: 4;
+    -webkit-hyphenate-limit-chars: 9 4 4;
+    -webkit-hyphenate-limit-lines: 4;
+    -webkit-hyphenate-limit-last: always;
+    -webkit-hyphenate-limit-zone: 8%;
+    -moz-hyphenate-limit-chars: 9 4 4;
+    -moz-hyphenate-limit-lines: 4;
+    -moz-hyphenate-limit-last: always;
+    -moz-hyphenate-limit-zone: 8%;
+    -ms-hyphenate-limit-chars: 9 4 4;
+    -ms-hyphenate-limit-lines: 2;
+    -ms-hyphenate-limit-last: always;
+    -ms-hyphenate-limit-zone: 8%;
+    hyphenate-limit-chars: 9 4 4;
+    hyphenate-limit-lines: 4;
+    hyphenate-limit-last: always;
+    hyphenate-limit-zone: 8%;
+    font-size: 1em;
+    font-variation-settings: "wght" 470,"wdth" 100;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+    line-height: 1.40625;
+    margin-bottom: 2.5rem;
+    margin-top: 0;
+    text-align: justify!important;
+    text-justify: inter-character!important;
 }
 
 small,

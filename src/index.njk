@@ -2,28 +2,20 @@
 layout: base.njk
 section: home
 ---
+<body>
 <div class="home-page">
-	<div class="home-page__bg-square"></div>
-
   {# Hero #}
   <div class="hero">
-    <div class="hero__col">
-      <h1 class="hero__title gradient-text">{{ home.title }}</h1>
-      {% if home.body %}
-        <div class="hero__body">{{ home.body | markdown | safe }}</div>
-      {% endif %}
-    </div>
-    <div class="hero__col">
       {% image
-        home.image,
-        home.image_alt,
+        "src/assets/img/atelier-entrelacs-volutes-overlay.jpeg",
+        "flfl",
         "(min-width: 1024px) 50vw, 100vw",
-        "hero__image shadow",
+        "hero__image",
         "eager"
       %}
-    </div>
   </div>
-
+		{% include "partials/site-header.njk" %}
+		{% include "partials/drawer.njk" %}
   {# Projects #}
   <div class="list-header">
     <h2 class="list-header__title">Projects</h2>

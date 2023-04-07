@@ -1,5 +1,6 @@
 .site-header {
-  position: fixed;
+  position: sticky;
+  top:0;
   width: 100%;
   border-top: 3px solid var(--color-secondary);
   z-index: var(--z-header);
@@ -32,15 +33,15 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 30px;
-  height: 30px;
+  width: 18rem;
+  height: auto;
   padding: 6px 8px;
   border-radius: var(--border-radius-sm);
   color: var(--color-text);
 
   @media (min-width: 1024px) {
-    width: 40px;
-    height: 40px;
+    width: 18rem;
+    height: auto;
   }
 
   &:hover {
@@ -54,6 +55,9 @@
   display: none;
   width: 100%;
   margin-top: 15px;
+  font-size: .793125em;
+  font-variation-settings: "wght" 590,"wdth" 100;
+  text-transform: uppercase;
 
   @media (min-width: 1024px) {
     display: block;
@@ -100,12 +104,10 @@
 
 .site-header__item {
   margin: 0 6px;
-  font-weight: 500;
-  font-size: 14px;
+
 
   @media (min-width: 1024px) {
-    margin: 0 15px;
-    font-size: 15px;
+
   }
 }
 
