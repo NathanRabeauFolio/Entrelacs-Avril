@@ -1,19 +1,19 @@
 ---
-layout: 'base.njk'
+layout: base.njk
 section: page
 pagination:
     data: pdv
     size: 1
     alias: pdv
-permalink: "restauration-fauteuils-proche-de-{{ pdv.ville | slug }}/"
+permalink: "restauration-fauteuils-proche-de-{{ pdv.ville | slug | safe }}/"
 ---
 
 <h1>{{ pdv.ville }}</h1>
-<a href="../tapisserie-d-ameublement-proche-de-{{ pdv.prox1 | slug }}">{{ pdv.prox1 }}</a>
-<a href="../restauration-fauteuils-proche-de-{{ pdv.prox2 | slug }}">{{ pdv.prox2 }}</a>
-<a href="../tapisserie-d-ameublement-proche-de-{{ pdv.prox3 | slug }}">{{ pdv.prox3 }}</a>
-<a href="../restauration-fauteuils-proche-de-{{ pdv.prox4 | slug }}">{{ pdv.prox4 }}</a>
-<a href="../tapisserie-d-ameublement-proche-de-{{ pdv.prox5 | slug }}">{{ pdv.prox5 }}</a>
+<a href="../tapisserie-d-ameublement-proche-de-{{ pdv.prox1 | slug | safe }}">{{ pdv.prox1 }}</a>
+<a href="../restauration-fauteuils-proche-de-{{ pdv.prox2 | slug | safe }}">{{ pdv.prox2}}</a>
+<a href="../tapisserie-d-ameublement-proche-de-{{ pdv.prox3 | slug | safe }}">{{ pdv.prox3 }}</a>
+<a href="../restauration-fauteuils-proche-de-{{ pdv.prox4 | slug | safe }}">{{ pdv.prox4 }}</a>
+<a href="../tapisserie-d-ameublement-proche-de-{{ pdv.prox5 | slug | safe }}">{{ pdv.prox5 }}</a>
 <div  id="map" style="width:320px; height:320px; position: relative;
     overflow: hidden;">
 </div>
