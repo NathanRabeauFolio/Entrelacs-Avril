@@ -22,14 +22,14 @@ permalink: "tapisserie-d-ameublement-proche-de-{{ pdv.ville | slug }}/"
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC1t5qpyT1mkOXLqghKgk0m7pKjx1JyQ1Y&callback=initMap"
 async defer></script>
+ 			
 
-
-<script>
+  <script>
     
     var map;
     
-    async function fetchJSONData(slug){
-        var response =await fetch(slug)
+    async function fetchJSONData(url){
+        var response =await fetch(url)
         if (response.status == 200) {
             let data=await  response.json();
             //console.log(data);
@@ -38,7 +38,7 @@ async defer></script>
             throw new HttpError(response);
         }
     }
-    function initMap(lat=48.1159343,lng=-1.6884435,city1="{{ pdv.ville }}+Ille-et-Vilaine",
+   function initMap(lat=48.1159343,lng=-1.6884435,city1="{{ pdv.ville }}+Ille-et-Vilaine",
 												   city2="Rennes-Metropole",
 					  							   citylocal="{{ pdv.ville }}") {
         var myLatLng = {lat: lat, lng: lng};			
@@ -142,7 +142,7 @@ async defer></script>
             }
 			});
 		
-		fetchJSONData("https://nominatim.openstreetmap.org/search.php?q="+298309889+"&polygon_geojson=1&format=json")
+		fetchJSONData("https://nominatim.openstreetmap.org/search.php?q="+citylocal+"&polygon_geojson=1&format=json")
         .then(function(jsn){
             var type = jsn[0].geojson.type;
             if(type == "MultiPolygon"){
@@ -187,5 +187,4 @@ async defer></script>
                 bermudaTriangle.setMap(map);
             }
 			});
-		}
-  </script>
+		}</script>
