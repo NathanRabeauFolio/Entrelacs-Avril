@@ -7,7 +7,8 @@
 }
 
 .hero {
-
+  position: relative;
+  height: 100vh;
 }
 
 .hero__col {
@@ -16,17 +17,27 @@
 
 .hero__image {
   max-width: 100%;
-
   transition: filter 0.4s ease-out;
   object-fit: cover;
   object-position: 250px 125px;
   height: 100vh;
   object-position: center center;
+  position: absolute;
 
   @media (min-width: 1024px) {
     margin-bottom: 0;
     object-position: center -33vh;
   }
+}
+
+.hero__logo{
+  z-index: 9999;
+  display: block;
+  position: absolute;
+  left:calc(50% - 15rem);
+  width: 30rem;
+  img{
+    filter: invert(100%);}
 }
 
 .hero__title {
