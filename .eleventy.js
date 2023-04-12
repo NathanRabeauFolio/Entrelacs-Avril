@@ -7,11 +7,17 @@ const markdownFilter = require('./src/_11ty/filters/markdown-filter');
 const svgFilter = require('./src/_11ty/filters/svg-filter');
 const browserSyncConfig = require('./src/_11ty/utils/browser-sync-config');
 const { readableDateFilter, machineDateFilter } = require('./src/_11ty/filters/date-filters');
+const sitemap = require("@quasibit/eleventy-plugin-sitemap");
 
 module.exports = function (eleventyConfig) {
   // Plugins
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.addPlugin(syntaxHighlight);
+  eleventyConfig.addPlugin(sitemap, {
+    sitemap: {
+      hostname: "https://example.com",
+    },
+  });
 
   // Filters
   eleventyConfig.addFilter('markdown', markdownFilter);
