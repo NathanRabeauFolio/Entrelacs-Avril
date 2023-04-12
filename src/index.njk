@@ -14,9 +14,16 @@ section: home
         "eager"
       %}
     <div class="hero__logo">
-      <img src="/assets/img/logo.svg" alt="">
+      <h1><span class="alr">Atelier</span><br>Entrelacs</h1>
       <h2>Tapisserie d'ameublement Fauteuils - rideaux - coussins</h2>
     </div>
+          {% image
+        "src/assets/img/atelier-entrelacs-volutes-front.png",
+        "flfl",
+        "(min-width: 1024px) 50vw, 100vw",
+        "hero__image__front",
+        "eager"
+      %}
   </div>
 		{% include "partials/site-header.njk" %}
 		{% include "partials/drawer.njk" %}
@@ -40,3 +47,28 @@ section: home
     limit = 3
   ) }}
 </div>
+
+<script type="text/javascript">
+
+		gsap.to(".hero__image__front", {
+			scrollTrigger:{
+				trigger: ".filled-text, .outline-text", 
+				start: "top bottom", 
+				end: "bottom top", 
+				scrub: 1
+			},
+			y: -500
+		})
+
+		gsap.to(".hero__image__front", {
+			scrollTrigger:{
+				trigger: ".image",
+				start: "top bottom", 
+				end: "bottom top", 
+				scrub: 1,
+				markers: true
+			},
+			y: 300,
+
+		})
+	</script>
