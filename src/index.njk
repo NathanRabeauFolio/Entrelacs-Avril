@@ -52,23 +52,23 @@ section: home
 
 		gsap.to(".hero__image__front", {
 			scrollTrigger:{
-				trigger: ".filled-text, .outline-text", 
-				start: "top bottom", 
-				end: "bottom top", 
+				trigger: ".hero", 
+        start: "top top",
+        end: '+=50%',
 				scrub: 1
 			},
-			y: -500
+			y: -500,
 		})
 
 		gsap.to(".hero__image__front", {
 			scrollTrigger:{
-				trigger: ".image",
-				start: "top bottom", 
-				end: "bottom top", 
+				trigger: ".hero",
+        start: "top top",
+        end: '+=50%',
 				scrub: 1,
 				markers: true
 			},
-			y: 300,
+			y: 100,
 
 		})
 	</script>
