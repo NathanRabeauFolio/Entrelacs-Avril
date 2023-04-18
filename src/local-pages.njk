@@ -7,7 +7,10 @@ pagination:
     alias: pdv
 permalink: "tapisserie-d-ameublement-proche-de-{{ pdv.ville | slug | safe }}/"
 ---
-
+	<body>
+		{% include "partials/site-header.njk" %}
+		{% include "partials/drawer.njk" %}
+<div class="page-container">
 <h1>Votre travaux de tapisserie d'ammeublement proche de {{ pdv.ville }}</h1>
 <p>L'Atelier Entrelacs, situé à Rennes, est votre spécialiste en tapisserie d'ameublement, j'y célèbre l'histoire et l'unicité de chaque fauteuils en les transformant en pièces uniques et personnalisées. J'interviens dans toute la région rennaise, notamment à {{ pdv.ville }}, <a href="../tapisserie-d-ameublement-proche-de-{{ pdv.prox1 | slug | safe }}">{{ pdv.prox1 }}</a> ou <a href="../restauration-fauteuils-proche-de-{{ pdv.prox2 | slug | safe }}">{{ pdv.prox2 }}</a>. Grâce à mon soins et mon expertise en réfection de sièges et en confection de rideaux et coussins, je redonnons vie à vos meubles tout en respectant leur histoire et leur essence.
 <h2>Une approche personnalisée et respectueuse</h2>
@@ -35,7 +38,7 @@ permalink: "tapisserie-d-ameublement-proche-de-{{ pdv.ville | slug | safe }}/"
 <p>Le métier de tapissier remonte à la fin du XIIIe siècle, et depuis lors, les artisans ont développé et adapté leurs compétences pour répondre aux besoins changeants de leurs clients. L'Atelier Entrelacs s'inscrit dans cet héritage séculaire, en mélangeant des techniques ancestrales et des tissus contemporains pour restaurer des fauteuils et confectionner des rideaux et des coussins. Je suis fiere de perpétuer cet artisanat d'exception et de contribuer à la préservation du patrimoine mobilié de la région rennaise.</p>
 <p>En confiant la réfection de vos sièges et la confection de vos rideaux et coussins à L'Atelier Entrelacs, vous pouvez être sûr que vos meubles seront traités avec respect et amour, en les transformant en pièces uniques et personnalisées qui reflètent votre style et votre histoire. Contactez-nous dès aujourd'hui pour obtenir un devis gratuit et commencer à donner une nouvelle vie à vos meubles.</p>
 
-
+</div>
 
 
 <div  id="map" style="width:320px; height:320px; position: relative;
