@@ -22,13 +22,13 @@
 /*Typography*/
 @font-face {
     font-family: 'Open Sans';
-    src: url('../OpenSans-VariableFont.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../OpenSans-VariableFont.ttf')  format('truetype'), /* Safari, Android, iOS */
+    src: url('OpenSans-VariableFont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('OpenSans-VariableFont.ttf')  format('truetype'), /* Safari, Android, iOS */
   }
   @font-face {
     font-family: 'Playfair Display';
-    src: url('../PlayfairDisplay-VariableFont.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../PlayfairDisplay-VariableFont.ttf')  format('truetype'), /* Safari, Android, iOS */
+    src: url('PlayfairDisplay-VariableFont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('PlayfairDisplay-VariableFont.ttf')  format('truetype'), /* Safari, Android, iOS */
   }
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@75,300..100,800&family=Playfair+Display:wght@400..900&display=swap');
 
