@@ -22,12 +22,12 @@
 /*Typography*/
 @font-face {
     font-family: 'Open Sans';
-    src: url('../fonts/OpenSans-VariableFont_wdth\,wght.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../fonts/OpenSans-VariableFont_wdth\,wght.ttf')  format('truetype'), /* Safari, Android, iOS */
+    src: url('./fonts/OpenSans-VariableFont_wdth\,wght.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/OpenSans-VariableFont_wdth\,wght.ttf')  format('truetype'), /* Safari, Android, iOS */
   }
   @font-face {
     font-family: 'Playfair Display';
-    src: url('../fonts/PlayfairDisplay-VariableFont_wght.woff2') format('woff2'), /* Super Modern Browsers */
-         url('../fonts/PlayfairDisplay-VariableFont_wght.ttf')  format('truetype'), /* Safari, Android, iOS */
+    src: url('./fonts/PlayfairDisplay-VariableFont_wght.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/PlayfairDisplay-VariableFont_wght.ttf')  format('truetype'), /* Safari, Android, iOS */
   }
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@75,300..100,800&family=Playfair+Display:wght@400..900&display=swap');
