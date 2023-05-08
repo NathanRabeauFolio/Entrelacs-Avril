@@ -4,6 +4,8 @@
   align-items: center;
   justify-content: center;
   padding: 15px;
+  box-sizing: border-box;
+
 
   @media (min-width: 1024px) {
     padding: 15px 30px;
@@ -13,6 +15,25 @@
     border-radius: 100%;
   }* {
     box-sizing: border-box;
+  }
+
+  .contact-footer{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    a, button {
+      display: block!important;
+      padding: 1rem 3rem !important;
+      font-family: var(--font-family-base);
+      font-size: 1.618125em!important;
+      font-variation-settings: "wght" 340, "wdth" 75;
+      background: url(../img/atelier-entrelacs-volutes-overlay.jpeg) center;
+      width: inherit !important;
+      color: white!important;
+      border: none !important;
+      border-radius: none!important;
+      margin-bottom: 1rem;
+    }
   }
 
   .modal-container{
