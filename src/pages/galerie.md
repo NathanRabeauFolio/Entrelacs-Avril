@@ -9,3 +9,7 @@ eleventyNavigation:
   key: Galerie
   order: 3
 ---
+
+![Fern](/src/assets/img/fern-in-hand.jpeg "Fern")
+![Fern](/src/assets/img/fern-in-hand.jpeg "Fern")
+![Fern](/src/assets/img/fern-in-hand.jpeg "Fern")
