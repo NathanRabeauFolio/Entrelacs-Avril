@@ -6,7 +6,7 @@ section: page
 		{% include "partials/site-header.njk" %}
 		{% include "partials/drawer.njk" %}
 
-<div class="page-container {{ title | safe | lower }}">
+<div class="page-container {{ title | slug }}">
   <h1>{{ title }}</h1>
   {% if subtitle %}
     <p>{{ subtitle }}</p>
