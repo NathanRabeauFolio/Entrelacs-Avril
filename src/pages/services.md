@@ -1,5 +1,6 @@
 ---
 title: Services
+layout: page.njk
 subtitle: ""
 metaDescription: This page is all about me
 date: 2017-01-01T00:00:00.000Z
@@ -8,6 +9,13 @@ eleventyNavigation:
   key: Services
   order: 1
 ---
+<section>
+<div>
+
+![les outils du tapissier d'ameublement](/src/assets/img/outils-traditionnels.png "Fern")
+</div>
+
+<article>
 
 ### Services aux particuliers
 
@@ -16,11 +24,30 @@ La méthode traditionnelle consiste à utiliser les matériaux naturels employé
 La méthode traditionnelle est indiquée pour les fauteuils d’époque, afin d’assurer une cohérence entre le bois de la structure et les matériaux de la garniture.
 Une réfection dans les règles de l’art assure une durée de vie d’une vingtaine d’années à vos sièges (selon usage).
 Le choix du tissu et de la finition (cloutée, passepoil, galon…) est entièrement libre quelle que soit la méthode de réfection.
+</article>
+
+<div>
+
+![Fern](/src/assets/img/fauteuil-trad.png "Fern")
+</div>
+</section>
+<section>
+<div>
+
+![les outils du tapissier d'ameublement](/src/assets/img/fauteuil-contempo.png "Fern")
+</div>
+<article>
 
 #### Réfection de sièges méthode contemporaine
 La méthode contemporaine consiste à utiliser des matériaux synthétiques (mousses, profilés, sangle élastique) pour réaliser la garniture des sièges.
 La garniture en mousse est indiquée pour les fauteuils contemporains. Les mousses Bultex ou Haute Résilience utilisées garantissent une durée de vie d’une quinzaine d’années à vos sièges (selon usage).
 Le choix du tissu et de la finition (cloutée, passepoil, galon…) est entièrement libre quelle que soit la méthode de réfection.
+</article>
+<div>
+
+![les outils du tapissier d'ameublement](/src/assets/img/outils-contemporain.png "Fern")
+</div>
+</section>
 
 #### Confection de rideaux et coussins
 Je réalise vos rideaux, stores et coussins sur mesure. Uniquement décoratifs ou également dotés de propriétés particulières (occultants ou thermiques), je vous conseille pour choisir les tissus et finitions adaptés.

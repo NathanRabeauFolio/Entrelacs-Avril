@@ -6,11 +6,12 @@ section: page
 		{% include "partials/site-header.njk" %}
 		{% include "partials/drawer.njk" %}
 
-<div class="page-container">
+<div class="page-container {{ title | slug | safe }}">
   <h1>{{ title }}</h1>
   {% if subtitle %}
     <p>{{ subtitle }}</p>
   {% endif %}
   <hr/>
-  {{ layoutContent | safe }}
+  {{ layoutContent | safe | replace("<p><picture>", "<picture>")
+						              | replace("</p></picture>", "</picture>") }}
 </div>

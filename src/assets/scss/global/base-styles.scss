@@ -355,3 +355,20 @@ fieldset {
   }
   
 }
+
+.header-anchor{display: none;}
+
+.services{
+
+  section{
+    display: flex;
+    flex-direction: row;
+    article {
+      width: 60%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+
+}
