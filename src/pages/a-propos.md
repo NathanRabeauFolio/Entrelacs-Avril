@@ -26,7 +26,7 @@ Je suis installée à Rennes et j’interviens également dans le reste de la Br
 
 <div class="col">
 
-![les outils du tapissier d'ameublement](/src/assets/img/portrait-3.jpg "Fern")
+![les outils du tapissier d'ameublement](/src/assets/img/volt.png "Fern")
 </div>
 </section>
 <section>
