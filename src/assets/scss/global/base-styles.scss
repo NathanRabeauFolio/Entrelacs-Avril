@@ -20,6 +20,9 @@ body {
   line-height: 1.618;
   color: var(--color-text);
   background-color: var(--color-bg);
+  &.modal-active {
+    overflow: hidden;
+  }
 }
 
 main {

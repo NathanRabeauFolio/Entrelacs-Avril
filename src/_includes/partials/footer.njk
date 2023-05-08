@@ -1,6 +1,20 @@
 <footer class="site-footer">
-<div  id="map" style="width:50%; height:70vh; position: relative;
-    overflow: hidden;">
+ 
+<div  id="map">
+</div>
+<div class="contact-footer">
+  <h2>Contactez-moi pour un devis gratuit</h2>
+  <a href="mailto:alice@atelier-entrelacs.com">alice@atelier-entrelacs.com</a>
+  <button id="active-modal">06 20 96 36 44</button>
+        <div id="modal" class="modal-container"> <!-- parte escura-->
+           <div class="box">
+               <button id="close">X</button>
+                <a href="tel:+33620963644">Appeler maintenant</a>
+                <a href="/assets/atelier-entrelacs-vcard.vcf" download>enregistrer contact</a>
+           </div>
+        </div>
+  <a href="">instagram</a>
+  <a href="">instagram</a>
 </div>
 
 </footer>
@@ -82,4 +96,26 @@ async defer></script>
             }
 			});
 		
-		}</script>
+		}
+    
+    
+    </script>
+
+<script>
+  const modal = document.getElementById('modal')
+const active = document.getElementById('active-modal')
+
+
+const initModal = () => {
+
+    modal.classList.add('display')
+    modal.addEventListener('click', (e) => {
+        if(e.target.id == 'modal' || e.target.id == 'close'){
+            modal.classList.remove('display')
+        }
+    })
+}
+
+
+active.addEventListener('click', initModal)
+</script>
