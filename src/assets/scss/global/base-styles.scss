@@ -62,6 +62,7 @@ h6 {
 h1 {
   font-size: 2.618125em;
   font-variation-settings: "wght" 570;
+  text-align: center;
 }
 
 h2 {
@@ -358,17 +359,51 @@ fieldset {
 
 .header-anchor{display: none;}
 
-.services{
+.services, .propos{
 
   section{
     display: flex;
     flex-direction: row;
+    .col{
+      width: calc(50% - 30rem);
+      max-height: 90vh;
+      display: block;
+      picture{
+        img{object-fit: contain;
+          height: 80vh;}
+      }
+    }
     article {
-      width: 60%;
+      width: 60rem;
       display: flex;
       flex-direction: column;
       justify-content: center;
+      margin: 0 5rem;
+    }
+    h2 {
+      font-family: var(--font-family-base);
+      font-size: 1.618125em;
+      font-variation-settings: "wght" 340,"wdth" 75;
+      text-align: center;
+    }
+    
+    h3 {
+      font-family: var(--font-family-base);
+      font-size: .793125em;
+      font-variation-settings: "wght" 590,"wdth" 100;
+      text-transform: uppercase;
+      text-align: center;
     }
   }
 
+}
+
+.propos{
+  .col{
+    max-height: none;
+   picture img {
+      object-fit: contain;
+      height: auto!important;
+  }
+}
 }
