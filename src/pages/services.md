@@ -49,6 +49,13 @@ Le choix du tissu et de la finition (cloutée, passepoil, galon…) est entière
 </div>
 </section>
 
+<section>
+<div>
+
+![les outils du tapissier d'ameublement](/src/assets/img/coussin-01.png "Fern")
+</div>
+<article>
+
 #### Confection de rideaux et coussins
 Je réalise vos rideaux, stores et coussins sur mesure. Uniquement décoratifs ou également dotés de propriétés particulières (occultants ou thermiques), je vous conseille pour choisir les tissus et finitions adaptés.
 
@@ -56,6 +63,12 @@ Je réalise vos rideaux, stores et coussins sur mesure. Uniquement décoratifs o
 Je vous propose une large sélection de tissus créés par des maisons françaises spécialistes de la décoration.
 Développés pour l'ameublement, ces étoffes font l'objet de nombreux tests et sont dotés de différentes propriété techniques (antitache, antifeu, outdoor...).
 Faites le choix de tissus créatifs et de qualité, adaptés à vos différents projets de décoration.
+</article>
+<div>
+
+![les outils du tapissier d'ameublement](/src/assets/img/coussin-02.png "Fern")
+</div>
+</section>
 
 ### Services aux professionnels
 
