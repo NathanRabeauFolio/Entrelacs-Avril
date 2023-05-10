@@ -6,8 +6,8 @@
   <h2>Contactez-moi pour un devis gratuit</h2>
   <a href="mailto:alice@atelier-entrelacs.com" class="mail"><i class="fa fa-envelope-o fa-fw" aria-hidden="true"></i>&nbsp;alice@atelier-entrelacs.com</a>
 
-  <button id="active-modal" class="phone"><i class="fa fa fa-phone fa-fw" aria-hidden="true"></i>&nbsp;06 20 96 36 44</button>
-        <div id="modal" class="modal-container"> <!-- parte escura-->
+  <button id="active-modalphone" class="phone"><i class="fa fa fa-phone fa-fw" aria-hidden="true"></i>&nbsp;06 20 96 36 44</button>
+        <div id="modalphone" class="modalphone-container"> <!-- parte escura-->
            <div class="box">
                <button id="close"><i class="fa fa-times" aria-hidden="true"></i></button>
                 <a href="tel:+33620963644"><i class="fa fa-volume-control-phone fa-fw" aria-hidden="true"></i>&nbsp;appeler maintenant</a>
@@ -130,7 +130,7 @@
 </footer>
 
 <style>
-  .modal-container{
+  .modalphone-container{
     display: none;
     align-items: center;
     justify-content: center;
@@ -186,11 +186,11 @@ h3{
     border-radius: 5px;
 }
 
-.modal-container.display{
+.modalphone-container.display{
     display: flex;
 }
 
-@keyframes modal {
+@keyframes modalphone {
     from{
         opacity: 0;
         transform: translate3d(0, -60px, 0);
@@ -201,9 +201,9 @@ h3{
     }
 }
 .display .box{
-    animation: modal .3s;
+    animation: modalphone .3s;
 }
-#active-modal{
+#active-modalphone{
     font-size: 1.2em;
     width: 200px;
     height: 50px;
@@ -229,22 +229,22 @@ h3{
 </style>
 
 <script>
-  const modal = document.getElementById('modal')
-const active = document.getElementById('active-modal')
+  const modalphone = document.getElementById('modalphone')
+const active = document.getElementById('active-modalphone')
 
 
-const initModal = () => {
+const initmodalphone = () => {
 
-    modal.classList.add('display')
-    modal.addEventListener('click', (e) => {
-        if(e.target.id == 'modal' || e.target.id == 'close'){
-            modal.classList.remove('display')
+    modalphone.classList.add('display')
+    modalphone.addEventListener('click', (e) => {
+        if(e.target.id == 'modalphone' || e.target.id == 'close'){
+            modalphone.classList.remove('display')
         }
     })
 }
 
 
-active.addEventListener('click', initModal)
+active.addEventListener('click', initmodalphone)
 
 </script>
 
