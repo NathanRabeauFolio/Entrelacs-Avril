@@ -21,102 +21,32 @@
     display: flex;
     flex-direction: column;
     width: 50%;
-    a, button {
-      display: block!important;
+    a, #active-modal {
+      display: flex;
       padding: 1rem 3rem !important;
       font-family: var(--font-family-base);
-      font-size: 1.618125em!important;
+      font-size: 1.618125em !important;
       font-variation-settings: "wght" 340, "wdth" 75;
       background: url(../img/atelier-entrelacs-volutes-overlay.jpeg) center;
-      width: inherit !important;
-      color: white!important;
+      color: white !important;
       border: none !important;
-      border-radius: none!important;
-      margin-bottom: 1rem;
-    }
+      border-radius: none !important;
+      margin-bottom: 0.5em;
+      height: 7rem;
+      flex-direction: initial;
+      justify-content: space-between;
+      align-items: center;
+      border-radius: 3em;
+      .fa {transform: translateY(0.07em); 
+    }}
+    .mail{width: 13em !important;}
+    .phone{width: 8.5em !important;}
+    .insta{width: 7.15em !important}
+    .facebook{width: 7em !important}
   }
-
-  .modal-container{
-    display: none;
-    align-items: center;
-    justify-content: center;
-    width:100vw;
-    height:100vh;
-    background-color: #00000055;
-    position: fixed;
-    top:0;
-    left:0;
-    z-index: 2000;
-
+.local{
+  font-family: var(--font-family-base);
+  font-size: 0.793125em;
+  font-variation-settings: "wght" 590, "wdth" 100;
 }
-
-.box{
-    color:#242424;
-    padding:40px;
-    width:60%;
-    min-width: 300px;
-    background-color:#cecece ;
-    border: 2px solid #cecece;
-    text-align: center;
-    position: relative;
-    box-shadow: 0px 0px 0px 10px #707070;
-
-}
-h3{
-    font-size: 2em;
-}
-#close{
-    background-color: #707070;
-    position: absolute;
-    top:-10px;
-    right: -10px;
-    width: 25px;
-    height: 25px;
-    border: 2px solid #cecece;
-    border-radius: 50%;
-    color:#cecece;
-    cursor: pointer;
-}
-.button{
-
-}
-.button:hover{
-
-}
-.input{
-    font-size: 1.2em;
-    width: 90%;
-    height: 30px;
-    border: 1px solid #707070;
-    border-radius: 5px;
-}
-
-.modal-container.display{
-    display: flex;
-}
-
-@keyframes modal {
-    from{
-        opacity: 0;
-        transform: translate3d(0, -60px, 0);
-    }
-    to{
-        opacity: 1;
-        transform: translate3d(0, 0, 0);
-    }
-}
-.display .box{
-    animation: modal .3s;
-}
-#active-modal{
-    font-size: 1.2em;
-    width: 200px;
-    height: 50px;
-    border: 1px solid #707070;
-    border-radius: 5px;
-    color:#cecece;
-    background-color: #242424;
-}
-
-
 }
