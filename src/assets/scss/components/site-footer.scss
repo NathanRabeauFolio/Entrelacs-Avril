@@ -27,9 +27,13 @@
       font-family: var(--font-family-base);
       font-size: 1.618125em !important;
       font-variation-settings: "wght" 340, "wdth" 75;
-      background: url(../img/atelier-entrelacs-volutes-overlay.jpeg) center;
+      background: rgb(59,109,198);
+      background: -moz-linear-gradient(0deg, rgba(59,109,198,1) 0%, rgba(136,161,199,1) 100%);
+      background: -webkit-linear-gradient(0deg, rgba(59,109,198,1) 0%, rgba(136,161,199,1) 100%);
+      background: linear-gradient(0deg, rgba(59,109,198,1) 0%, rgba(136,161,199,1) 100%);
+      filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3b6dc6",endColorstr="#88a1c7",GradientType=1);
       color: white !important;
-      border: none !important;
+      border: solid #E89C42 0.115em;
       border-radius: none !important;
       margin-bottom: 0.5em;
       height: 7rem;
@@ -37,12 +41,31 @@
       justify-content: space-between;
       align-items: center;
       border-radius: 3em;
+      position: relative;
+      &::before{    position: absolute;
+        display: block;
+        content: "";
+        border-radius: 3em;
+        left: -0.25em;
+        top: -0.25em;
+        background: rgb(59,109,198);
+      background: -moz-linear-gradient(0deg, rgba(59,109,198,1) 0%, rgba(136,161,199,1) 100%);
+      background: -webkit-linear-gradient(0deg, rgba(59,109,198,1) 0%, rgba(136,161,199,1) 100%);
+      background: linear-gradient(0deg, rgba(59,109,198,1) 0%, rgba(136,161,199,1) 100%);
+      filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3b6dc6",endColorstr="#88a1c7",GradientType=1);
+        
+        /* border: solid 0.12em black; */
+        width: calc(100% + 0.5em);
+        height: calc(100% + 0.5em);
+        z-index: -1;
+      }
       .fa {transform: translateY(0.07em); 
     }}
     .mail{width: 13em !important;}
     .phone{width: 8.5em !important;}
     .insta{width: 7.15em !important}
-    .facebook{width: 7em !important}
+    .facebook{width: 7em !important};
+    .contact-save , .appel{width: 10.5em !important;}
   }
 .local{
   font-family: var(--font-family-base);

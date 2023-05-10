@@ -11,7 +11,8 @@
 <div id="modal" class="modal">
   <div class="modal-content">
     <span class="close">&times;</span>
-    <p>This is the modal content.</p>
+    <a href="tel:+33620963644" class="appel"><i class="fa fa-volume-control-phone" aria-hidden="true"></i>&nbsp;Appeler maintenant</a>
+    <a href="./assets/atelier-entrelacs-vcard.vcf" download class="contact-save"><i class="fa fa-address-card" aria-hidden="true"></i>&nbsp;enregistrer contact</a>
   </div>
 </div>
 
@@ -166,6 +167,7 @@ window.onclick = function(event) {
   height: 100%;
   overflow: auto;
   background-color: rgba(0, 0, 0, 0.4);
+
 }
 
 /* Modal Content */
@@ -175,6 +177,9 @@ window.onclick = function(event) {
   padding: 20px;
   border: 1px solid #888;
   width: 80%;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 /* The Close Button */
