@@ -25,8 +25,8 @@
       display: flex;
       padding: 1rem 3rem !important;
       font-family: var(--font-family-base);
-      font-size: 1.618125em !important;
-      font-variation-settings: "wght" 340, "wdth" 75;
+      font-size: .793125em!important;
+  font-variation-settings: "wght" 590,"wdth" 100;
       background: rgb(59,109,198);
       background: -moz-linear-gradient(0deg, rgba(59,109,198,1) 0%, rgba(136,161,199,1) 100%);
       background: -webkit-linear-gradient(0deg, rgba(59,109,198,1) 0%, rgba(136,161,199,1) 100%);
@@ -59,13 +59,14 @@
         height: calc(100% + 0.5em);
         z-index: -1;
       }
-      .fa {transform: translateY(0.07em); 
+      .fa {transform: translateY(0.07em);
+        font-size:2rem; 
     }}
-    .mail{width: 13em !important;}
-    .phone{width: 8.5em !important;}
-    .insta{width: 7.15em !important}
-    .facebook{width: 7em !important};
-    .contact-save , .appel{width: 10.5em !important;}
+    .mail{width: 20em !important;}
+    .phone{width: 12.5em !important;}
+    .insta{width: 11em !important}
+    .facebook{width: 10.5em !important};
+    .contact-save , .appel{width: 15.5em !important;}
   }
 .local{
   font-family: var(--font-family-base);
