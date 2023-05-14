@@ -2,7 +2,7 @@
 layout: base.njk
 section: home
 ---
-<script src="https://w.behold.so/widget.js" type="module"></script>
+
 <body>
 <div class="home-page">
   {# Hero #}
@@ -58,7 +58,25 @@ section: home
 </section>
 
   {#Insta #}
+ 	<div id="instafeed-container"></div>
+
+  <script src="https://cdn.jsdelivr.net/gh/stevenschobert/instafeed.js@2.0.0rc1/src/instafeed.min.js"></script>
+	<script type="text/javascript">
+	var userFeed = new Instafeed({
+		get: 'atelier_entrelacs',
+    limit:3,
+		target: "instafeed-container",
+    resolution: 'low_resolution',
+    
+    accessToken: 'IGQVJVdEZAxRENRR2dka2RuN3F1cGZACN3RQNXBxYnlHLVg0YUw2RDdMZAjZALdngxZAkRkN2ZA0LTNGY2xqZA3dJWDUycTBuV2RkZA3dRdHNVbERGVTVtNVhBUXE2Sy10MEhOc2oza2p3SWFaSXFLN29JWEJaNwZDZD'
+	});
+	userFeed.run();
+	</script>
+
+  {# 
 <figure data-behold-id="3bE8LB0sUoPPMIxdqmzc"></figure>
+<script src="https://w.behold.so/widget.js" type="module"></script>
+#}
 
 
 <script type="text/javascript">
