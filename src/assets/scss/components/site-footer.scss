@@ -3,12 +3,12 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  padding: 15px;
+  padding: 0 10%;
   box-sizing: border-box;
 
 
   @media (min-width: 1024px) {
-    padding: 15px 30px;
+    
   }
   #map {width:70vh; height:70vh; position: relative;
     overflow: hidden;
@@ -21,25 +21,26 @@
     display: flex;
     flex-direction: column;
     width: 50%;
+    padding: 0 0 0 5%;
     a, .btn-modal {
       display: flex;
       padding: 1rem 3rem !important;
       font-family: var(--font-family-base);
-      font-size: .793125em!important;
-  font-variation-settings: "wght" 590,"wdth" 100;
-      background: rgb(59,109,198);
-      background: -moz-linear-gradient(0deg, rgba(59,109,198,1) 0%, rgba(136,161,199,1) 100%);
-      background: -webkit-linear-gradient(0deg, rgba(59,109,198,1) 0%, rgba(136,161,199,1) 100%);
-      background: linear-gradient(0deg, rgba(59,109,198,1) 0%, rgba(136,161,199,1) 100%);
+      font-size: 0.793125em !important;
+      font-variation-settings: "wght" 590, "wdth" 100;
+      background: rgb(59, 109, 198);
+      background: -moz-linear-gradient(0deg, rgb(59, 109, 198) 0%, rgb(136, 161, 199) 100%);
+      background: -webkit-linear-gradient(0deg, rgb(59, 109, 198) 0%, rgb(136, 161, 199) 100%);
+      background: linear-gradient(0deg, rgb(59, 109, 198) 0%, rgb(136, 161, 199) 100%);
       filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3b6dc6",endColorstr="#88a1c7",GradientType=1);
       background-image: url(https://www.atelier-entrelacs.com/wp-content/uploads/Atelier-entrelacs-volutes-overlay.jpg);
-    background-size: 150% auto;
-    background-position: 0% 60%;
+      background-size: 150% auto;
+      background-position: 0% 60%;
       color: white !important;
       border: solid #E89C42 0.115em;
       border-radius: none !important;
-      margin-bottom: 0.5em;
-      height: 7rem;
+      margin-bottom: 1.25em;
+      height: 5.5rem;
       flex-direction: initial;
       justify-content: space-between;
       align-items: center;
@@ -66,9 +67,9 @@
         font-size:2rem; 
     }}
     .mail{width: 20em !important;}
-    .phone{width: 12.5em !important;}
-    .insta{width: 11em !important}
-    .facebook{width: 10.5em !important};
+    .phone{width: 13.5em !important}
+    .insta{width: 11.65em !important}
+    .facebook{width: 11em !important};
     .contact-save , .appel{width: 15.5em !important;}
   }
 .local{

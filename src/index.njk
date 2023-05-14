@@ -2,6 +2,7 @@
 layout: base.njk
 section: home
 ---
+<script src="https://w.behold.so/widget.js" type="module"></script>
 <body>
 <div class="home-page">
   {# Hero #}
@@ -29,35 +30,36 @@ section: home
 		{% include "partials/drawer.njk" %}
 
 <section>
+  <div class="col">
+    {% image
+        "src/assets/img/fauteuil01.png",
+        "flfl",
+        "(min-width: 1024px) 50vw, 100vw",
+        "img-col",
+        "eager"
+      %}
+  </div>
+  <article>
   <h2>Alice Jardillier</h2>
+  <h3>artisane tapissière d’ameublement<br>diplômée d'État</h3>
   <p>Je propose mes services de réfection de fauteuils (anciens ou récents) et de confection de rideaux et coussins.</p>
   <p>J’interviens à Rennes et en Bretagne.</p>
   <p>Contactez-moi pour obtenir un devis gratuit. Je suis à l’écoute pour vous proposer une offre sur-mesure, adaptée à vos goûts et votre cadre de vie.</p>
+  </article>
+  <div class="col">
+    {% image
+        "src/assets/img/atelier-1.png",
+        "flfl",
+        "(min-width: 1024px) 50vw, 100vw",
+        "img-col",
+        "eager"
+      %}
+  </div>
 </section>
 
   {#Insta #}
 <figure data-behold-id="3bE8LB0sUoPPMIxdqmzc"></figure>
-<script src="https://w.behold.so/widget.js" type="module"></script>
-  {# Projects #}
-  <div class="list-header">
-    <h2 class="list-header__title">Projects</h2>
-    <a class="btn btn--outline btn--sm" href="/projects">View All</a>
-  </div>
-  {% from "macros/projectlist.njk" import projectlist %}
-  {{ projectlist(projects = collections.project | reverse) }}
 
-  {# Articles #}
-  <div class="list-header">
-    <h2 class="list-header__title">Articles</h2>
-    <a class="btn btn--outline btn--sm" href="/blog">View All</a>
-  </div>
-  {% from "macros/articlelist.njk" import articlelist %}
-  {{ articlelist(
-    articles = collections.post | reverse,
-    show_tags = false,
-    limit = 3
-  ) }}
-</div>
 
 <script type="text/javascript">
 </script>

@@ -4,6 +4,16 @@
   @media (min-width: 1024px) {
 
   }
+
+}
+
+.hero {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  overflow: hidden;
   h1{font-size: 3.75em;
     font-variation-settings: "wght" 622;
     text-align: center;
@@ -23,15 +33,6 @@
     margin: 0.35em 0 0 0;
     line-height: 1.4;
     }
-}
-
-.hero {
-  position: relative;
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-  overflow: hidden;
 }
 
 .hero__col {
@@ -113,4 +114,26 @@
 
 .list-header__title {
   margin: 0;
+}
+
+
+.home-page section{
+  display: flex;
+
+  .col{width: calc(50% - 30rem);
+    max-height: 90vh;
+    display: flex;
+    align-items: center;
+
+    img{position: relative;}
+  }
+  article{width: 60rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 5rem;
+}
+
+  .drawer__overlay {
+    position: absolute}
 }
