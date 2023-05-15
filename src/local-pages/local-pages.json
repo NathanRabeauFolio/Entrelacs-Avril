@@ -1,3 +1,4 @@
 {
-  "layout": "local-page.njk"
+  "layout": "local-page.njk",
+  "title": "{{ titlepage }}"
 }
