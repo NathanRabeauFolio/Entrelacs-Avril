@@ -322,24 +322,7 @@ width: 100%;
 .services, .propos{
 
   section{
-    display: flex;
-    flex-direction: row;
-    .col{
-      width: calc(50% - 30rem);
-      max-height: 90vh;
-      display: block;
-      picture{
-        img{object-fit: contain;
-          height: 80vh;}
-      }
-    }
-    article {
-      width: 60rem;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      margin: 0 5rem;
-    }
+   
     h2 {
       font-family: var(--font-family-base);
       font-size: 1.618125em;

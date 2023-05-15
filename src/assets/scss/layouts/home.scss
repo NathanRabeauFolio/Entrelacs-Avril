@@ -117,24 +117,40 @@
 }
 
 
-.home-page section, .local section{
+.home-page section, .local section, .services section, .propos section {
   display: flex;
+  flex-direction:column;
 
-  .col{width: calc(50% - 30rem);
+  .col{width: 100%;
     max-height: 90vh;
     display: flex;
     align-items: center;
-
-    img{position: relative;}
+    picture{margin: 0 auto;}
+    img{position: relative;
+      max-height: 90vh;
+      object-fit: contain;
+      width: 100%;}
+    &:nth-of-type(1){order: +1;}
   }
-  article{width: 60rem;
+  article{width: calc(100% - 10rem);
     display: flex;
     flex-direction: column;
     justify-content: center;
     margin: 0 5rem;
     h2, h3{text-align: center;}
+    
 }
 
   .drawer__overlay {
     position: absolute}
-}
+    @media (min-width: 1024px) {
+      flex-direction: row;
+      .col{width: calc(50% - 30rem);
+        max-height: 90vh;
+        display: flex;
+        align-items: center;
+        &:nth-of-type(1){order: 0;}
+
+    }
+    article{width: 60rem;}
+}}
