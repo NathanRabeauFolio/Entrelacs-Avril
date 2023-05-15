@@ -1,928 +1,1032 @@
 [
-    {
-      "ville": "Rennes",
-      "prox1": "Montgermont",
-      "prox2": "La Chapelle-des-Fougeretz",
-      "prox3": "Saint-Grégoire",
-      "prox4": "Vezin-le-Coquet",
-      "prox5": "Melesse"
-    },
-
-    {
-      "ville": "Montgermont",
-      "prox1": "La Chapelle-des-Fougeretz",
-      "prox2": "Pacé",
-      "prox3": "Saint-Grégoire",
-      "prox4": "Saint-Grégoire",
-      "prox5": "Melesse"
-    },
-
-    {
-      "ville": "La Chapelle-des-Fougeretz",
-      "prox1": "Montgermont",
-      "prox2": "Pacé",
-      "prox3": "Saint-Grégoire",
-      "prox4": "La Mézière",
-      "prox5": "Melesse"
-    },
-
-    {
-      "ville": "Saint-Grégoire",
-      "prox1": "Montgermont",
-      "prox2": "La Chapelle-des-Fougeretz",
-      "prox3": "Melesse",
-      "prox4": "Pacé",
-      "prox5": "Betton"
-    },
-
-    {
-      "ville": "Vezin-le-Coquet",
-      "prox1": "Pacé",
-      "prox2": "Le Rheu",
-      "prox3": "L'Hermitage",
-      "prox4": "Montgermont",
-      "prox5": "Saint-Gilles"
-    },
-
-    {
-      "ville": "Melesse",
-      "prox1": "Montreuil-le-Gast",
-      "prox2": "La Mézière",
-      "prox3": "Saint-Germain-sur-Ille",
-      "prox4": "Chevaigné",
-      "prox5": "La Chapelle-des-Fougeretz"
-    },
-
-    {
-      "ville": "La Mézière",
-      "prox1": "Gévezé",
-      "prox2": "Melesse",
-      "prox3": "Montreuil-le-Gast",
-      "prox4": "Vignoc",
-      "prox5": "La Chapelle-des-Fougeretz"
-    },
-
-    {
-      "ville": "Thorigné-Fouillard",
-      "prox1": "Acigné",
-      "prox2": "Cesson-Sévigné",
-      "prox3": "Noyal-sur-Vilaine",
-      "prox4": "Chevaigné",
-      "prox5": "Liffré"
-    },
-
-    {
-      "ville": "Gévezé",
-      "prox1": "Vignoc",
-      "prox2": "La Mézière",
-      "prox3": "Langouet",
-      "prox4": "Parthenay-de-Bretagne",
-      "prox5": "Saint-Gondran"
-    },
-
-    {
-      "ville": "Cesson-Sévigné",
-      "prox1": "Thorigné-Fouillard",
-      "prox2": "Chantepie",
-      "prox3": "Acigné",
-      "prox4": "Noyal-sur-Vilaine",
-      "prox5": "Brécé"
-    },
-
-    {
-      "ville": "Betton",
-      "prox1": "Chevaigné",
-      "prox2": "Melesse",
-      "prox3": "Mouazé",
-      "prox4": "Saint-Grégoire",
-      "prox5": "Saint-Sulpice-la-Forêt"
-    },
-
-    {
-      "ville": "Saint-Gilles",
-      "prox1": "Clayes",
-      "prox2": "Parthenay-de-Bretagne",
-      "prox3": "Pacé",
-      "prox4": "L'Hermitage",
-      "prox5": "Romillé"
-    },
-
-    {
-      "ville": "Vignoc",
-      "prox1": "Langouet",
-      "prox2": "Gévezé",
-      "prox3": "Montreuil-le-Gast",
-      "prox4": "Saint-Gondran",
-      "prox5": "La Mézière"
-    },
-
-    {
-      "ville": "Montreuil-le-Gast",
-      "prox1": "Vignoc",
-      "prox2": "Melesse",
-      "prox3": "La Mézière",
-      "prox4": "Saint-Germain-sur-Ille",
-      "prox5": "Saint-Gondran"
-    },
-
-    {
-      "ville": "Clayes",
-      "prox1": "Parthenay-de-Bretagne",
-      "prox2": "Saint-Gilles",
-      "prox3": "Romillé",
-      "prox4": "Pleumeleuc",
-      "prox5": "Pacé"
-    },
-
-    {
-      "ville": "Chantepie",
-      "prox1": "Cesson-Sévigné",
-      "prox2": "Noyal-Châtillon-sur-Seiche",
-      "prox3": "Vern-sur-Seiche",
-      "prox4": "Thorigné-Fouillard",
-      "prox5": "Noyal-sur-Vilaine"
-    },
-
-    {
-      "ville": "Noyal-Châtillon-sur-Seiche",
-      "prox1": "Vern-sur-Seiche",
-      "prox2": "Saint-Erblon",
-      "prox3": "Saint-Armel",
-      "prox4": "Chartres-de-Bretagne",
-      "prox5": "Pont-Péan"
-    },
-
-    {
-      "ville": "Acigné",
-      "prox1": "Noyal-sur-Vilaine",
-      "prox2": "Thorigné-Fouillard",
-      "prox3": "Brécé",
-      "prox4": "Servon-sur-Vilaine",
-      "prox5": "Cesson-Sévigné"
-    },
-
-    {
-      "ville": "L'Hermitage",
-      "prox1": "Vezin-le-Coquet",
-      "prox2": "Saint-Gilles",
-      "prox3": "Le Rheu",
-      "prox4": "La Chapelle-Thouarault",
-      "prox5": "Breteil"
-    },
-
-    {
-      "ville": "Chevaigné",
-      "prox1": "Mouazé",
-      "prox2": "Saint-Sulpice-la-Forêt",
-      "prox3": "Melesse",
-      "prox4": "Saint-Aubin-d'Aubigné",
-      "prox5": "Saint-Germain-sur-Ille"
-    },
-    
-    {
-      "ville": "Saint-Jacques-de-la-Lande",
-      "prox1": "Chartres-de-Bretagne",
-      "prox2": "Chavagne",
-      "prox3": "Bruz",
-      "prox4": "Noyal-Châtillon-sur-Seiche",
-      "prox5": "Pont-Péan"
-    },
-
-    {
-      "ville": "Le Rheu",
-      "prox1": "Vezin-le-Coquet",
-      "prox2": "L'Hermitage",
-      "prox3": "Pacé",
-      "prox4": "Cintré",
-      "prox5": "Chavagne"
-    },
-
-    {
-      "ville": "Chartres-de-Bretagne",
-      "prox1": "Chavagne",
-      "prox2": "Pont-Péan",
-      "prox3": "Saint-Jacques-de-la-Lande",
-      "prox4": "Bruz",
-      "prox5": "Saint-Erblon"
-    },
-
-    {
-      "ville": "Montfort-sur-Meu",
-      "prox1": "La Nouaye",
-      "prox2": "Breteil",
-      "prox3": "Bédée",
-      "prox4": "Saint-Uniac",
-      "prox5": "Pleumeleuc"
-    },
-
-    {
-      "ville": "Noyal-sur-Vilaine",
-      "prox1": "Brécé",
-      "prox2": "Acigné",
-      "prox3": "Servon-sur-Vilaine",
-      "prox4": "Domloup",
-      "prox5": "Thorigné-Fouillard"
-    },
-
-    {
-      "ville": "Parthenay-de-Bretagne",
-      "prox1": "Clayes",
-      "prox2": "Saint-Gilles",
-      "prox3": "Romillé",
-      "prox4": "Gévezé",
-      "prox5": "Pleumeleuc"
-    },
-
-    {
-      "ville": "Mouazé",
-      "prox1": "Saint-Sulpice-la-Forêt",
-      "prox2": "Chasné-sur-Illet",
-      "prox3": "Chevaigné",
-      "prox4": "Saint-Aubin-d'Aubigné",
-      "prox5": "Saint-Germain-sur-Ille"
-    },
-
-    {
-      "ville": "Saint-Symphorien",
-      "prox1": "Saint-Brieuc-des-Iffs",
-      "prox2": "Saint-Gondran",
-      "prox3": "Hédé-Bazouges",
-      "prox4": "Les Iffs",
-      "prox5": "Tinténiac"
-    },
-
-    {
-      "ville": "Liffré",
-      "prox1": "Chasné-sur-Illet",
-      "prox2": "Gosné",
-      "prox3": "Saint-Sulpice-la-Forêt",
-      "prox4": "Ercé-près-Liffré",
-      "prox5": "La Bouëxière"
-    },
-
-    {
-      "ville": "Bédée",
-      "prox1": "Pleumeleuc",
-      "prox2": "La Nouaye",
-      "prox3": "Breteil",
-      "prox4": "Saint-Gilles",
-      "prox5": "Romillé"
-    },
-    
-    {
-      "ville": "Saint-Sulpice-la-Forêt",
-      "prox1": " Mouazé",
-      "prox2": "Chasné-sur-Illet",
-      "prox3": "Chevaigné",
-      "prox4": "Liffré",
-      "prox5": "Saint-Aubin-d'Aubigné"
-    },
-    
-    {
-      "ville": "Saint-Gondran",
-      "prox1": "Langouet",
-      "prox2": "La Chapelle-Chaussée",
-      "prox3": "Langan",
-      "prox4": "Saint-Symphorien",
-      "prox5": "Saint-Brieuc-des-Iffs"
-    },
-
-    {
-      "ville": "Hédé-Bazouges",
-      "prox1": "Saint-Symphorien",
-      "prox2": "Saint-Gondran",
-      "prox3": "Langouet",
-      "prox4": "Saint-Brieuc-des-Iffs",
-      "prox5": "Tinténiac"
-    },
-    
-    {
-      "ville": "Brécé",
-      "prox1": "Noyal-sur-Vilaine",
-      "prox2": "Servon-sur-Vilaine",
-      "prox3": "Acigné",
-      "prox4": "Châteaubourg",
-      "prox5": "Domloup"
-    },
-    
-    {
-      "ville": "Romillé",
-      "prox1": "Langan",
-      "prox2": "Clayes",
-      "prox3": "Pleumeleuc",
-      "prox4": "Parthenay-de-Bretagne",
-      "prox5": "Irodouër"
-    },
-
-    {
-      "ville": "Langouet",
-      "prox1": "Saint-Gondran",
-      "prox2": "Langan",
-      "prox3": "La Chapelle-Chaussée",
-      "prox4": "Vignoc",
-      "prox5": "Gévezé"
-    },
-
-    {
-      "ville": "Saint-Aubin-d'Aubigné",
-      "prox1": "Andouillé-Neuville",
-      "prox2": "Chasné-sur-Illet",
-      "prox3": "Aubigné",
-      "prox4": "Mouazé",
-      "prox5": "Saint-Germain-sur-Ille"
-    },
-
-    {
-      "ville": "Pleumeleuc",
-      "prox1": "Bédée",
-      "prox2": "Romillé",
-      "prox3": "Clayes",
-      "prox4": "La Nouaye",
-      "prox5": "Saint-Gilles"
-    },
-
-    {
-      "ville": "Saint-Germain-sur-Ille",
-      "prox1": "Saint-Médard-sur-Ille",
-      "prox2": "Montreuil-le-Gast",
-      "prox3": "Melesse",
-      "prox4": "Mouazé",
-      "prox5": "Saint-Aubin-d'Aubigné"
-    },
-
-    {
-      "ville": "Saint-Brieuc-des-Iffs",
-      "prox1": "Les Iffs",
-      "prox2": "Saint-Symphorien",
-      "prox3": "La Chapelle-Chaussée",
-      "prox4": "Saint-Gondran",
-      "prox5": "Langouet"
-    },
-
-    {
-      "ville": "Vern-sur-Seiche",
-      "prox1": "Chavagne",
-      "prox2": "Saint-Armel",
-      "prox3": "Nouvoitou",
-      "prox4": "Corps-Nuds",
-      "prox5": "Bourgbarré"
-    },
-
-    {
-      "ville": "Pont-Péan",
-      "prox1": "Laillé",
-      "prox2": "Saint-Erblon",
-      "prox3": "Orgères",
-      "prox4": "Bruz",
-      "prox5": "Chavagne"
-    },
-
-    {
-      "ville": "La Chapelle-Thouarault",
-      "prox1": "Cintré",
-      "prox2": "Breteil",
-      "prox3": "L'Hermitage",
-      "prox4": "Saint-Gilles",
-      "prox5": "Talensac"
-    },
-
-    {
-      "ville": "Tinténiac",
-      "prox1": "Québriac",
-      "prox2": "Saint-Symphorien",
-      "prox3": "Saint-Brieuc-des-Iffs",
-      "prox4": "La Baussaine",
-      "prox5": "Trimer"
-    },
-
-    {
-      "ville": "Mordelles",
-      "prox1": "Bréal-sous-Montfort",
-      "prox2": "Cintré",
-      "prox3": "Chavagne",
-      "prox4": "Le Verger",
-      "prox5": "Saint-Thurial"
-    },
-
-    {
-      "ville": "Chavagne",
-      "prox1": "Mordelles",
-      "prox2": "Bréal-sous-Montfort",
-      "prox3": "Goven",
-      "prox4": "Saint-Jacques-de-la-Lande",
-      "prox5": "Le Rheu"
-    },
-
-    {
-      "ville": "La Chapelle-Chaussée",
-      "prox1": "Saint-Gondran",
-      "prox2": "Langan",
-      "prox3": "Langouet",
-      "prox4": "Les Iffs",
-      "prox5": "Saint-Brieuc-des-Iffs"
-    },
-
-    {
-      "ville": "Servon-sur-Vilaine",
-      "prox1": "Brécé",
-      "prox2": "Châteaubourg",
-      "prox3": "Noyal-sur-Vilaine",
-      "prox4": "Acigné",
-      "prox5": "La Bouëxière"
-    },
-
-    {
-      "ville": "Breteil",
-      "prox1": "La Chapelle-Thouarault",
-      "prox2": "Bédée",
-      "prox3": "La Nouaye",
-      "prox4": "Talensac",
-      "prox5": "Saint-Gilles"
-    },
-
-    {
-      "ville": "Saint-Erblon",
-      "prox1": "Bourgbarré",
-      "prox2": "Chavagne",
-      "prox3": "Saint-Armel",
-      "prox4": "Orgères",
-      "prox5": "Pont-Péan"
-    },
-
-    {
-      "ville": "Saint-Armel",
-      "prox1": "Bourgbarré",
-      "prox2": "Vern-sur-Seiche",
-      "prox3": "Corps-Nuds",
-      "prox4": "Saint-Erblon",
-      "prox5": "Chavagne"
-    },
-
-    {
-      "ville": "Gosné",
-      "prox1": "Ercé-près-Liffré",
-      "prox2": "Liffré",
-      "prox3": "Chasné-sur-Illet",
-      "prox4": "Saint-Aubin-du-Cormier",
-      "prox5": "Mézières-sur-Couesnon"
-    },
-
-    {
-      "ville": "Ercé-près-Liffré",
-      "prox1": "Chasné-sur-Illet",
-      "prox2": "Gosné",
-      "prox3": "Gahard",
-      "prox4": "Saint-Aubin-d'Aubigné",
-      "prox5": "Liffré"
-    },
-
-    {
-      "ville": "Guipel",
-      "prox1": "Hédé-Bazouges",
-      "prox2": "Montreuil-le-Gast",
-      "prox3": "Saint-Médard-sur-Ille",
-      "prox4": "Feins",
-      "prox5": "Aubigné"
-    },
-
-    {
-      "ville": "Chasné-sur-Illet",
-      "prox1": "Saint-Aubin-d'Aubigné",
-      "prox2": "Mouazé",
-      "prox3": "Ercé-près-Liffré",
-      "prox4": "Saint-Sulpice-la-Forêt",
-      "prox5": "Liffré"
-    },
-
-    {
-      "ville": "Langan",
-      "prox1": "Saint-Gondran",
-      "prox2": "La Chapelle-Chaussée",
-      "prox3": "Langouet",
-      "prox4": "Romillé",
-      "prox5": "Saint-Brieuc-des-Iffs"
-    },
-
-    {
-      "ville": "Bruz",
-      "prox1": "Pont-Péan",
-      "prox2": "Chartres-de-Bretagne",
-      "prox3": "Saint-Jacques-de-la-Lande",
-      "prox4": "Saint-Erblon",
-      "prox5": "Laillé"
-    },
-
-    {
-      "ville": "Pacé",
-      "prox1": "Vezin-le-Coquet",
-      "prox2": "Montgermont",
-      "prox3": "Saint-Gilles",
-      "prox4": "La Chapelle-des-Fougeretz",
-      "prox5": "Clayes"
-    },
-
-    {
-      "ville": "Bréal-sous-Montfort",
-      "prox1": "Mordelles",
-      "prox2": "Goven",
-      "prox3": "Saint-Thurial",
-      "prox4": "Le Verger",
-      "prox5": "Chavagne"
-    },
-
-    {
-      "ville": "Orgères",
-      "prox1": "Bourgbarré",
-      "prox2": "Saint-Erblon",
-      "prox3": "Chanteloup",
-      "prox4": "Pont-Péan",
-      "prox5": "Laillé"
-    },
-
-    {
-      "ville": "Andouillé-Neuville",
-      "prox1": "Aubigné",
-      "prox2": "Saint-Aubin-d'Aubigné",
-      "prox3": "Gahard",
-      "prox4": "Feins",
-      "prox5": "Chasné-sur-Illet"
-    },
-
-    {
-      "ville": "La Baussaine",
-      "prox1": "Trimer",
-      "prox2": "Longaulnay",
-      "prox3": "Cardroc",
-      "prox4": "Tinténiac",
-      "prox5": "Les Iffs"
-    },
-
-    {
-      "ville": "Les Iffs",
-      "prox1": "Saint-Brieuc-des-Iffs",
-      "prox2": "Cardroc",
-      "prox3": "La Chapelle-Chaussée",
-      "prox4": "Saint-Symphorien",
-      "prox5": "Saint-Gondran"
-    },
-
-    {
-      "ville": "Domloup",
-      "prox1": "Nouvoitou",
-      "prox2": "Châteaugiron",
-      "prox3": "Noyal-sur-Vilaine",
-      "prox4": "Brécé",
-      "prox5": "Vern-sur-Seiche"
-    },
-
-    {
-      "ville": "Cintré",
-      "prox1": "La Chapelle-Thouarault",
-      "prox2": "Talensac",
-      "prox3": "L'Hermitage",
-      "prox4": "Mordelles",
-      "prox5": "Breteil"
-    },
-
-    {
-      "ville": "La Nouaye",
-      "prox1": "Bédée",
-      "prox2": "Saint-Uniac",
-      "prox3": "Breteil",
-      "prox4": "Pleumeleuc",
-      "prox5": "Montfort-sur-Meu"
-    },
-
-    {
-      "ville": "Châteaubourg",
-      "prox1": "Servon-sur-Vilaine",
-      "prox2": "Domagné",
-      "prox3": "Saint-Didier",
-      "prox4": "Brécé",
-      "prox5": "Noyal-sur-Vilaine"
-    },
-
-    {
-      "ville": "Laillé",
-      "prox1": "Pont-Péan",
-      "prox2": "Orgères",
-      "prox3": "Guichen",
-      "prox4": "Crevin",
-      "prox5": "Chanteloup"
-    },
-
-    {
-      "ville": "Nouvoitou",
-      "prox1": "Domloup",
-      "prox2": "Vern-sur-Seiche",
-      "prox3": "Saint-Armel",
-      "prox4": "Châteaugiron",
-      "prox5": "Chavagne"
-    },
-
-    {
-      "ville": "Québriac",
-      "prox1": "Tinténiac",
-      "prox2": "Trimer",
-      "prox3": "Saint-Domineuc",
-      "prox4": "Saint-Symphorien",
-      "prox5": "La Baussaine"
-    },
-
-    {
-      "ville": "Saint-Médard-sur-Ille",
-      "prox1": "Aubigné",
-      "prox2": "Saint-Germain-sur-Ille",
-      "prox3": "Saint-Aubin-d'Aubigné",
-      "prox4": "Feins",
-      "prox5": "Andouillé-Neuville"
-    },
-
-    {
-      "ville": "Cardroc",
-      "prox1": "Les Iffs",
-      "prox2": "Miniac-sous-Bécherel",
-      "prox3": "La Chapelle-Chaussée",
-      "prox4": "Saint-Gondran",
-      "prox5": "Saint-Brieuc-des-Iffs"
-    },
-
-    {
-      "ville": "Aubigné",
-      "prox1": "Andouillé-Neuville",
-      "prox2": "Feins",
-      "prox3": "Saint-Médard-sur-Ille",
-      "prox4": "Saint-Aubin-d'Aubigné",
-      "prox5": "Saint-Germain-sur-Ille"
-    },
-
-    {
-      "ville": "Trimer",
-      "prox1": "La Baussaine",
-      "prox2": "Saint-Thual",
-      "prox3": "Tinténiac",
-      "prox4": "Saint-Domineuc",
-      "prox5": "Longaulnay"
-    },
-
-    {
-      "ville": "Montauban-de-Bretagne",
-      "prox1": "Saint-Uniac",
-      "prox2": "Bédée",
-      "prox3": "Pleumeleuc",
-      "prox4": "Irodouër",
-      "prox5": "La Nouaye"
-    },
-
-    {
-      "ville": "Saint-Aubin-du-Cormier",
-      "prox1": "Rives-du-Couesnon",
-      "prox2": "Gosné",
-      "prox3": "Mézières-sur-Couesnon",
-      "prox4": "Liffré",
-      "prox5": "La Bouëxière"
-    },
-
-    {
-      "ville": "Corps-Nuds",
-      "prox1": "Bourgbarré",
-      "prox2": "Chanteloup",
-      "prox3": "Saint-Armel",
-      "prox4": "Vern-sur-Seiche",
-      "prox5": "Chavagne"
-    },
-
-    {
-      "ville": "Saint-Domineuc",
-      "prox1": "Pleugueneuc",
-      "prox2": "Trimer",
-      "prox3": "Tinténiac",
-      "prox4": "Québriac",
-      "prox5": "Plesder"
-    },
-
-    {
-      "ville": "Châteaugiron",
-      "prox1": "Domloup",
-      "prox2": "Nouvoitou",
-      "prox3": "Noyal-sur-Vilaine",
-      "prox4": "Brécé",
-      "prox5": "Domagné"
-    },
-
-    {
-      "ville": "Guichen",
-      "prox1": "Lassy",
-      "prox2": "Laillé",
-      "prox3": "Goven",
-      "prox4": "Crevin",
-      "prox5": "Pont-Péan"
-    },
-    
-    {
-      "ville": "La Bouëxière",
-      "prox1": "Liffré",
-      "prox2": "Servon-sur-Vilaine",
-      "prox3": "Châteaubourg",
-      "prox4": "Brécé",
-      "prox5": "Acigné"
-    },
-
-    {
-      "ville": "Bourgbarré",
-      "prox1": "Chanteloup",
-      "prox2": "Corps-Nuds",
-      "prox3": "Saint-Erblon",
-      "prox4": "Saint-Armel",
-      "prox5": "Orgères"
-    },
-
-    {
-      "ville": "Goven",
-      "prox1": "Bréal-sous-Montfort",
-      "prox2": "Lassy",
-      "prox3": "Guichen",
-      "prox4": "Chavagne",
-      "prox5": "Saint-Thurial"
-    },
-
-    {
-      "ville": "Crevin",
-      "prox1": "Chanteloup",
-      "prox2": "Poligné",
-      "prox3": "Laillé",
-      "prox4": "Bourgbarré",
-      "prox5": "Orgères"
-    },
-
-    {
-      "ville": "Irodouër",
-      "prox1": "Miniac-sous-Bécherel",
-      "prox2": "Romillé",
-      "prox3": "Pleumeleuc",
-      "prox4": "Bédée",
-      "prox5": "Langan"
-    },
-
-    {
-      "ville": "Saint-Thurial",
-      "prox1": "Bréal-sous-Montfort",
-      "prox2": "Le Verger",
-      "prox3": "Mordelles",
-      "prox4": "Goven",
-      "prox5": "Lassy"
-    },
-
-    {
-      "ville": "Mézières-sur-Couesnon",
-      "prox1": "Rives-du-Couesnon",
-      "prox2": "Gahard",
-      "prox3": "Gosné",
-      "prox4": "Saint-Aubin-du-Cormier",
-      "prox5": "Liffré"
-    },
-
-    {
-      "ville": "Le Verger",
-      "prox1": "Talensac",
-      "prox2": "Bréal-sous-Montfort",
-      "prox3": "Saint-Thurial",
-      "prox4": "Mordelles",
-      "prox5": "Cintré"
-    },
-
-    {
-      "ville": "Saint-Thual",
-      "prox1": "Longaulnay",
-      "prox2": "Trimer",
-      "prox3": "La Baussaine",
-      "prox4": "Miniac-sous-Bécherel",
-      "prox5": "Saint-Domineuc"
-    },
-
-    {
-      "ville": "Longaulnay",
-      "prox1": "Saint-Thual",
-      "prox2": "La Baussaine",
-      "prox3": "Miniac-sous-Bécherel",
-      "prox4": "Trimer",
-      "prox5": "Cardroc"
-    },
-    
-    {
-      "ville": "Feins",
-      "prox1": "Aubigné",
-      "prox2": "Andouillé-Neuville",
-      "prox3": "Saint-Médard-sur-Ille",
-      "prox4": "Saint-Aubin-d'Aubigné",
-      "prox5": "Guipel"
-    },
-    
-    {
-      "ville": "Saint-Uniac",
-      "prox1": "Montauban-de-Bretagne",
-      "prox2": "La Nouaye",
-      "prox3": "Bédée",
-      "prox4": "Montfort-sur-Meu",
-      "prox5": "Pleumeleuc"
-    },
-
-    {
-      "ville": "Rives-du-Couesnon",
-      "prox1": "Saint-Aubin-du-Cormier",
-      "prox2": "Mézières-sur-Couesnon",
-      "prox3": "Gosné",
-      "prox4": "Liffré",
-      "prox5": "Ercé-près-Liffré"
-    },
-    
-    {
-      "ville": "Talensac",
-      "prox1": "Cintré",
-      "prox2": "Le Verger",
-      "prox3": "Breteil",
-      "prox4": "La Chapelle-Thouarault",
-      "prox5": "Bréal-sous-Montfort"
-    },
-
-    {
-      "ville": "Domagné",
-      "prox1": "Châteaubourg",
-      "prox2": "Saint-Didier",
-      "prox3": "Brécé",
-      "prox4": "Châteaugiron",
-      "prox5": "Noyal-sur-Vilaine"
-    },
-
-    {
-      "ville": "Saint-Didier",
-      "prox1": "Domagné",
-      "prox2": "Châteaubourg",
-      "prox3": "Brécé",
-      "prox4": "Noyal-sur-Vilaine",
-      "prox5": "Servon-sur-Vilaine"
-    },
-
-    {
-      "ville": "Pleugueneuc",
-      "prox1": "Saint-Domineuc",
-      "prox2": "Plesder",
-      "prox3": "Trimer",
-      "prox4": "Québriac",
-      "prox5": "Tinténiac"
-    },
-
-    {
-      "ville": "Chanteloup",
-      "prox1": "Bourgbarré",
-      "prox2": "Corps-Nuds",
-      "prox3": "Orgères",
-      "prox4": "Crevin",
-      "prox5": "Saint-Erblon"
-    },
-
-    {
-      "ville": "Lassy",
-      "prox1": "Goven",
-      "prox2": "Guichen",
-      "prox3": "Saint-Thurial",
-      "prox4": "Bréal-sous-Montfort",
-      "prox5": "Chavagne"
-    },
-    
-    {
-      "ville": "Gahard",
-      "prox1": "Ercé-près-Liffré",
-      "prox2": "Andouillé-Neuville",
-      "prox3": "Mézières-sur-Couesnon",
-      "prox4": "Saint-Aubin-d'Aubigné",
-      "prox5": "Chasné-sur-Illet"
-    },
-
-    {
-      "ville": "Poligné",
-      "prox1": "Crevin",
-      "prox2": "Laillé",
-      "prox3": "Orgères",
-      "prox4": "Pont-Péan",
-      "prox5": "Chanteloup"
-    },
-
-    {
-      "ville": "Miniac-sous-Bécherel",
-      "prox1": "Cardroc",
-      "prox2": "Longaulnay",
-      "prox3": "Irodouër",
-      "prox4": "Les Iffs",
-      "prox5": "La Chapelle-Chaussée"
-    },
-
-    {
-      "ville": "Plesder",
-      "prox1": "Pleugueneuc",
-      "prox2": "Saint-Domineuc",
-      "prox3": "Trimer",
-      "prox4": "Tinténiac",
-      "prox5": "Québriac"    
-      }
-  ]
+  {
+    "ville": "Rennes",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Rennes",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Rennes, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Montgermont",
+    "prox2": "La Chapelle-des-Fougeretz",
+    "prox3": "Saint-Grégoire",
+    "prox4": "Vezin-le-Coquet",
+    "prox5": "Melesse"
+  },
+  {
+    "ville": "Montgermont",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Montgermont",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Montgermont, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "La Chapelle-des-Fougeretz",
+    "prox2": "Pacé",
+    "prox3": "Saint-Grégoire",
+    "prox4": "Saint-Grégoire",
+    "prox5": "Melesse"
+  },
+  {
+    "ville": "La Chapelle-des-Fougeretz",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de La Chapelle-des-Fougeretz",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de La Chapelle-des-Fougeretz, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Montgermont",
+    "prox2": "Pacé",
+    "prox3": "Saint-Grégoire",
+    "prox4": "La Mézière",
+    "prox5": "Melesse"
+  },
+  {
+    "ville": "Saint-Grégoire",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Grégoire",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Grégoire, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Montgermont",
+    "prox2": "La Chapelle-des-Fougeretz",
+    "prox3": "Melesse",
+    "prox4": "Pacé",
+    "prox5": "Betton"
+  },
+  {
+    "ville": "Vezin-le-Coquet",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Vezin-le-Coquet",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Vezin-le-Coquet, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Pacé",
+    "prox2": "Le Rheu",
+    "prox3": "L'Hermitage",
+    "prox4": "Montgermont",
+    "prox5": "Saint-Gilles"
+  },
+  {
+    "ville": "Melesse",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Melesse",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Melesse, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Montreuil-le-Gast",
+    "prox2": "La Mézière",
+    "prox3": "Saint-Germain-sur-Ille",
+    "prox4": "Chevaigné",
+    "prox5": "La Chapelle-des-Fougeretz"
+  },
+  {
+    "ville": "La Mézière",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de La Mézière",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de La Mézière, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Gévezé",
+    "prox2": "Melesse",
+    "prox3": "Montreuil-le-Gast",
+    "prox4": "Vignoc",
+    "prox5": "La Chapelle-des-Fougeretz"
+  },
+  {
+    "ville": "Thorigné-Fouillard",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Thorigné-Fouillard",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Thorigné-Fouillard, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Acigné",
+    "prox2": "Cesson-Sévigné",
+    "prox3": "Noyal-sur-Vilaine",
+    "prox4": "Chevaigné",
+    "prox5": "Liffré"
+  },
+  {
+    "ville": "Gévezé",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Gévezé",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Gévezé, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Vignoc",
+    "prox2": "La Mézière",
+    "prox3": "Langouet",
+    "prox4": "Parthenay-de-Bretagne",
+    "prox5": "Saint-Gondran"
+  },
+  {
+    "ville": "Cesson-Sévigné",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Cesson-Sévigné",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Cesson-Sévigné, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Thorigné-Fouillard",
+    "prox2": "Chantepie",
+    "prox3": "Acigné",
+    "prox4": "Noyal-sur-Vilaine",
+    "prox5": "Brécé"
+  },
+  {
+    "ville": "Betton",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Betton",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Betton, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Chevaigné",
+    "prox2": "Melesse",
+    "prox3": "Mouazé",
+    "prox4": "Saint-Grégoire",
+    "prox5": "Saint-Sulpice-la-Forêt"
+  },
+  {
+    "ville": "Saint-Gilles",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Gilles",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Gilles, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Clayes",
+    "prox2": "Parthenay-de-Bretagne",
+    "prox3": "Pacé",
+    "prox4": "L'Hermitage",
+    "prox5": "Romillé"
+  },
+  {
+    "ville": "Vignoc",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Vignoc",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Vignoc, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Langouet",
+    "prox2": "Gévezé",
+    "prox3": "Montreuil-le-Gast",
+    "prox4": "Saint-Gondran",
+    "prox5": "La Mézière"
+  },
+  {
+    "ville": "Montreuil-le-Gast",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Montreuil-le-Gast",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Montreuil-le-Gast, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Vignoc",
+    "prox2": "Melesse",
+    "prox3": "La Mézière",
+    "prox4": "Saint-Germain-sur-Ille",
+    "prox5": "Saint-Gondran"
+  },
+  {
+    "ville": "Clayes",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Clayes",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Clayes, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Parthenay-de-Bretagne",
+    "prox2": "Saint-Gilles",
+    "prox3": "Romillé",
+    "prox4": "Pleumeleuc",
+    "prox5": "Pacé"
+  },
+  {
+    "ville": "Chantepie",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Chantepie",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Chantepie, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Cesson-Sévigné",
+    "prox2": "Noyal-Châtillon-sur-Seiche",
+    "prox3": "Vern-sur-Seiche",
+    "prox4": "Thorigné-Fouillard",
+    "prox5": "Noyal-sur-Vilaine"
+  },
+  {
+    "ville": "Noyal-Châtillon-sur-Seiche",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Noyal-Châtillon-sur-Seiche",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Noyal-Châtillon-sur-Seiche, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Vern-sur-Seiche",
+    "prox2": "Saint-Erblon",
+    "prox3": "Saint-Armel",
+    "prox4": "Chartres-de-Bretagne",
+    "prox5": "Pont-Péan"
+  },
+  {
+    "ville": "Acigné",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Acigné",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Acigné, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Noyal-sur-Vilaine",
+    "prox2": "Thorigné-Fouillard",
+    "prox3": "Brécé",
+    "prox4": "Servon-sur-Vilaine",
+    "prox5": "Cesson-Sévigné"
+  },
+  {
+    "ville": "L'Hermitage",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de L'Hermitage",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de L'Hermitage, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Vezin-le-Coquet",
+    "prox2": "Saint-Gilles",
+    "prox3": "Le Rheu",
+    "prox4": "La Chapelle-Thouarault",
+    "prox5": "Breteil"
+  },
+  {
+    "ville": "Chevaigné",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Chevaigné",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Chevaigné, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Mouazé",
+    "prox2": "Saint-Sulpice-la-Forêt",
+    "prox3": "Melesse",
+    "prox4": "Saint-Aubin-d'Aubigné",
+    "prox5": "Saint-Germain-sur-Ille"
+  },
+  {
+    "ville": "Saint-Jacques-de-la-Lande",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Jacques-de-la-Lande",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Jacques-de-la-Lande, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Chartres-de-Bretagne",
+    "prox2": "Chavagne",
+    "prox3": "Bruz",
+    "prox4": "Noyal-Châtillon-sur-Seiche",
+    "prox5": "Pont-Péan"
+  },
+  {
+    "ville": "Le Rheu",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Le Rheu",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Le Rheu, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Vezin-le-Coquet",
+    "prox2": "L'Hermitage",
+    "prox3": "Pacé",
+    "prox4": "Cintré",
+    "prox5": "Chavagne"
+  },
+  {
+    "ville": "Chartres-de-Bretagne",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Chartres-de-Bretagne",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Chartres-de-Bretagne, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Chavagne",
+    "prox2": "Pont-Péan",
+    "prox3": "Saint-Jacques-de-la-Lande",
+    "prox4": "Bruz",
+    "prox5": "Saint-Erblon"
+  },
+  {
+    "ville": "Montfort-sur-Meu",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Montfort-sur-Meu",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Montfort-sur-Meu, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "La Nouaye",
+    "prox2": "Breteil",
+    "prox3": "Bédée",
+    "prox4": "Saint-Uniac",
+    "prox5": "Pleumeleuc"
+  },
+  {
+    "ville": "Noyal-sur-Vilaine",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Noyal-sur-Vilaine",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Noyal-sur-Vilaine, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Brécé",
+    "prox2": "Acigné",
+    "prox3": "Servon-sur-Vilaine",
+    "prox4": "Domloup",
+    "prox5": "Thorigné-Fouillard"
+  },
+  {
+    "ville": "Parthenay-de-Bretagne",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Parthenay-de-Bretagne",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Parthenay-de-Bretagne, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Clayes",
+    "prox2": "Saint-Gilles",
+    "prox3": "Romillé",
+    "prox4": "Gévezé",
+    "prox5": "Pleumeleuc"
+  },
+  {
+    "ville": "Mouazé",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Mouazé",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Mouazé, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Saint-Sulpice-la-Forêt",
+    "prox2": "Chasné-sur-Illet",
+    "prox3": "Chevaigné",
+    "prox4": "Saint-Aubin-d'Aubigné",
+    "prox5": "Saint-Germain-sur-Ille"
+  },
+  {
+    "ville": "Saint-Symphorien",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Symphorien",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Symphorien, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Saint-Brieuc-des-Iffs",
+    "prox2": "Saint-Gondran",
+    "prox3": "Hédé-Bazouges",
+    "prox4": "Les Iffs",
+    "prox5": "Tinténiac"
+  },
+  {
+    "ville": "Liffré",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Liffré",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Liffré, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Chasné-sur-Illet",
+    "prox2": "Gosné",
+    "prox3": "Saint-Sulpice-la-Forêt",
+    "prox4": "Ercé-près-Liffré",
+    "prox5": "La Bouëxière"
+  },
+  {
+    "ville": "Bédée",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Bédée",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Bédée, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Pleumeleuc",
+    "prox2": "La Nouaye",
+    "prox3": "Breteil",
+    "prox4": "Saint-Gilles",
+    "prox5": "Romillé"
+  },
+  {
+    "ville": "Saint-Sulpice-la-Forêt",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Sulpice-la-Forêt",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Sulpice-la-Forêt, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Mouazé",
+    "prox2": "Chasné-sur-Illet",
+    "prox3": "Chevaigné",
+    "prox4": "Liffré",
+    "prox5": "Saint-Aubin-d'Aubigné"
+  },
+  {
+    "ville": "Saint-Gondran",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Gondran",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Gondran, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Langouet",
+    "prox2": "La Chapelle-Chaussée",
+    "prox3": "Langan",
+    "prox4": "Saint-Symphorien",
+    "prox5": "Saint-Brieuc-des-Iffs"
+  },
+  {
+    "ville": "Hédé-Bazouges",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Hédé-Bazouges",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Hédé-Bazouges, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Saint-Symphorien",
+    "prox2": "Saint-Gondran",
+    "prox3": "Langouet",
+    "prox4": "Saint-Brieuc-des-Iffs",
+    "prox5": "Tinténiac"
+  },
+  {
+    "ville": "Brécé",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Brécé",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Brécé, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Noyal-sur-Vilaine",
+    "prox2": "Servon-sur-Vilaine",
+    "prox3": "Acigné",
+    "prox4": "Châteaubourg",
+    "prox5": "Domloup"
+  },
+  {
+    "ville": "Romillé",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Romillé",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Romillé, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Langan",
+    "prox2": "Clayes",
+    "prox3": "Pleumeleuc",
+    "prox4": "Parthenay-de-Bretagne",
+    "prox5": "Irodouër"
+  },
+  {
+    "ville": "Langouet",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Langouet",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Langouet, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Saint-Gondran",
+    "prox2": "Langan",
+    "prox3": "La Chapelle-Chaussée",
+    "prox4": "Vignoc",
+    "prox5": "Gévezé"
+  },
+  {
+    "ville": "Saint-Aubin-d'Aubigné",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Aubin-d'Aubigné",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Aubin-d'Aubigné, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Andouillé-Neuville",
+    "prox2": "Chasné-sur-Illet",
+    "prox3": "Aubigné",
+    "prox4": "Mouazé",
+    "prox5": "Saint-Germain-sur-Ille"
+  },
+  {
+    "ville": "Pleumeleuc",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Pleumeleuc",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Pleumeleuc, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Bédée",
+    "prox2": "Romillé",
+    "prox3": "Clayes",
+    "prox4": "La Nouaye",
+    "prox5": "Saint-Gilles"
+  },
+  {
+    "ville": "Saint-Germain-sur-Ille",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Germain-sur-Ille",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Germain-sur-Ille, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Saint-Médard-sur-Ille",
+    "prox2": "Montreuil-le-Gast",
+    "prox3": "Melesse",
+    "prox4": "Mouazé",
+    "prox5": "Saint-Aubin-d'Aubigné"
+  },
+  {
+    "ville": "Saint-Brieuc-des-Iffs",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Brieuc-des-Iffs",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Brieuc-des-Iffs, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Les Iffs",
+    "prox2": "Saint-Symphorien",
+    "prox3": "La Chapelle-Chaussée",
+    "prox4": "Saint-Gondran",
+    "prox5": "Langouet"
+  },
+  {
+    "ville": "Vern-sur-Seiche",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Vern-sur-Seiche",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Vern-sur-Seiche, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Chavagne",
+    "prox2": "Saint-Armel",
+    "prox3": "Nouvoitou",
+    "prox4": "Corps-Nuds",
+    "prox5": "Bourgbarré"
+  },
+  {
+    "ville": "Pont-Péan",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Pont-Péan",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Pont-Péan, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Laillé",
+    "prox2": "Saint-Erblon",
+    "prox3": "Orgères",
+    "prox4": "Bruz",
+    "prox5": "Chavagne"
+  },
+  {
+    "ville": "La Chapelle-Thouarault",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de La Chapelle-Thouarault",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de La Chapelle-Thouarault, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Cintré",
+    "prox2": "Breteil",
+    "prox3": "L'Hermitage",
+    "prox4": "Saint-Gilles",
+    "prox5": "Talensac"
+  },
+  {
+    "ville": "Tinténiac",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Tinténiac",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Tinténiac, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Québriac",
+    "prox2": "Saint-Symphorien",
+    "prox3": "Saint-Brieuc-des-Iffs",
+    "prox4": "La Baussaine",
+    "prox5": "Trimer"
+  },
+  {
+    "ville": "Mordelles",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Mordelles",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Mordelles, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Bréal-sous-Montfort",
+    "prox2": "Cintré",
+    "prox3": "Chavagne",
+    "prox4": "Le Verger",
+    "prox5": "Saint-Thurial"
+  },
+  {
+    "ville": "Chavagne",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Chavagne",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Chavagne, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Mordelles",
+    "prox2": "Bréal-sous-Montfort",
+    "prox3": "Goven",
+    "prox4": "Saint-Jacques-de-la-Lande",
+    "prox5": "Le Rheu"
+  },
+  {
+    "ville": "La Chapelle-Chaussée",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de La Chapelle-Chaussée",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de La Chapelle-Chaussée, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Saint-Gondran",
+    "prox2": "Langan",
+    "prox3": "Langouet",
+    "prox4": "Les Iffs",
+    "prox5": "Saint-Brieuc-des-Iffs"
+  },
+  {
+    "ville": "Servon-sur-Vilaine",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Servon-sur-Vilaine",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Servon-sur-Vilaine, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Brécé",
+    "prox2": "Châteaubourg",
+    "prox3": "Noyal-sur-Vilaine",
+    "prox4": "Acigné",
+    "prox5": "La Bouëxière"
+  },
+  {
+    "ville": "Breteil",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Breteil",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Breteil, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "La Chapelle-Thouarault",
+    "prox2": "Bédée",
+    "prox3": "La Nouaye",
+    "prox4": "Talensac",
+    "prox5": "Saint-Gilles"
+  },
+  {
+    "ville": "Saint-Erblon",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Erblon",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Erblon, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Bourgbarré",
+    "prox2": "Chavagne",
+    "prox3": "Saint-Armel",
+    "prox4": "Orgères",
+    "prox5": "Pont-Péan"
+  },
+  {
+    "ville": "Saint-Armel",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Armel",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Armel, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Bourgbarré",
+    "prox2": "Vern-sur-Seiche",
+    "prox3": "Corps-Nuds",
+    "prox4": "Saint-Erblon",
+    "prox5": "Chavagne"
+  },
+  {
+    "ville": "Gosné",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Gosné",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Gosné, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Ercé-près-Liffré",
+    "prox2": "Liffré",
+    "prox3": "Chasné-sur-Illet",
+    "prox4": "Saint-Aubin-du-Cormier",
+    "prox5": "Mézières-sur-Couesnon"
+  },
+  {
+    "ville": "Ercé-près-Liffré",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Ercé-près-Liffré",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Ercé-près-Liffré, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Chasné-sur-Illet",
+    "prox2": "Gosné",
+    "prox3": "Gahard",
+    "prox4": "Saint-Aubin-d'Aubigné",
+    "prox5": "Liffré"
+  },
+  {
+    "ville": "Guipel",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Guipel",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Guipel, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Hédé-Bazouges",
+    "prox2": "Montreuil-le-Gast",
+    "prox3": "Saint-Médard-sur-Ille",
+    "prox4": "Feins",
+    "prox5": "Aubigné"
+  },
+  {
+    "ville": "Chasné-sur-Illet",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Chasné-sur-Illet",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Chasné-sur-Illet, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Saint-Aubin-d'Aubigné",
+    "prox2": "Mouazé",
+    "prox3": "Ercé-près-Liffré",
+    "prox4": "Saint-Sulpice-la-Forêt",
+    "prox5": "Liffré"
+  },
+  {
+    "ville": "Langan",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Langan",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Langan, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Saint-Gondran",
+    "prox2": "La Chapelle-Chaussée",
+    "prox3": "Langouet",
+    "prox4": "Romillé",
+    "prox5": "Saint-Brieuc-des-Iffs"
+  },
+  {
+    "ville": "Bruz",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Bruz",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Bruz, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Pont-Péan",
+    "prox2": "Chartres-de-Bretagne",
+    "prox3": "Saint-Jacques-de-la-Lande",
+    "prox4": "Saint-Erblon",
+    "prox5": "Laillé"
+  },
+  {
+    "ville": "Pacé",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Pacé",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Pacé, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Vezin-le-Coquet",
+    "prox2": "Montgermont",
+    "prox3": "Saint-Gilles",
+    "prox4": "La Chapelle-des-Fougeretz",
+    "prox5": "Clayes"
+  },
+  {
+    "ville": "Bréal-sous-Montfort",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Bréal-sous-Montfort",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Bréal-sous-Montfort, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Mordelles",
+    "prox2": "Goven",
+    "prox3": "Saint-Thurial",
+    "prox4": "Le Verger",
+    "prox5": "Chavagne"
+  },
+  {
+    "ville": "Orgères",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Orgères",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Orgères, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Bourgbarré",
+    "prox2": "Saint-Erblon",
+    "prox3": "Chanteloup",
+    "prox4": "Pont-Péan",
+    "prox5": "Laillé"
+  },
+  {
+    "ville": "Andouillé-Neuville",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Andouillé-Neuville",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Andouillé-Neuville, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Aubigné",
+    "prox2": "Saint-Aubin-d'Aubigné",
+    "prox3": "Gahard",
+    "prox4": "Feins",
+    "prox5": "Chasné-sur-Illet"
+  },
+  {
+    "ville": "La Baussaine",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de La Baussaine",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de La Baussaine, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Trimer",
+    "prox2": "Longaulnay",
+    "prox3": "Cardroc",
+    "prox4": "Tinténiac",
+    "prox5": "Les Iffs"
+  },
+  {
+    "ville": "Les Iffs",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Les Iffs",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Les Iffs, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Saint-Brieuc-des-Iffs",
+    "prox2": "Cardroc",
+    "prox3": "La Chapelle-Chaussée",
+    "prox4": "Saint-Symphorien",
+    "prox5": "Saint-Gondran"
+  },
+  {
+    "ville": "Domloup",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Domloup",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Domloup, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Nouvoitou",
+    "prox2": "Châteaugiron",
+    "prox3": "Noyal-sur-Vilaine",
+    "prox4": "Brécé",
+    "prox5": "Vern-sur-Seiche"
+  },
+  {
+    "ville": "Cintré",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Cintré",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Cintré, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "La Chapelle-Thouarault",
+    "prox2": "Talensac",
+    "prox3": "L'Hermitage",
+    "prox4": "Mordelles",
+    "prox5": "Breteil"
+  },
+  {
+    "ville": "La Nouaye",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de La Nouaye",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de La Nouaye, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Bédée",
+    "prox2": "Saint-Uniac",
+    "prox3": "Breteil",
+    "prox4": "Pleumeleuc",
+    "prox5": "Montfort-sur-Meu"
+  },
+  {
+    "ville": "Châteaubourg",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Châteaubourg",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Châteaubourg, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Servon-sur-Vilaine",
+    "prox2": "Domagné",
+    "prox3": "Saint-Didier",
+    "prox4": "Brécé",
+    "prox5": "Noyal-sur-Vilaine"
+  },
+  {
+    "ville": "Laillé",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Laillé",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Laillé, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Pont-Péan",
+    "prox2": "Orgères",
+    "prox3": "Guichen",
+    "prox4": "Crevin",
+    "prox5": "Chanteloup"
+  },
+  {
+    "ville": "Nouvoitou",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Nouvoitou",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Nouvoitou, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Domloup",
+    "prox2": "Vern-sur-Seiche",
+    "prox3": "Saint-Armel",
+    "prox4": "Châteaugiron",
+    "prox5": "Chavagne"
+  },
+  {
+    "ville": "Québriac",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Québriac",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Québriac, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Tinténiac",
+    "prox2": "Trimer",
+    "prox3": "Saint-Domineuc",
+    "prox4": "Saint-Symphorien",
+    "prox5": "La Baussaine"
+  },
+  {
+    "ville": "Saint-Médard-sur-Ille",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Médard-sur-Ille",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Médard-sur-Ille, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Aubigné",
+    "prox2": "Saint-Germain-sur-Ille",
+    "prox3": "Saint-Aubin-d'Aubigné",
+    "prox4": "Feins",
+    "prox5": "Andouillé-Neuville"
+  },
+  {
+    "ville": "Cardroc",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Cardroc",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Cardroc, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Les Iffs",
+    "prox2": "Miniac-sous-Bécherel",
+    "prox3": "La Chapelle-Chaussée",
+    "prox4": "Saint-Gondran",
+    "prox5": "Saint-Brieuc-des-Iffs"
+  },
+  {
+    "ville": "Aubigné",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Aubigné",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Aubigné, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Andouillé-Neuville",
+    "prox2": "Feins",
+    "prox3": "Saint-Médard-sur-Ille",
+    "prox4": "Saint-Aubin-d'Aubigné",
+    "prox5": "Saint-Germain-sur-Ille"
+  },
+  {
+    "ville": "Trimer",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Trimer",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Trimer, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "La Baussaine",
+    "prox2": "Saint-Thual",
+    "prox3": "Tinténiac",
+    "prox4": "Saint-Domineuc",
+    "prox5": "Longaulnay"
+  },
+  {
+    "ville": "Montauban-de-Bretagne",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Montauban-de-Bretagne",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Montauban-de-Bretagne, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Saint-Uniac",
+    "prox2": "Bédée",
+    "prox3": "Pleumeleuc",
+    "prox4": "Irodouër",
+    "prox5": "La Nouaye"
+  },
+  {
+    "ville": "Saint-Aubin-du-Cormier",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Aubin-du-Cormier",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Aubin-du-Cormier, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Rives-du-Couesnon",
+    "prox2": "Gosné",
+    "prox3": "Mézières-sur-Couesnon",
+    "prox4": "Liffré",
+    "prox5": "La Bouëxière"
+  },
+  {
+    "ville": "Corps-Nuds",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Corps-Nuds",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Corps-Nuds, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Bourgbarré",
+    "prox2": "Chanteloup",
+    "prox3": "Saint-Armel",
+    "prox4": "Vern-sur-Seiche",
+    "prox5": "Chavagne"
+  },
+  {
+    "ville": "Saint-Domineuc",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Domineuc",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Domineuc, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Pleugueneuc",
+    "prox2": "Trimer",
+    "prox3": "Tinténiac",
+    "prox4": "Québriac",
+    "prox5": "Plesder"
+  },
+  {
+    "ville": "Châteaugiron",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Châteaugiron",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Châteaugiron, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Domloup",
+    "prox2": "Nouvoitou",
+    "prox3": "Noyal-sur-Vilaine",
+    "prox4": "Brécé",
+    "prox5": "Domagné"
+  },
+  {
+    "ville": "Guichen",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Guichen",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Guichen, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Lassy",
+    "prox2": "Laillé",
+    "prox3": "Goven",
+    "prox4": "Crevin",
+    "prox5": "Pont-Péan"
+  },
+  {
+    "ville": "La Bouëxière",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de La Bouëxière",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de La Bouëxière, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Liffré",
+    "prox2": "Servon-sur-Vilaine",
+    "prox3": "Châteaubourg",
+    "prox4": "Brécé",
+    "prox5": "Acigné"
+  },
+  {
+    "ville": "Bourgbarré",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Bourgbarré",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Bourgbarré, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Chanteloup",
+    "prox2": "Corps-Nuds",
+    "prox3": "Saint-Erblon",
+    "prox4": "Saint-Armel",
+    "prox5": "Orgères"
+  },
+  {
+    "ville": "Goven",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Goven",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Goven, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Bréal-sous-Montfort",
+    "prox2": "Lassy",
+    "prox3": "Guichen",
+    "prox4": "Chavagne",
+    "prox5": "Saint-Thurial"
+  },
+  {
+    "ville": "Crevin",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Crevin",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Crevin, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Chanteloup",
+    "prox2": "Poligné",
+    "prox3": "Laillé",
+    "prox4": "Bourgbarré",
+    "prox5": "Orgères"
+  },
+  {
+    "ville": "Irodouër",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Irodouër",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Irodouër, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Miniac-sous-Bécherel",
+    "prox2": "Romillé",
+    "prox3": "Pleumeleuc",
+    "prox4": "Bédée",
+    "prox5": "Langan"
+  },
+  {
+    "ville": "Saint-Thurial",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Thurial",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Thurial, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Bréal-sous-Montfort",
+    "prox2": "Le Verger",
+    "prox3": "Mordelles",
+    "prox4": "Goven",
+    "prox5": "Lassy"
+  },
+  {
+    "ville": "Mézières-sur-Couesnon",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Mézières-sur-Couesnon",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Mézières-sur-Couesnon, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Rives-du-Couesnon",
+    "prox2": "Gahard",
+    "prox3": "Gosné",
+    "prox4": "Saint-Aubin-du-Cormier",
+    "prox5": "Liffré"
+  },
+  {
+    "ville": "Le Verger",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Le Verger",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Le Verger, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Talensac",
+    "prox2": "Bréal-sous-Montfort",
+    "prox3": "Saint-Thurial",
+    "prox4": "Mordelles",
+    "prox5": "Cintré"
+  },
+  {
+    "ville": "Saint-Thual",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Thual",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Thual, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Longaulnay",
+    "prox2": "Trimer",
+    "prox3": "La Baussaine",
+    "prox4": "Miniac-sous-Bécherel",
+    "prox5": "Saint-Domineuc"
+  },
+  {
+    "ville": "Longaulnay",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Longaulnay",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Longaulnay, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Saint-Thual",
+    "prox2": "La Baussaine",
+    "prox3": "Miniac-sous-Bécherel",
+    "prox4": "Trimer",
+    "prox5": "Cardroc"
+  },
+  {
+    "ville": "Feins",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Feins",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Feins, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Aubigné",
+    "prox2": "Andouillé-Neuville",
+    "prox3": "Saint-Médard-sur-Ille",
+    "prox4": "Saint-Aubin-d'Aubigné",
+    "prox5": "Guipel"
+  },
+  {
+    "ville": "Saint-Uniac",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Uniac",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Uniac, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Montauban-de-Bretagne",
+    "prox2": "La Nouaye",
+    "prox3": "Bédée",
+    "prox4": "Montfort-sur-Meu",
+    "prox5": "Pleumeleuc"
+  },
+  {
+    "ville": "Rives-du-Couesnon",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Rives-du-Couesnon",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Rives-du-Couesnon, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Saint-Aubin-du-Cormier",
+    "prox2": "Mézières-sur-Couesnon",
+    "prox3": "Gosné",
+    "prox4": "Liffré",
+    "prox5": "Ercé-près-Liffré"
+  },
+  {
+    "ville": "Talensac",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Talensac",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Talensac, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Cintré",
+    "prox2": "Le Verger",
+    "prox3": "Breteil",
+    "prox4": "La Chapelle-Thouarault",
+    "prox5": "Bréal-sous-Montfort"
+  },
+  {
+    "ville": "Domagné",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Domagné",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Domagné, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Châteaubourg",
+    "prox2": "Saint-Didier",
+    "prox3": "Brécé",
+    "prox4": "Châteaugiron",
+    "prox5": "Noyal-sur-Vilaine"
+  },
+  {
+    "ville": "Saint-Didier",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Saint-Didier",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Saint-Didier, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Domagné",
+    "prox2": "Châteaubourg",
+    "prox3": "Brécé",
+    "prox4": "Noyal-sur-Vilaine",
+    "prox5": "Servon-sur-Vilaine"
+  },
+  {
+    "ville": "Pleugueneuc",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Pleugueneuc",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Pleugueneuc, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Saint-Domineuc",
+    "prox2": "Plesder",
+    "prox3": "Trimer",
+    "prox4": "Québriac",
+    "prox5": "Tinténiac"
+  },
+  {
+    "ville": "Chanteloup",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Chanteloup",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Chanteloup, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Bourgbarré",
+    "prox2": "Corps-Nuds",
+    "prox3": "Orgères",
+    "prox4": "Crevin",
+    "prox5": "Saint-Erblon"
+  },
+  {
+    "ville": "Lassy",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Lassy",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Lassy, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Goven",
+    "prox2": "Guichen",
+    "prox3": "Saint-Thurial",
+    "prox4": "Bréal-sous-Montfort",
+    "prox5": "Chavagne"
+  },
+  {
+    "ville": "Gahard",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Gahard",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Gahard, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Ercé-près-Liffré",
+    "prox2": "Andouillé-Neuville",
+    "prox3": "Mézières-sur-Couesnon",
+    "prox4": "Saint-Aubin-d'Aubigné",
+    "prox5": "Chasné-sur-Illet"
+  },
+  {
+    "ville": "Poligné",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Poligné",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Poligné, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Crevin",
+    "prox2": "Laillé",
+    "prox3": "Orgères",
+    "prox4": "Pont-Péan",
+    "prox5": "Chanteloup"
+  },
+  {
+    "ville": "Miniac-sous-Bécherel",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Miniac-sous-Bécherel",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Miniac-sous-Bécherel, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Cardroc",
+    "prox2": "Longaulnay",
+    "prox3": "Irodouër",
+    "prox4": "Les Iffs",
+    "prox5": "La Chapelle-Chaussée"
+  },
+  {
+    "ville": "Plesder",
+    "title": "Atelier Entrelacs, tapisserie d'ameublement proche de Plesder",
+    "descr": "L'Atelier Entrelacs, votre spécialiste en tapisserie d'ameublement près de Plesder, offre des services de réfection et création de fauteuils, rideaux et coussins. Nous proposons des solutions sur mesure pour la restauration de sièges, la confection de rideaux, la vente de tissus de qualité et des services adaptés aux particuliers et professionnels. Engagés pour la préservation du patrimoine, nous redonnons une seconde vie à vos meubles. Contactez-nous pour une décoration intérieure unique qui vous ressemble.",
+    "prox1": "Pleugueneuc",
+    "prox2": "Saint-Domineuc",
+    "prox3": "Trimer",
+    "prox4": "Tinténiac",
+    "prox5": "Québriac"
+  }
+ ]
