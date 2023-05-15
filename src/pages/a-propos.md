@@ -12,7 +12,7 @@ eleventyNavigation:
 <section>
 <div class="col">
 
-![les outils du tapissier d'ameublement](/src/assets/img/portrait-3.jpg "Fern")
+![velours, convertible, relax, scandinave, accoudoirs, relaxation, contemporain, beige, assise, canapés, coloris, pouf, foncé, appoint, coussin, marron, canapé d angle, simili, tissu gris, gris clair, banquette, table basse, rotin, anthracite, microfibre, gris foncé, sofa, repose pieds, rembourrage, polyester, tabouret, confortables, clac, canapés et fauteuils, inclinable, fauteuil relax, simili cuir, cosy, crapaud, fauteuil crapaud, piètement, fauteuil design, taupe, velours bleu, bois massif, pieds en bois, synthétique, pivotant, pieds en métal](/src/assets/img/portrait-3.jpg "Fern")
 </div>
 
 <article>
@@ -26,7 +26,7 @@ Je suis installée à Rennes et j’interviens également dans le reste de la Br
 
 <div class="col">
 
-![les outils du tapissier d'ameublement](/src/assets/img/volt.png "Fern")
+![tissu beige, assises, fauteuil en tissu, gris anthracite, fauteuil de relaxation, polyuréthane, style scandinave, lin, fauteuil club, clic clac, convertibles, lounge, coloris gris, très confortable, fauteuil pivotant, revêtements, poufs, fauteuil en cuir, méridienne, déhoussable, cabriolet, moelleux, rocking, laqué, intérieurs, décoration intérieure, designers, tissu bleu, rocking chair, meubler, structure en bois, canapé convertible, canapé design, repose pied, teck, chaise longue, fauteuil relax électrique, meuble tv, extensible, grand confort, velours gris, mousse polyuréthane, cuir blanc, canapé et fauteuil, large gamme, chêne, canapé lit, louis xv, fauteuil scandinave](/src/assets/img/volt.png "Fern")
 </div>
 </section>
 <section>
@@ -45,13 +45,13 @@ Vous pouvez d’ores et déjà m’adresser par mail des photos détaillées de 
 
 <div class="col">
 
-![Fern](/src/assets/img/atelier-1.jpg "Fern")
+![fauteuil chesterfield, fauteuil cabriolet, fauteuils de relaxation, releveur, finitions, petit fauteuil, angle gauche, filter, turquoise, angle réversible, têtières, cuir synthétique, chesterfield, habitat et jardin, canapé d angle réversible, nordique, vieilli, canapé droit, style rétro, canapé en tissu, chateau d ax, design contemporain, bultex, design moderne, louis xvi, hêtre, cuir noir](/src/assets/img/atelier-1.jpg "Fern")
 </div>
 </section>
 <section>
 <div class="col">
 
-![les outils du tapissier d'ameublement](/src/assets/img/medaillon-2-1.jpg "Fern")
+![rapido, revêtement en tissu, fauteuil vintage, tiroirs, velours vert, gigogne, tissu velours, livraison incluse, roulettes, housses, moutarde, sobres, dossier haut, sofas, bleu canard, nombreux modèles, fauteuils design, épurées, chiné, cuir gris, acheter un fauteuil, nombreux coloris, salon design, canapé de relaxation, objets déco, garnissage, canapés d angle](/src/assets/img/medaillon-2-1.jpg "Fern")
 </div>
 
 <article>
@@ -84,6 +84,6 @@ Le tapissier d’ameublement s’inscrit dans cet héritage séculaire. Il méla
 
 <div class="col">
 
-![Fern](/src/assets/img/musee-2.jpg "Fern")
+![designer, banquettes, ensemble canapé, meubles de salon, canapés lits, ergonomique, commode, trois places, maison du convertible, mobilier design, velours noir, grand canapé, relevable, panoramique, vaisselier, massant, cuir marron, chaise de bureau, chambre d enfant, inclinables, chambre à coucher, sobre, canapés design, autour d une table, ressorts, fauteuil moderne, canapés en tissu](/src/assets/img/musee-2.jpg "Fern")
 </div>
 </section>

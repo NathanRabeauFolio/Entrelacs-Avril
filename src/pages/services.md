@@ -12,7 +12,7 @@ eleventyNavigation:
 <section>
 <div class="col">
 
-![les outils du tapissier d'ameublement](/src/assets/img/outils-traditionnels.png "Fern")
+![tentures, housses, ébéniste, tendu, réfection de fauteuils, literie, fauteuil voltaire, passementerie, restauration de meubles, murales, refaire un fauteuil, dégarnir, décorateurs, coussin, bergère, relooking, velours, cabriolet, tentures murales, retapisser un fauteuil, pouf, voilages, fauteuil crapaud, patine, fournitures, cours de tapisserie](/src/assets/img/outils-traditionnels.png "Fern")
 </div>
 
 <article>
@@ -28,13 +28,13 @@ Le choix du tissu et de la finition (cloutée, passepoil, galon…) est entière
 
 <div class="col">
 
-![Fern](/src/assets/img/fauteuil-trad.png "Fern")
+![décorateur, garnissage, canapés, tapissier décorateur, clous, restauré, louis xv, garnisseur, carcasse, tapissiers, habillage, artisan tapissier, décoration intérieure, rénover, ressorts, louis xvi, tapissier garnisseur, métiers d art, décoration d intérieur, garnitures, crapaud, intérieurs, meubles anciens, retapisser, artisanat, tous styles](/src/assets/img/fauteuil-trad.png "Fern")
 </div>
 </section>
 <section>
 <div class="col">
 
-![les outils du tapissier d'ameublement](/src/assets/img/fauteuil-contempo.png "Fern")
+![décors, designers, restaurer un fauteuil, ébénisterie, cannage, recouvrir un fauteuil, assises, textile, bridge, établir un devis, voltaire, fauteuils et canapés, plafonds, têtes de lit, banquette, artisanale, recouvrir, chauffeuse, tête de lit, sommiers, rideaux et voilages, tenture, restauration de fauteuils, chaise louis, sellier, ramponneau](/src/assets/img/fauteuil-contempo.png "Fern")
 </div>
 <article>
 
@@ -45,13 +45,13 @@ Le choix du tissu et de la finition (cloutée, passepoil, galon…) est entière
 </article>
 <div class="col">
 
-![les outils du tapissier d'ameublement](/src/assets/img/outils-contemporain.png "Fern")
+![mobiliers, tapisseries, garnir, clous de tapissier, accoudoirs, dma, lelièvre, semences, artisanal, style louis, tapissiers décorateurs, rembourrage, galons, art déco, marteau, sellerie, pour la restauration, aménagement intérieur, casamance, moquettes, tenture murale, agrafes, redonner vie, tissu d ameublement, éléments de décoration, tendus](/src/assets/img/outils-contemporain.png "Fern")
 </div>
 </section>
 <section>
 <div class="col">
 
-![les outils du tapissier d'ameublement](/src/assets/img/coussin-01.png "Fern")
+![seconde vie, ouate, confectionner, toile de jute, plis, bac professionnel, ciseaux, paillage, pierre frey, biche, papiers peints, peints, louis xiii, coudre, vieux fauteuil, murale, maître artisan, artisanat d art, nouvelle vie, muraux, sangles, literies, pied de biche, architectes, créer une entreprise, permanents](/src/assets/img/coussin-01.png "Fern")
 </div>
 <article>
 
@@ -65,13 +65,13 @@ Faites le choix de tissus créatifs et de qualité, adaptés à vos différents 
 </article>
 <div class="col">
 
-![les outils du tapissier d'ameublement](/src/assets/img/coussin-02.png "Fern")
+![architecte d intérieur, tapisser, toile blanche, poncer, atelier de tapisserie, dessus de lit, céramiques, éphémères, titre professionnel, neufs, fauteuil ancien, fauteuil club, mesure d audience, découpe, moquette, artisan d art, assemblages, habille, agencement, fauteuil louis xvi, napoléon, bloquer les cookies, refait, relooker, napoléon iii, cérusé](/src/assets/img/coussin-02.png "Fern")
 </div>
 </section>
 <section>
 <div class="col">
 
-![les outils du tapissier d'ameublement](/src/assets/img/napo.png "Fern")
+![plafonds tendus, ponçage, tringles, fauteuil bridge, clou, scandinave, cire, ouvrier, brocante, abat jour, métier d art, crapauds, piquage, rideau, toiles, teinte, accotoirs, union nationale, fauteuil en cuir, lin, traceurs, fauteuil de style, acajou, assise et dossier, histoire de l art, restaurateur](/src/assets/img/napo.png "Fern")
 </div>
 <article>
 
@@ -89,6 +89,6 @@ Je vous propose des textiles d’ameublement anti-feu répondant aux normes de q
 </article>
 <div class="col">
 
-![les outils du tapissier d'ameublement](/src/assets/img/banquette.jpg "Fern")
+![habileté, reconversion, coutures, manuelle, dextérité, sommier, accoudoir, restaurés, machine à coudre, chambre de métiers, couturier, techniques traditionnelles, couturière, tournevis, hêtre, petits clous, travail de qualité, architectes d intérieur, nouveau tissu, boiseries, compagnons du devoir, cabriolets, son métier, tringle, banquettes, bourbon lancy](/src/assets/img/banquette.jpg "Fern")
 </div>
 </section>
