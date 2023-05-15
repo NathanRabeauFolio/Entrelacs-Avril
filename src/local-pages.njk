@@ -1,6 +1,5 @@
 ---
-layout: 'base.njk'
-section: page
+
 pagination:
     data: pdv
     size: 1
@@ -9,10 +8,36 @@ sitemap:
   changefreq: monthly
   priority: 0.8
 permalink: "tapisserie-d-ameublement-proche-de-{{ pdv.ville | slug | safe }}/"
-title: "tapisserie-d-ameublement-proche-de-{{ pdv.ville | slug | safe }}/"
-metaDescription: "tapisserie-d-ameublement-proche-de-{{ pdv.ville | slug | safe }}/"
 ---
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ pdv.titlepage }}</title>
+  <meta name="description" content="{{ pdv.descr}}">
+  <link rel="dns-prefetch" href="https://identity.netlify.com">
 
+  {# Canonical URL #}
+  {% if canonical %}
+    <link rel="canonical" href="{{ canonical }}" />
+  {% endif %}
+
+  {# Third-party scripts #}
+  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+  {# Fonts #}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  {# CSS #}
+  <link rel="stylesheet" href="/assets/css/main.css">
+
+{# Fork Awesome #}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
+
+  {# Javascript #}
+  <script async src="/assets/js/main.bundle.js"></script>
+
+  </head>
 
 	<body>
 		{% include "partials/site-header.njk" %}

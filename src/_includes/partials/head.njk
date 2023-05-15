@@ -1,8 +1,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ renderData.title or title or metadata.title }}</title>
-  <meta name="description" content="{{ metaDescription or renderData.metaDescription or summary or metadata.description }}">
+  <title>{{ renderData.title or title or metadata.title or pdv.titlepage }}</title>
+  <meta name="description" content="{{ metaDescription or renderData.metaDescription or summary or metadata.description or pdv.descr}}">
   <link rel="dns-prefetch" href="https://identity.netlify.com">
 
   {# Canonical URL #}
