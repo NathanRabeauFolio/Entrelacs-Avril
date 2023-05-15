@@ -14,3 +14,4 @@ section: page
   {{ layoutContent | safe | replace("<p><picture>", "<picture>")
 						              | replace("</p></picture>", "</picture>") }}
 </div>
+{% include "partials/footer.njk" %}
