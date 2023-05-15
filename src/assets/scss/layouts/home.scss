@@ -117,7 +117,7 @@
 }
 
 
-.home-page section{
+.home-page section, .local section{
   display: flex;
 
   .col{width: calc(50% - 30rem);
@@ -132,6 +132,7 @@
     flex-direction: column;
     justify-content: center;
     margin: 0 5rem;
+    h2, h3{text-align: center;}
 }
 
   .drawer__overlay {

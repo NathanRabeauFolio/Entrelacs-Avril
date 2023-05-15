@@ -38,7 +38,7 @@ Le choix du tissu et de la finition (cloutée, passepoil, galon…) est entière
 </div>
 <article>
 
-#### Réfection de sièges méthode contemporaine
+### Réfection de sièges méthode contemporaine
 La méthode contemporaine consiste à utiliser des matériaux synthétiques (mousses, profilés, sangle élastique) pour réaliser la garniture des sièges.
 La garniture en mousse est indiquée pour les fauteuils contemporains. Les mousses Bultex ou Haute Résilience utilisées garantissent une durée de vie d’une quinzaine d’années à vos sièges (selon usage).
 Le choix du tissu et de la finition (cloutée, passepoil, galon…) est entièrement libre quelle que soit la méthode de réfection.
