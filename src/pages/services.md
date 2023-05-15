@@ -2,7 +2,7 @@
 title: Services
 layout: services.njk
 subtitle: ""
-metaDescription: This page is all about me
+metaDescription: Spécialiste de la réfection de sièges et décoration intérieure à Rennes, je propose une large gamme de services allant de la restauration de meubles anciens à la confection sur mesure de rideaux et coussins. Que vous soyez un particulier ou un professionnel, je vous accompagne dans vos projets de rénovation et de relooking de votre mobilier. Contactez-moi pour un devis gratuit.
 date: 2017-01-01T00:00:00.000Z
 permalink: /services/index.html
 eleventyNavigation:

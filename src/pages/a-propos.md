@@ -2,7 +2,7 @@
 title: À Propos
 layout: propos.njk
 subtitle: ""
-metaDescription: This page is all about me
+metaDescription: Découvrez l'Atelier Entrelacs à Rennes, dirigé par une tapissière d'ameublement passionnée avec plus de 10 ans d'expérience. Spécialisée dans la restauration et la rénovation de fauteuils et canapés, elle donne une seconde vie à vos meubles anciens en utilisant des techniques traditionnelles et contemporaines. Que vous soyez à la recherche d'un style scandinave, contemporain ou vintage, bénéficiez d'un devis gratuit et d'un service sur-mesure pour un intérieur unique et confortable. Service disponible dans toute la Bretagne.
 date: 2023-01-01T00:00:00.000Z
 permalink: /a-propos/index.html
 eleventyNavigation:
