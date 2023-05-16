@@ -7,7 +7,8 @@
     "prox2": "La Chapelle-des-Fougeretz",
     "prox3": "Saint-Grégoire",
     "prox4": "Vezin-le-Coquet",
-    "prox5": "Melesse"
+    "prox5": "Melesse",
+    "priority": "1.0"
   },
   {
     "ville": "Montgermont",
@@ -17,7 +18,8 @@
     "prox2": "Pacé",
     "prox3": "Saint-Grégoire",
     "prox4": "Saint-Grégoire",
-    "prox5": "Melesse"
+    "prox5": "Melesse",
+    "priority": "0.3"
   },
   {
     "ville": "La Chapelle-des-Fougeretz",
@@ -27,7 +29,8 @@
     "prox2": "Pacé",
     "prox3": "Saint-Grégoire",
     "prox4": "La Mézière",
-    "prox5": "Melesse"
+    "prox5": "Melesse",
+    "priority": "0.3"
   },
   {
     "ville": "Saint-Grégoire",
@@ -37,7 +40,8 @@
     "prox2": "La Chapelle-des-Fougeretz",
     "prox3": "Melesse",
     "prox4": "Pacé",
-    "prox5": "Betton"
+    "prox5": "Betton",
+    "priority": "0.3"
   },
   {
     "ville": "Vezin-le-Coquet",
@@ -47,7 +51,8 @@
     "prox2": "Le Rheu",
     "prox3": "L'Hermitage",
     "prox4": "Montgermont",
-    "prox5": "Saint-Gilles"
+    "prox5": "Saint-Gilles",
+    "priority": "0.4"
   },
   {
     "ville": "Melesse",
@@ -57,7 +62,8 @@
     "prox2": "La Mézière",
     "prox3": "Saint-Germain-sur-Ille",
     "prox4": "Chevaigné",
-    "prox5": "La Chapelle-des-Fougeretz"
+    "prox5": "La Chapelle-des-Fougeretz",
+    "priority": "0.2"
   },
   {
     "ville": "La Mézière",
@@ -67,7 +73,8 @@
     "prox2": "Melesse",
     "prox3": "Montreuil-le-Gast",
     "prox4": "Vignoc",
-    "prox5": "La Chapelle-des-Fougeretz"
+    "prox5": "La Chapelle-des-Fougeretz",
+    "priority": "0.3"
   },
   {
     "ville": "Thorigné-Fouillard",
@@ -77,7 +84,8 @@
     "prox2": "Cesson-Sévigné",
     "prox3": "Noyal-sur-Vilaine",
     "prox4": "Chevaigné",
-    "prox5": "Liffré"
+    "prox5": "Liffré",
+    "priority": "0.4"
   },
   {
     "ville": "Gévezé",
@@ -87,7 +95,8 @@
     "prox2": "La Mézière",
     "prox3": "Langouet",
     "prox4": "Parthenay-de-Bretagne",
-    "prox5": "Saint-Gondran"
+    "prox5": "Saint-Gondran",
+    "priority": "0.4"
   },
   {
     "ville": "Cesson-Sévigné",
@@ -97,7 +106,8 @@
     "prox2": "Chantepie",
     "prox3": "Acigné",
     "prox4": "Noyal-sur-Vilaine",
-    "prox5": "Brécé"
+    "prox5": "Brécé",
+    "priority": "0.5"
   },
   {
     "ville": "Betton",
@@ -107,7 +117,8 @@
     "prox2": "Melesse",
     "prox3": "Mouazé",
     "prox4": "Saint-Grégoire",
-    "prox5": "Saint-Sulpice-la-Forêt"
+    "prox5": "Saint-Sulpice-la-Forêt",
+    "priority": "1.0"
   },
   {
     "ville": "Saint-Gilles",
@@ -117,7 +128,8 @@
     "prox2": "Parthenay-de-Bretagne",
     "prox3": "Pacé",
     "prox4": "L'Hermitage",
-    "prox5": "Romillé"
+    "prox5": "Romillé",
+    "priority": "0.2"
   },
   {
     "ville": "Vignoc",
@@ -127,7 +139,8 @@
     "prox2": "Gévezé",
     "prox3": "Montreuil-le-Gast",
     "prox4": "Saint-Gondran",
-    "prox5": "La Mézière"
+    "prox5": "La Mézière",
+    "priority": "0.4"
   },
   {
     "ville": "Montreuil-le-Gast",
@@ -137,7 +150,8 @@
     "prox2": "Melesse",
     "prox3": "La Mézière",
     "prox4": "Saint-Germain-sur-Ille",
-    "prox5": "Saint-Gondran"
+    "prox5": "Saint-Gondran",
+    "priority": "0.3"
   },
   {
     "ville": "Clayes",
@@ -147,7 +161,8 @@
     "prox2": "Saint-Gilles",
     "prox3": "Romillé",
     "prox4": "Pleumeleuc",
-    "prox5": "Pacé"
+    "prox5": "Pacé",
+    "priority": "0.3"
   },
   {
     "ville": "Chantepie",
@@ -157,7 +172,8 @@
     "prox2": "Noyal-Châtillon-sur-Seiche",
     "prox3": "Vern-sur-Seiche",
     "prox4": "Thorigné-Fouillard",
-    "prox5": "Noyal-sur-Vilaine"
+    "prox5": "Noyal-sur-Vilaine",
+    "priority": "1.0"
   },
   {
     "ville": "Noyal-Châtillon-sur-Seiche",
@@ -167,7 +183,8 @@
     "prox2": "Saint-Erblon",
     "prox3": "Saint-Armel",
     "prox4": "Chartres-de-Bretagne",
-    "prox5": "Pont-Péan"
+    "prox5": "Pont-Péan",
+    "priority": "0.7"
   },
   {
     "ville": "Acigné",
@@ -177,7 +194,8 @@
     "prox2": "Thorigné-Fouillard",
     "prox3": "Brécé",
     "prox4": "Servon-sur-Vilaine",
-    "prox5": "Cesson-Sévigné"
+    "prox5": "Cesson-Sévigné",
+    "priority": "0.3"
   },
   {
     "ville": "L'Hermitage",
@@ -187,7 +205,8 @@
     "prox2": "Saint-Gilles",
     "prox3": "Le Rheu",
     "prox4": "La Chapelle-Thouarault",
-    "prox5": "Breteil"
+    "prox5": "Breteil",
+    "priority": "0.3"
   },
   {
     "ville": "Chevaigné",
@@ -197,7 +216,8 @@
     "prox2": "Saint-Sulpice-la-Forêt",
     "prox3": "Melesse",
     "prox4": "Saint-Aubin-d'Aubigné",
-    "prox5": "Saint-Germain-sur-Ille"
+    "prox5": "Saint-Germain-sur-Ille",
+    "priority": "0.3"
   },
   {
     "ville": "Saint-Jacques-de-la-Lande",
@@ -207,7 +227,8 @@
     "prox2": "Chavagne",
     "prox3": "Bruz",
     "prox4": "Noyal-Châtillon-sur-Seiche",
-    "prox5": "Pont-Péan"
+    "prox5": "Pont-Péan",
+    "priority": "0.5"
   },
   {
     "ville": "Le Rheu",
@@ -217,7 +238,8 @@
     "prox2": "L'Hermitage",
     "prox3": "Pacé",
     "prox4": "Cintré",
-    "prox5": "Chavagne"
+    "prox5": "Chavagne",
+    "priority": "0.5"
   },
   {
     "ville": "Chartres-de-Bretagne",
@@ -227,7 +249,8 @@
     "prox2": "Pont-Péan",
     "prox3": "Saint-Jacques-de-la-Lande",
     "prox4": "Bruz",
-    "prox5": "Saint-Erblon"
+    "prox5": "Saint-Erblon",
+    "priority": "0.5"
   },
   {
     "ville": "Montfort-sur-Meu",
@@ -237,7 +260,8 @@
     "prox2": "Breteil",
     "prox3": "Bédée",
     "prox4": "Saint-Uniac",
-    "prox5": "Pleumeleuc"
+    "prox5": "Pleumeleuc",
+    "priority": "0.7"
   },
   {
     "ville": "Noyal-sur-Vilaine",
@@ -247,7 +271,8 @@
     "prox2": "Acigné",
     "prox3": "Servon-sur-Vilaine",
     "prox4": "Domloup",
-    "prox5": "Thorigné-Fouillard"
+    "prox5": "Thorigné-Fouillard",
+    "priority": "0.2"
   },
   {
     "ville": "Parthenay-de-Bretagne",
@@ -257,7 +282,8 @@
     "prox2": "Saint-Gilles",
     "prox3": "Romillé",
     "prox4": "Gévezé",
-    "prox5": "Pleumeleuc"
+    "prox5": "Pleumeleuc",
+    "priority": "0.4"
   },
   {
     "ville": "Mouazé",
@@ -267,7 +293,8 @@
     "prox2": "Chasné-sur-Illet",
     "prox3": "Chevaigné",
     "prox4": "Saint-Aubin-d'Aubigné",
-    "prox5": "Saint-Germain-sur-Ille"
+    "prox5": "Saint-Germain-sur-Ille",
+    "priority": "0.3"
   },
   {
     "ville": "Saint-Symphorien",
@@ -277,7 +304,8 @@
     "prox2": "Saint-Gondran",
     "prox3": "Hédé-Bazouges",
     "prox4": "Les Iffs",
-    "prox5": "Tinténiac"
+    "prox5": "Tinténiac",
+    "priority": "0.3"
   },
   {
     "ville": "Liffré",
@@ -287,7 +315,8 @@
     "prox2": "Gosné",
     "prox3": "Saint-Sulpice-la-Forêt",
     "prox4": "Ercé-près-Liffré",
-    "prox5": "La Bouëxière"
+    "prox5": "La Bouëxière",
+    "priority": "0.2"
   },
   {
     "ville": "Bédée",
@@ -297,7 +326,8 @@
     "prox2": "La Nouaye",
     "prox3": "Breteil",
     "prox4": "Saint-Gilles",
-    "prox5": "Romillé"
+    "prox5": "Romillé",
+    "priority": "0.3"
   },
   {
     "ville": "Saint-Sulpice-la-Forêt",
@@ -307,7 +337,8 @@
     "prox2": "Chasné-sur-Illet",
     "prox3": "Chevaigné",
     "prox4": "Liffré",
-    "prox5": "Saint-Aubin-d'Aubigné"
+    "prox5": "Saint-Aubin-d'Aubigné",
+    "priority": "0.3"
   },
   {
     "ville": "Saint-Gondran",
@@ -317,7 +348,8 @@
     "prox2": "La Chapelle-Chaussée",
     "prox3": "Langan",
     "prox4": "Saint-Symphorien",
-    "prox5": "Saint-Brieuc-des-Iffs"
+    "prox5": "Saint-Brieuc-des-Iffs",
+    "priority": "0.2"
   },
   {
     "ville": "Hédé-Bazouges",
@@ -327,7 +359,8 @@
     "prox2": "Saint-Gondran",
     "prox3": "Langouet",
     "prox4": "Saint-Brieuc-des-Iffs",
-    "prox5": "Tinténiac"
+    "prox5": "Tinténiac",
+    "priority": "0.7"
   },
   {
     "ville": "Brécé",
@@ -337,7 +370,8 @@
     "prox2": "Servon-sur-Vilaine",
     "prox3": "Acigné",
     "prox4": "Châteaubourg",
-    "prox5": "Domloup"
+    "prox5": "Domloup",
+    "priority": "0.2"
   },
   {
     "ville": "Romillé",
@@ -347,7 +381,8 @@
     "prox2": "Clayes",
     "prox3": "Pleumeleuc",
     "prox4": "Parthenay-de-Bretagne",
-    "prox5": "Irodouër"
+    "prox5": "Irodouër",
+    "priority": "0.3"
   },
   {
     "ville": "Langouet",
@@ -357,7 +392,8 @@
     "prox2": "Langan",
     "prox3": "La Chapelle-Chaussée",
     "prox4": "Vignoc",
-    "prox5": "Gévezé"
+    "prox5": "Gévezé",
+    "priority": "0.3"
   },
   {
     "ville": "Saint-Aubin-d'Aubigné",
@@ -367,7 +403,8 @@
     "prox2": "Chasné-sur-Illet",
     "prox3": "Aubigné",
     "prox4": "Mouazé",
-    "prox5": "Saint-Germain-sur-Ille"
+    "prox5": "Saint-Germain-sur-Ille",
+    "priority": "0.2"
   },
   {
     "ville": "Pleumeleuc",
@@ -377,7 +414,8 @@
     "prox2": "Romillé",
     "prox3": "Clayes",
     "prox4": "La Nouaye",
-    "prox5": "Saint-Gilles"
+    "prox5": "Saint-Gilles",
+    "priority": "0.2"
   },
   {
     "ville": "Saint-Germain-sur-Ille",
@@ -387,7 +425,8 @@
     "prox2": "Montreuil-le-Gast",
     "prox3": "Melesse",
     "prox4": "Mouazé",
-    "prox5": "Saint-Aubin-d'Aubigné"
+    "prox5": "Saint-Aubin-d'Aubigné",
+    "priority": "0.3"
   },
   {
     "ville": "Saint-Brieuc-des-Iffs",
@@ -397,7 +436,8 @@
     "prox2": "Saint-Symphorien",
     "prox3": "La Chapelle-Chaussée",
     "prox4": "Saint-Gondran",
-    "prox5": "Langouet"
+    "prox5": "Langouet",
+    "priority": "0.3"
   },
   {
     "ville": "Vern-sur-Seiche",
@@ -407,7 +447,8 @@
     "prox2": "Saint-Armel",
     "prox3": "Nouvoitou",
     "prox4": "Corps-Nuds",
-    "prox5": "Bourgbarré"
+    "prox5": "Bourgbarré",
+    "priority": "0.3"
   },
   {
     "ville": "Pont-Péan",
@@ -417,7 +458,8 @@
     "prox2": "Saint-Erblon",
     "prox3": "Orgères",
     "prox4": "Bruz",
-    "prox5": "Chavagne"
+    "prox5": "Chavagne",
+    "priority": "0.2"
   },
   {
     "ville": "La Chapelle-Thouarault",
@@ -427,7 +469,8 @@
     "prox2": "Breteil",
     "prox3": "L'Hermitage",
     "prox4": "Saint-Gilles",
-    "prox5": "Talensac"
+    "prox5": "Talensac",
+    "priority": "0.4"
   },
   {
     "ville": "Tinténiac",
@@ -437,7 +480,8 @@
     "prox2": "Saint-Symphorien",
     "prox3": "Saint-Brieuc-des-Iffs",
     "prox4": "La Baussaine",
-    "prox5": "Trimer"
+    "prox5": "Trimer",
+    "priority": "0.3"
   },
   {
     "ville": "Mordelles",
@@ -447,7 +491,8 @@
     "prox2": "Cintré",
     "prox3": "Chavagne",
     "prox4": "Le Verger",
-    "prox5": "Saint-Thurial"
+    "prox5": "Saint-Thurial",
+    "priority": "0.3"
   },
   {
     "ville": "Chavagne",
@@ -457,7 +502,8 @@
     "prox2": "Bréal-sous-Montfort",
     "prox3": "Goven",
     "prox4": "Saint-Jacques-de-la-Lande",
-    "prox5": "Le Rheu"
+    "prox5": "Le Rheu",
+    "priority": "0.2"
   },
   {
     "ville": "La Chapelle-Chaussée",
@@ -467,7 +513,8 @@
     "prox2": "Langan",
     "prox3": "Langouet",
     "prox4": "Les Iffs",
-    "prox5": "Saint-Brieuc-des-Iffs"
+    "prox5": "Saint-Brieuc-des-Iffs",
+    "priority": "0.3"
   },
   {
     "ville": "Servon-sur-Vilaine",
@@ -477,7 +524,8 @@
     "prox2": "Châteaubourg",
     "prox3": "Noyal-sur-Vilaine",
     "prox4": "Acigné",
-    "prox5": "La Bouëxière"
+    "prox5": "La Bouëxière",
+    "priority": "0.3"
   },
   {
     "ville": "Breteil",
@@ -487,7 +535,8 @@
     "prox2": "Bédée",
     "prox3": "La Nouaye",
     "prox4": "Talensac",
-    "prox5": "Saint-Gilles"
+    "prox5": "Saint-Gilles",
+    "priority": "0.3"
   },
   {
     "ville": "Saint-Erblon",
@@ -497,7 +546,8 @@
     "prox2": "Chavagne",
     "prox3": "Saint-Armel",
     "prox4": "Orgères",
-    "prox5": "Pont-Péan"
+    "prox5": "Pont-Péan",
+    "priority": "0.3"
   },
   {
     "ville": "Saint-Armel",
@@ -507,7 +557,8 @@
     "prox2": "Vern-sur-Seiche",
     "prox3": "Corps-Nuds",
     "prox4": "Saint-Erblon",
-    "prox5": "Chavagne"
+    "prox5": "Chavagne",
+    "priority": "0.3"
   },
   {
     "ville": "Gosné",
@@ -517,7 +568,8 @@
     "prox2": "Liffré",
     "prox3": "Chasné-sur-Illet",
     "prox4": "Saint-Aubin-du-Cormier",
-    "prox5": "Mézières-sur-Couesnon"
+    "prox5": "Mézières-sur-Couesnon",
+    "priority": "0.3"
   },
   {
     "ville": "Ercé-près-Liffré",
@@ -527,7 +579,8 @@
     "prox2": "Gosné",
     "prox3": "Gahard",
     "prox4": "Saint-Aubin-d'Aubigné",
-    "prox5": "Liffré"
+    "prox5": "Liffré",
+    "priority": "0.3"
   },
   {
     "ville": "Guipel",
@@ -537,7 +590,8 @@
     "prox2": "Montreuil-le-Gast",
     "prox3": "Saint-Médard-sur-Ille",
     "prox4": "Feins",
-    "prox5": "Aubigné"
+    "prox5": "Aubigné",
+    "priority": "1.0"
   },
   {
     "ville": "Chasné-sur-Illet",
@@ -547,7 +601,8 @@
     "prox2": "Mouazé",
     "prox3": "Ercé-près-Liffré",
     "prox4": "Saint-Sulpice-la-Forêt",
-    "prox5": "Liffré"
+    "prox5": "Liffré",
+    "priority": "0.3"
   },
   {
     "ville": "Langan",
@@ -557,7 +612,8 @@
     "prox2": "La Chapelle-Chaussée",
     "prox3": "Langouet",
     "prox4": "Romillé",
-    "prox5": "Saint-Brieuc-des-Iffs"
+    "prox5": "Saint-Brieuc-des-Iffs",
+    "priority": "0.3"
   },
   {
     "ville": "Bruz",
@@ -567,7 +623,8 @@
     "prox2": "Chartres-de-Bretagne",
     "prox3": "Saint-Jacques-de-la-Lande",
     "prox4": "Saint-Erblon",
-    "prox5": "Laillé"
+    "prox5": "Laillé",
+    "priority": "0.5"
   },
   {
     "ville": "Pacé",
@@ -577,7 +634,8 @@
     "prox2": "Montgermont",
     "prox3": "Saint-Gilles",
     "prox4": "La Chapelle-des-Fougeretz",
-    "prox5": "Clayes"
+    "prox5": "Clayes",
+    "priority": "0.3"
   },
   {
     "ville": "Bréal-sous-Montfort",
@@ -587,7 +645,8 @@
     "prox2": "Goven",
     "prox3": "Saint-Thurial",
     "prox4": "Le Verger",
-    "prox5": "Chavagne"
+    "prox5": "Chavagne",
+    "priority": "0.3"
   },
   {
     "ville": "Orgères",
@@ -597,7 +656,8 @@
     "prox2": "Saint-Erblon",
     "prox3": "Chanteloup",
     "prox4": "Pont-Péan",
-    "prox5": "Laillé"
+    "prox5": "Laillé",
+    "priority": "0.3"
   },
   {
     "ville": "Andouillé-Neuville",
@@ -607,7 +667,8 @@
     "prox2": "Saint-Aubin-d'Aubigné",
     "prox3": "Gahard",
     "prox4": "Feins",
-    "prox5": "Chasné-sur-Illet"
+    "prox5": "Chasné-sur-Illet",
+    "priority": "0.3"
   },
   {
     "ville": "La Baussaine",
@@ -617,7 +678,8 @@
     "prox2": "Longaulnay",
     "prox3": "Cardroc",
     "prox4": "Tinténiac",
-    "prox5": "Les Iffs"
+    "prox5": "Les Iffs",
+    "priority": "0.3"
   },
   {
     "ville": "Les Iffs",
@@ -627,7 +689,8 @@
     "prox2": "Cardroc",
     "prox3": "La Chapelle-Chaussée",
     "prox4": "Saint-Symphorien",
-    "prox5": "Saint-Gondran"
+    "prox5": "Saint-Gondran",
+    "priority": "0.3"
   },
   {
     "ville": "Domloup",
@@ -637,7 +700,8 @@
     "prox2": "Châteaugiron",
     "prox3": "Noyal-sur-Vilaine",
     "prox4": "Brécé",
-    "prox5": "Vern-sur-Seiche"
+    "prox5": "Vern-sur-Seiche",
+    "priority": "0.4"
   },
   {
     "ville": "Cintré",
@@ -647,7 +711,8 @@
     "prox2": "Talensac",
     "prox3": "L'Hermitage",
     "prox4": "Mordelles",
-    "prox5": "Breteil"
+    "prox5": "Breteil",
+    "priority": "0.3"
   },
   {
     "ville": "La Nouaye",
@@ -657,7 +722,8 @@
     "prox2": "Saint-Uniac",
     "prox3": "Breteil",
     "prox4": "Pleumeleuc",
-    "prox5": "Montfort-sur-Meu"
+    "prox5": "Montfort-sur-Meu",
+    "priority": "0.3"
   },
   {
     "ville": "Châteaubourg",
@@ -667,7 +733,8 @@
     "prox2": "Domagné",
     "prox3": "Saint-Didier",
     "prox4": "Brécé",
-    "prox5": "Noyal-sur-Vilaine"
+    "prox5": "Noyal-sur-Vilaine",
+    "priority": "0.3"
   },
   {
     "ville": "Laillé",
@@ -677,7 +744,8 @@
     "prox2": "Orgères",
     "prox3": "Guichen",
     "prox4": "Crevin",
-    "prox5": "Chanteloup"
+    "prox5": "Chanteloup",
+    "priority": "0.3"
   },
   {
     "ville": "Nouvoitou",
@@ -687,7 +755,8 @@
     "prox2": "Vern-sur-Seiche",
     "prox3": "Saint-Armel",
     "prox4": "Châteaugiron",
-    "prox5": "Chavagne"
+    "prox5": "Chavagne",
+    "priority": "0.5"
   },
   {
     "ville": "Québriac",
@@ -697,7 +766,8 @@
     "prox2": "Trimer",
     "prox3": "Saint-Domineuc",
     "prox4": "Saint-Symphorien",
-    "prox5": "La Baussaine"
+    "prox5": "La Baussaine",
+    "priority": "0.4"
   },
   {
     "ville": "Saint-Médard-sur-Ille",
@@ -707,7 +777,8 @@
     "prox2": "Saint-Germain-sur-Ille",
     "prox3": "Saint-Aubin-d'Aubigné",
     "prox4": "Feins",
-    "prox5": "Andouillé-Neuville"
+    "prox5": "Andouillé-Neuville",
+    "priority": "0.4"
   },
   {
     "ville": "Cardroc",
@@ -717,7 +788,8 @@
     "prox2": "Miniac-sous-Bécherel",
     "prox3": "La Chapelle-Chaussée",
     "prox4": "Saint-Gondran",
-    "prox5": "Saint-Brieuc-des-Iffs"
+    "prox5": "Saint-Brieuc-des-Iffs",
+    "priority": "0.4"
   },
   {
     "ville": "Aubigné",
@@ -727,7 +799,8 @@
     "prox2": "Feins",
     "prox3": "Saint-Médard-sur-Ille",
     "prox4": "Saint-Aubin-d'Aubigné",
-    "prox5": "Saint-Germain-sur-Ille"
+    "prox5": "Saint-Germain-sur-Ille",
+    "priority": "0.3"
   },
   {
     "ville": "Trimer",
@@ -737,7 +810,8 @@
     "prox2": "Saint-Thual",
     "prox3": "Tinténiac",
     "prox4": "Saint-Domineuc",
-    "prox5": "Longaulnay"
+    "prox5": "Longaulnay",
+    "priority": "0.3"
   },
   {
     "ville": "Montauban-de-Bretagne",
@@ -747,7 +821,8 @@
     "prox2": "Bédée",
     "prox3": "Pleumeleuc",
     "prox4": "Irodouër",
-    "prox5": "La Nouaye"
+    "prox5": "La Nouaye",
+    "priority": "1.0"
   },
   {
     "ville": "Saint-Aubin-du-Cormier",
@@ -757,7 +832,8 @@
     "prox2": "Gosné",
     "prox3": "Mézières-sur-Couesnon",
     "prox4": "Liffré",
-    "prox5": "La Bouëxière"
+    "prox5": "La Bouëxière",
+    "priority": "0.5"
   },
   {
     "ville": "Corps-Nuds",
@@ -767,7 +843,8 @@
     "prox2": "Chanteloup",
     "prox3": "Saint-Armel",
     "prox4": "Vern-sur-Seiche",
-    "prox5": "Chavagne"
+    "prox5": "Chavagne",
+    "priority": "0.4"
   },
   {
     "ville": "Saint-Domineuc",
@@ -777,7 +854,8 @@
     "prox2": "Trimer",
     "prox3": "Tinténiac",
     "prox4": "Québriac",
-    "prox5": "Plesder"
+    "prox5": "Plesder",
+    "priority": "0.3"
   },
   {
     "ville": "Châteaugiron",
@@ -787,7 +865,8 @@
     "prox2": "Nouvoitou",
     "prox3": "Noyal-sur-Vilaine",
     "prox4": "Brécé",
-    "prox5": "Domagné"
+    "prox5": "Domagné",
+    "priority": "0.5"
   },
   {
     "ville": "Guichen",
@@ -797,7 +876,8 @@
     "prox2": "Laillé",
     "prox3": "Goven",
     "prox4": "Crevin",
-    "prox5": "Pont-Péan"
+    "prox5": "Pont-Péan",
+    "priority": "0.5"
   },
   {
     "ville": "La Bouëxière",
@@ -807,7 +887,8 @@
     "prox2": "Servon-sur-Vilaine",
     "prox3": "Châteaubourg",
     "prox4": "Brécé",
-    "prox5": "Acigné"
+    "prox5": "Acigné",
+    "priority": "0.5"
   },
   {
     "ville": "Bourgbarré",
@@ -817,7 +898,8 @@
     "prox2": "Corps-Nuds",
     "prox3": "Saint-Erblon",
     "prox4": "Saint-Armel",
-    "prox5": "Orgères"
+    "prox5": "Orgères",
+    "priority": "0.3"
   },
   {
     "ville": "Goven",
@@ -827,7 +909,8 @@
     "prox2": "Lassy",
     "prox3": "Guichen",
     "prox4": "Chavagne",
-    "prox5": "Saint-Thurial"
+    "prox5": "Saint-Thurial",
+    "priority": "0.3"
   },
   {
     "ville": "Crevin",
@@ -837,7 +920,8 @@
     "prox2": "Poligné",
     "prox3": "Laillé",
     "prox4": "Bourgbarré",
-    "prox5": "Orgères"
+    "prox5": "Orgères",
+    "priority": "0.4"
   },
   {
     "ville": "Irodouër",
@@ -847,7 +931,8 @@
     "prox2": "Romillé",
     "prox3": "Pleumeleuc",
     "prox4": "Bédée",
-    "prox5": "Langan"
+    "prox5": "Langan",
+    "priority": "0.5"
   },
   {
     "ville": "Saint-Thurial",
@@ -857,7 +942,8 @@
     "prox2": "Le Verger",
     "prox3": "Mordelles",
     "prox4": "Goven",
-    "prox5": "Lassy"
+    "prox5": "Lassy",
+    "priority": "0.3"
   },
   {
     "ville": "Mézières-sur-Couesnon",
@@ -867,7 +953,8 @@
     "prox2": "Gahard",
     "prox3": "Gosné",
     "prox4": "Saint-Aubin-du-Cormier",
-    "prox5": "Liffré"
+    "prox5": "Liffré",
+    "priority": "0.4"
   },
   {
     "ville": "Le Verger",
@@ -877,7 +964,8 @@
     "prox2": "Bréal-sous-Montfort",
     "prox3": "Saint-Thurial",
     "prox4": "Mordelles",
-    "prox5": "Cintré"
+    "prox5": "Cintré",
+    "priority": "0.4"
   },
   {
     "ville": "Saint-Thual",
@@ -887,7 +975,8 @@
     "prox2": "Trimer",
     "prox3": "La Baussaine",
     "prox4": "Miniac-sous-Bécherel",
-    "prox5": "Saint-Domineuc"
+    "prox5": "Saint-Domineuc",
+    "priority": "0.7"
   },
   {
     "ville": "Longaulnay",
@@ -897,7 +986,8 @@
     "prox2": "La Baussaine",
     "prox3": "Miniac-sous-Bécherel",
     "prox4": "Trimer",
-    "prox5": "Cardroc"
+    "prox5": "Cardroc",
+    "priority": "0.4"
   },
   {
     "ville": "Feins",
@@ -907,7 +997,8 @@
     "prox2": "Andouillé-Neuville",
     "prox3": "Saint-Médard-sur-Ille",
     "prox4": "Saint-Aubin-d'Aubigné",
-    "prox5": "Guipel"
+    "prox5": "Guipel",
+    "priority": "0.4"
   },
   {
     "ville": "Saint-Uniac",
@@ -917,7 +1008,8 @@
     "prox2": "La Nouaye",
     "prox3": "Bédée",
     "prox4": "Montfort-sur-Meu",
-    "prox5": "Pleumeleuc"
+    "prox5": "Pleumeleuc",
+    "priority": "0.5"
   },
   {
     "ville": "Rives-du-Couesnon",
@@ -927,7 +1019,8 @@
     "prox2": "Mézières-sur-Couesnon",
     "prox3": "Gosné",
     "prox4": "Liffré",
-    "prox5": "Ercé-près-Liffré"
+    "prox5": "Ercé-près-Liffré",
+    "priority": "0.7"
   },
   {
     "ville": "Talensac",
@@ -937,7 +1030,8 @@
     "prox2": "Le Verger",
     "prox3": "Breteil",
     "prox4": "La Chapelle-Thouarault",
-    "prox5": "Bréal-sous-Montfort"
+    "prox5": "Bréal-sous-Montfort",
+    "priority": "0.4"
   },
   {
     "ville": "Domagné",
@@ -947,7 +1041,8 @@
     "prox2": "Saint-Didier",
     "prox3": "Brécé",
     "prox4": "Châteaugiron",
-    "prox5": "Noyal-sur-Vilaine"
+    "prox5": "Noyal-sur-Vilaine",
+    "priority": "0.5"
   },
   {
     "ville": "Saint-Didier",
@@ -957,7 +1052,8 @@
     "prox2": "Châteaubourg",
     "prox3": "Brécé",
     "prox4": "Noyal-sur-Vilaine",
-    "prox5": "Servon-sur-Vilaine"
+    "prox5": "Servon-sur-Vilaine",
+    "priority": "0.7"
   },
   {
     "ville": "Pleugueneuc",
@@ -967,7 +1063,8 @@
     "prox2": "Plesder",
     "prox3": "Trimer",
     "prox4": "Québriac",
-    "prox5": "Tinténiac"
+    "prox5": "Tinténiac",
+    "priority": "0.7"
   },
   {
     "ville": "Chanteloup",
@@ -977,7 +1074,8 @@
     "prox2": "Corps-Nuds",
     "prox3": "Orgères",
     "prox4": "Crevin",
-    "prox5": "Saint-Erblon"
+    "prox5": "Saint-Erblon",
+    "priority": "0.3"
   },
   {
     "ville": "Lassy",
@@ -987,7 +1085,8 @@
     "prox2": "Guichen",
     "prox3": "Saint-Thurial",
     "prox4": "Bréal-sous-Montfort",
-    "prox5": "Chavagne"
+    "prox5": "Chavagne",
+    "priority": "0.5"
   },
   {
     "ville": "Gahard",
@@ -997,7 +1096,8 @@
     "prox2": "Andouillé-Neuville",
     "prox3": "Mézières-sur-Couesnon",
     "prox4": "Saint-Aubin-d'Aubigné",
-    "prox5": "Chasné-sur-Illet"
+    "prox5": "Chasné-sur-Illet",
+    "priority": "0.5"
   },
   {
     "ville": "Poligné",
@@ -1007,7 +1107,8 @@
     "prox2": "Laillé",
     "prox3": "Orgères",
     "prox4": "Pont-Péan",
-    "prox5": "Chanteloup"
+    "prox5": "Chanteloup",
+    "priority": "1.0"
   },
   {
     "ville": "Miniac-sous-Bécherel",
@@ -1017,7 +1118,8 @@
     "prox2": "Longaulnay",
     "prox3": "Irodouër",
     "prox4": "Les Iffs",
-    "prox5": "La Chapelle-Chaussée"
+    "prox5": "La Chapelle-Chaussée",
+    "priority": "0.4"
   },
   {
     "ville": "Plesder",
@@ -1027,6 +1129,7 @@
     "prox2": "Saint-Domineuc",
     "prox3": "Trimer",
     "prox4": "Tinténiac",
-    "prox5": "Québriac"
+    "prox5": "Québriac",
+    "priority": "0.7"
   }
  ]

@@ -21,7 +21,7 @@ Après 10 ans d'expérience professionnelle dans le secteur textile et en gestio
 Passionnée par les métiers d'art liés au textile, je pratique la couture, le tricot et la broderie en amatrice depuis plus de 20 ans.
 J’ai toujours aimé transformer des vêtements, chiner des tissus anciens ou donner une seconde vie à des matériaux délaissés.
 Diplômée de Sciences Po et de l’Ecole Supérieure des Industries du Vêtement, j’ai obtenu mon titre professionnel de Tapissier Garnisseur en 2022.
-Je suis installée à Rennes et j’interviens également dans le reste de la Bretagne.
+Je suis installée à <a href="../tapisserie-d-ameublement-proche-de-rennes">Rennes</a> près de <a href="../tapisserie-d-ameublement-proche-de-poligne">Poligné</a> et j’interviens également dans le reste de la Bretagne.
 </article>
 
 <div class="col">

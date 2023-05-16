@@ -56,7 +56,7 @@ Le choix du tissu et de la finition (cloutée, passepoil, galon…) est entière
 <article>
 
 ### Confection de rideaux et coussins
-Je réalise vos rideaux, stores et coussins sur mesure. Uniquement décoratifs ou également dotés de propriétés particulières (occultants ou thermiques), je vous conseille pour choisir les tissus et finitions adaptés.
+Je réalise vos rideaux, stores et coussins sur mesure. Uniquement décoratifs ou également dotés de propriétés particulières (occultants ou thermiques), je vous conseille pour choisir les tissus et finitions adaptés à <a href="../tapisserie-d-ameublement-proche-de-rennes">Rennes</a> et jusqu'a <a href="../tapisserie-d-ameublement-proche-de-montauban-de-bretagne">Montauban-de-Bretagne</a>.
 
 ### Vente de tissus d'ameublement
 Je vous propose une large sélection de tissus créés par des maisons françaises spécialistes de la décoration.
