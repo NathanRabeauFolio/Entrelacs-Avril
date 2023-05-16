@@ -10,7 +10,7 @@ eleventyNavigation:
   order: 2
 ---
 <section>
-<div class="col">
+<div class="col no-bg">
 
 ![Découvrez notre sélection de canapés en velours, convertibles et relax pour créer un espace scandinave contemporain. Les accoudoirs confortables et la fonction de relaxation offrent une expérience de détente ultime. Disponibles dans des coloris variés tels que beige, gris clair, marron et anthracite, nos canapés apportent une assise confortable et un style élégant. Complétez votre ameublement avec nos poufs assortis pour un appoint pratique. Avec des coussins en microfibre et un rembourrage en polyester, nos canapés d'angle et banquette offrent un confort optimal. Accompagnez votre espace de vie avec une table basse en rotin ou en bois massif, tandis que nos fauteuils en simili cuir, velours bleu ou taupe ajoutent une touche de sophistication. Avec des pieds en bois ou en métal pivotants, nos fauteuils design sont à la fois confortables et esthétiquement plaisants. Plongez dans un fauteuil relax ou un fauteuil crapaud pour une expérience cosy. Les pieds en bois massif ou en métal assurent la stabilité de nos pièces. Profitez du confort et de la fonctionnalité des canapés et fauteuils inclinables avec repose-pieds intégré. Ajoutez une touche contemporaine à votre espace avec nos modèles en simili cuir ou tissu gris foncé. Choisissez parmi notre gamme de tabourets synthétiques pivotants pour compléter votre aménagement.](/src/assets/img/portrait-3.jpg "Fern")
 </div>
@@ -43,13 +43,13 @@ Ce rendez-vous et le devis sont gratuits.
 Vous pouvez d’ores et déjà m’adresser par mail des photos détaillées de votre fauteuil et de la pièce dans laquelle il se place.
 </article>
 
-<div class="col">
+<div class="col no-bg">
 
 ![Découvrez notre collection de fauteuils, y compris le célèbre fauteuil chesterfield et le charmant fauteuil cabriolet. Pour une détente absolue, optez pour nos fauteuils de relaxation et fauteuils releveurs. Disponibles dans une variété de finitions, nos fauteuils offrent un style raffiné et un confort exceptionnel. Trouvez le parfait petit fauteuil pour compléter votre espace. Choisissez un fauteuil d'angle gauche ou un fauteuil d'angle réversible pour maximiser votre confort et votre flexibilité. Nos fauteuils sont dotés de têtières ajustables pour un soutien supplémentaire. Fabriqués en cuir synthétique de haute qualité, nos fauteuils chesterfield allient l'élégance intemporelle au confort moderne. Découvrez nos collaborations avec des marques renommées comme Habitat et Jardin et Chateau d'Ax pour trouver le fauteuil ou le canapé d'angle réversible qui correspond à votre style. Plongez dans le design nordique avec des fauteuils vieillis au look rétro. Choisissez un canapé droit en tissu pour un design contemporain ou optez pour un canapé en cuir noir pour une touche de sophistication. Nos canapés sont conçus avec le confort à l'esprit, avec des assises en mousse Bultex de haute qualité. Pour un design moderne, explorez notre gamme de canapés inspirés du style Louis XVI, avec des structures en hêtre massif](/src/assets/img/atelier-1.jpg "Fern")
 </div>
 </section>
 <section>
-<div class="col">
+<div class="col no-bg">
 
 ![Découvrez notre collection de fauteuils $rapido, avec un revêtement en tissu de haute qualité pour une expérience luxueuse. Ajoutez une touche vintage à votre intérieur avec nos fauteuils vintage aux lignes épurées. Nos fauteuils sont dotés de tiroirs intégrés pour un espace de rangement pratique. Optez pour le velours vert pour une touche d'élégance ou découvrez nos options de fauteuils gigognes pour maximiser votre espace. Avec des revêtements en tissu velours dans de nombreux coloris, nos fauteuils sont conçus pour répondre à tous les goûts. Profitez de la livraison incluse et de la mobilité offerte par les roulettes intégrées. Nos housses sont disponibles dans des couleurs sobres ou plus audacieuses, comme la moutarde. Les fauteuils offrent un dossier haut pour un confort optimal et une posture soutenue. Explorez notre sélection de sofas, dont le bleu canard, dans de nombreux modèles pour trouver le fauteuil qui correspond à votre style. Nous proposons également des fauteuils design aux lignes épurées, parfaits pour compléter votre salon design. Optez pour le revêtement chiné ou le cuir gris pour une esthétique élégante et moderne. Avec notre sélection variée de coloris, vous pouvez acheter un fauteuil qui correspond parfaitement à votre décoration intérieure. Complétez votre salon avec nos canapés de relaxation et ajoutez des objets déco pour une ambiance personnalisée. Nos fauteuils sont garnis avec soin pour un confort optimal. Découvrez également nos canapés d'angle pour une solution spacieuse et fonctionnelle](/src/assets/img/medaillon-2-1.jpg "Fern")
 </div>
@@ -82,7 +82,7 @@ Les deux siècles qui suivent sont ceux de l’âge d’or du mobilier et des ar
 Le tapissier d’ameublement s’inscrit dans cet héritage séculaire. Il mélange des techniques ancestrales et des tissus contemporains pour restaurer des fauteuils et confectionner rideaux et coussins.
 </article>
 
-<div class="col">
+<div class="col no-bg">
 
 ![Découvrez notre collection de meubles de salon conçus par des designers renommés. Nos banquettes et ensembles de canapés offrent un style moderne et fonctionnel. Transformez votre espace avec nos canapés-lits ergonomiques, idéaux pour accueillir des invités. Ajoutez une commode élégante pour un rangement pratique. Nos canapés trois places sont conçus pour offrir un confort exceptionnel. Découvrez la qualité et le savoir-faire de la Maison du Convertible pour des meubles de salon et des canapés-lits de haute qualité. Optez pour notre mobilier design en velours noir pour une touche d'élégance. Ajoutez un grand canapé relevable pour plus de polyvalence et un canapé panoramique pour un confort ultime. Complétez votre espace de vie avec un vaisselier pratique et esthétique. Profitez d'un massage relaxant avec nos canapés massants en cuir marron. Améliorez votre espace de travail avec une chaise de bureau ergonomique. Créez une chambre d'enfant accueillante avec nos meubles adaptés. Nos canapés inclinables offrent un confort personnalisé pour votre chambre à coucher. Optez pour un style sobre avec nos canapés design en tissu, parfaits pour créer une ambiance conviviale autour d'une table. Nos canapés sont équipés de ressorts de haute qualité pour un confort durable. Ajoutez une touche de modernité à votre intérieur avec notre fauteuil moderne. Découvrez notre large sélection de canapés en tissu, alliant confort et esthétique](/src/assets/img/musee-2.jpg "Fern")
 </div>

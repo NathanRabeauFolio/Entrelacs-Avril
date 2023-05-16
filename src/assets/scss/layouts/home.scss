@@ -125,12 +125,36 @@
     max-height: 90vh;
     display: flex;
     align-items: center;
-    picture{margin: 0 auto;}
+    picture{margin: 0 auto;
+      position: relative;
+      &::before{
+        position: absolute;
+        width: 100%;
+        height:100%;
+        content: "";
+        display: block;
+        top:0;
+        left:0;
+        background-image: url(/assets/img/volutes-circle.png);
+        background-size: contain;
+        background-position: top;
+        background-repeat: no-repeat;
+      }
+    }
     img{position: relative;
       max-height: 90vh;
       object-fit: contain;
-      width: 100%;}
+      width: 100%;
+    }
     &:nth-of-type(1){order: +1;}
+  }
+
+  .no-bg{
+    picture{
+      &::before{
+         display:none
+        
+      }}
   }
   article{width: calc(100% - 10rem);
     display: flex;
