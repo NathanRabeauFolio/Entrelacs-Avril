@@ -15,7 +15,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(sitemap, {
     sitemap: {
-      hostname: "https://example.com",
+      hostname: "https://clever-starburst-531e21.netlify.app",
     },
   });
 
