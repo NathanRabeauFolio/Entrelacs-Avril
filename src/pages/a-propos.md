@@ -20,8 +20,8 @@ eleventyNavigation:
 Après 10 ans d'expérience professionnelle dans le secteur textile et en gestion d’association, j’ai entrepris une reconversion pour devenir tapissière d’ameublement.
 Passionnée par les métiers d'art liés au textile, je pratique la couture, le tricot et la broderie en amatrice depuis plus de 20 ans.
 J’ai toujours aimé transformer des vêtements, chiner des tissus anciens ou donner une seconde vie à des matériaux délaissés.
-Diplômée de Sciences Po et de l’Ecole Supérieure des Industries du Vêtement, j’ai obtenu mon titre professionnel de Tapissier Garnisseur en 2022.
-Je suis installée à <a href="../tapisserie-d-ameublement-proche-de-rennes">Rennes</a> près de <a href="../tapisserie-d-ameublement-proche-de-poligne">Poligné</a> et j’interviens également dans le reste de la Bretagne.
+Diplômée de Sciences Po et de l’Ecole Supérieure des Industries du Vêtement, j’ai depuis obtenu le titre professionnel de Tapissier Garnisseur et le CAP de Tapissier en Décor. 
+Je suis installée au Rheu, j'interviens dans toute la région de <a href="../tapisserie-d-ameublement-proche-de-rennes">Rennes</a> et dans le reste de la Bretagne jusqu'à <a href="../tapisserie-d-ameublement-proche-de-poligne">Poligné</a>.
 </article>
 
 <div class="col">
@@ -36,16 +36,16 @@ Je suis installée à <a href="../tapisserie-d-ameublement-proche-de-rennes">Ren
 <article>
 
 ## Ma pratique du métier
-Après un premier contact par mail ou par téléphone, nous convenons d’un rendez-vous à votre domicile. Lors de cette visite, j’observe votre fauteuil, l’environnement auquel il s’intègre et votre décoration actuelle.
-Nous parlons en détail de votre projet pour la réfection (travail sur le bois, type de garniture, type de tissu, finition) et je vous présente déjà des propositions de tissus.
+Après un premier contact par mail ou par téléphone, nous convenons d’un rendez-vous à votre domicile. Lors de notre première rencontre, nous discutons en détail de votre projet : pour un fauteuil, s’agit-il d’un élément de décor ou d’un fauteuil utilisé au quotidien ? Y a-t-il des animaux ou des enfants ? De quel type de garniture s’agit-il ? Faut-il prévoir de restaurer la structure en bois (carcasse) par un ébéniste ? Pour les rideaux, quel système est le mieux adapté (œillets, wave, tringle classique, store) ? Le tissu doit-il est occultant ?
+A cette occasion, je vous présente déjà des propositions de tissus.
 Ces échanges me permettent d’apporter une réponse personnalisée et sur-mesure et de vous adresser un devis par mail.
 Ce rendez-vous et le devis sont gratuits.
-Vous pouvez d’ores et déjà m’adresser par mail des photos détaillées de votre fauteuil et de la pièce dans laquelle il se place.
+Vous pouvez d’ores et déjà m’adresser par mail des photos détaillées de votre fauteuil ou de la fenêtre et de la pièce dans son ensemble.
 </article>
 
 <div class="col no-bg">
 
-![Découvrez notre collection de fauteuils, y compris le célèbre fauteuil chesterfield et le charmant fauteuil cabriolet. Pour une détente absolue, optez pour nos fauteuils de relaxation et fauteuils releveurs. Disponibles dans une variété de finitions, nos fauteuils offrent un style raffiné et un confort exceptionnel. Trouvez le parfait petit fauteuil pour compléter votre espace. Choisissez un fauteuil d'angle gauche ou un fauteuil d'angle réversible pour maximiser votre confort et votre flexibilité. Nos fauteuils sont dotés de têtières ajustables pour un soutien supplémentaire. Fabriqués en cuir synthétique de haute qualité, nos fauteuils chesterfield allient l'élégance intemporelle au confort moderne. Découvrez nos collaborations avec des marques renommées comme Habitat et Jardin et Chateau d'Ax pour trouver le fauteuil ou le canapé d'angle réversible qui correspond à votre style. Plongez dans le design nordique avec des fauteuils vieillis au look rétro. Choisissez un canapé droit en tissu pour un design contemporain ou optez pour un canapé en cuir noir pour une touche de sophistication. Nos canapés sont conçus avec le confort à l'esprit, avec des assises en mousse Bultex de haute qualité. Pour un design moderne, explorez notre gamme de canapés inspirés du style Louis XVI, avec des structures en hêtre massif](/src/assets/img/atelier-1.jpg "Fern")
+![Découvrez notre collection de fauteuils, y compris le célèbre fauteuil chesterfield et le charmant fauteuil cabriolet. Pour une détente absolue, optez pour nos fauteuils de relaxation et fauteuils releveurs. Disponibles dans une variété de finitions, nos fauteuils offrent un style raffiné et un confort exceptionnel. Trouvez le parfait petit fauteuil pour compléter votre espace. Choisissez un fauteuil d'angle gauche ou un fauteuil d'angle réversible pour maximiser votre confort et votre flexibilité. Nos fauteuils sont dotés de têtières ajustables pour un soutien supplémentaire. Fabriqués en cuir synthétique de haute qualité, nos fauteuils chesterfield allient l'élégance intemporelle au confort moderne. Découvrez nos collaborations avec des marques renommées comme Habitat et Jardin et Chateau d'Ax pour trouver le fauteuil ou le canapé d'angle réversible qui correspond à votre style. Plongez dans le design nordique avec des fauteuils vieillis au look rétro. Choisissez un canapé droit en tissu pour un design contemporain ou optez pour un canapé en cuir noir pour une touche de sophistication. Nos canapés sont conçus avec le confort à l'esprit, avec des assises en mousse Bultex de haute qualité. Pour un design moderne, explorez notre gamme de canapés inspirés du style Louis XVI, avec des structures en hêtre massif](/src/assets/img/marteau-01.jpg "Fern")
 </div>
 </section>
 <section>

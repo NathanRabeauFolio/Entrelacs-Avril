@@ -117,7 +117,7 @@
 }
 
 
-.home-page section, .local section, .services section, .propos section {
+.home-page section, .local section, .services section, .propos section, .contact section {
   display: flex;
   flex-direction:column;
 
@@ -125,6 +125,10 @@
     max-height: 90vh;
     display: flex;
     align-items: center;
+    padding-top: 10%;
+    @media (min-width: 1024px) {
+    padding-top: 2%;      
+    }
     picture{margin: 0 auto;
       position: relative;
       &::before{

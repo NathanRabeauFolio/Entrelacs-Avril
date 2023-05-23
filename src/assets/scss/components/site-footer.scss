@@ -22,7 +22,7 @@
     flex-direction: column;
     width: 50%;
     padding: 0 0 0 5%;
-    a, .btn-modal {
+    a, .btn-modal, .contact-form__submit .btn {
       display: flex;
       padding: 1rem 3rem !important;
       font-family: var(--font-family-base);

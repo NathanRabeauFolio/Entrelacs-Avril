@@ -60,32 +60,34 @@ Je réalise vos rideaux, stores et coussins sur mesure. Uniquement décoratifs o
 
 ### Vente de tissus d'ameublement
 Je vous propose une large sélection de tissus créés par des maisons françaises spécialistes de la décoration.
-Développés pour l'ameublement, ces étoffes font l'objet de nombreux tests et sont dotés de différentes propriété techniques (antitache, antifeu, outdoor...).
+Développées pour l'ameublement, ces étoffes font l'objet de nombreux tests et sont dotées de différentes propriétés techniques (antitache, antifeu, outdoor...).
 Faites le choix de tissus créatifs et de qualité, adaptés à vos différents projets de décoration.
 </article>
-<div class="col">
+<div class="col no-bg">
 
-![En tant qu'architecte d'intérieur, nous avons l'expertise nécessaire pour tapisser vos espaces avec soin et créativité. Nous utilisons des toiles blanches de haute qualité comme base pour nos projets, que nous ponçons pour obtenir une surface lisse. Notre atelier de tapisserie est équipé pour réaliser des dessus de lit sur mesure et des céramiques éphémères pour ajouter une touche artistique à votre intérieur. Avec notre titre professionnel, nous nous engageons à fournir des services de qualité et des résultats exceptionnels. Que ce soit pour des fauteuils anciens ou des fauteuils club, nous nous adaptons à vos besoins spécifiques. Nous prenons en compte les mesures d'audience pour garantir des résultats précis et une satisfaction optimale. La découpe précise des matériaux, comme la moquette, fait partie de notre savoir-faire artisanal. En tant qu'artisan d'art, nous réalisons des assemblages soignés pour habiller vos meubles avec élégance. Nous nous spécialisons également dans l'agencement intérieur pour créer des espaces harmonieux et fonctionnels. Que vous souhaitiez un fauteuil Louis XVI ou un fauteuil Napoléon, nous avons les compétences nécessaires pour réaliser vos projets. Pour protéger votre vie privée en ligne, nous bloquons les cookies tiers. Nous nous sommes engagés à refaire et relooker vos meubles pour leur donner une nouvelle vie. Avec notre expertise en restauration, nous sommes également aptes à travailler sur des pièces de style Napoléon III. Pour une finition raffinée, nous proposons également des techniques de cérusage pour créer un effet vieilli et élégant](/src/assets/img/coussin-02.png "Fern")
+![En tant qu'architecte d'intérieur, nous avons l'expertise nécessaire pour tapisser vos espaces avec soin et créativité. Nous utilisons des toiles blanches de haute qualité comme base pour nos projets, que nous ponçons pour obtenir une surface lisse. Notre atelier de tapisserie est équipé pour réaliser des dessus de lit sur mesure et des céramiques éphémères pour ajouter une touche artistique à votre intérieur. Avec notre titre professionnel, nous nous engageons à fournir des services de qualité et des résultats exceptionnels. Que ce soit pour des fauteuils anciens ou des fauteuils club, nous nous adaptons à vos besoins spécifiques. Nous prenons en compte les mesures d'audience pour garantir des résultats précis et une satisfaction optimale. La découpe précise des matériaux, comme la moquette, fait partie de notre savoir-faire artisanal. En tant qu'artisan d'art, nous réalisons des assemblages soignés pour habiller vos meubles avec élégance. Nous nous spécialisons également dans l'agencement intérieur pour créer des espaces harmonieux et fonctionnels. Que vous souhaitiez un fauteuil Louis XVI ou un fauteuil Napoléon, nous avons les compétences nécessaires pour réaliser vos projets. Pour protéger votre vie privée en ligne, nous bloquons les cookies tiers. Nous nous sommes engagés à refaire et relooker vos meubles pour leur donner une nouvelle vie. Avec notre expertise en restauration, nous sommes également aptes à travailler sur des pièces de style Napoléon III. Pour une finition raffinée, nous proposons également des techniques de cérusage pour créer un effet vieilli et élégant](/src/assets/img/rideaux.jpg "Fern")
 </div>
 </section>
 <section>
 <div class="col">
 
-![Nous sommes spécialisés dans la réalisation de plafonds tendus, offrant une esthétique moderne et élégante à votre espace. Notre équipe réalise un ponçage minutieux pour obtenir une surface lisse et uniforme. Nous proposons également une sélection de tringles de haute qualité pour compléter vos rideaux. Pour un style scandinave, nous proposons des fauteuils bridge élégants. Nos artisans utilisent des clous décoratifs pour ajouter une touche d'authenticité. Si vous préférez une finition naturelle, nous appliquons de la cire pour protéger le bois. Nos ouvriers qualifiés sont formés pour travailler avec soin sur les meubles chinés que vous trouvez dans les brocantes. Pour compléter votre décoration, nous confectionnons des abat-jour uniques. En tant que professionnels des métiers d'art, nous apportons une attention particulière aux détails, du choix des matériaux au piquage minutieux. Nos rideaux et toiles sont réalisés avec des techniques traditionnelles pour un rendu impeccable. Nous proposons une large gamme de teintes pour répondre à vos préférences esthétiques. Les accotoirs de nos fauteuils sont conçus pour un confort optimal. Nous sommes membres de l'Union Nationale des Artisans, témoignant de notre engagement envers la qualité et le professionnalisme. Pour un fauteuil en cuir de qualité, nous utilisons des matériaux durables et résistants. Nous travaillons également avec du lin, offrant une esthétique naturelle et intemporelle. Pour protéger votre vie privée en ligne, nous prenons des mesures de sécurité pour bloquer les traceurs. Que vous souhaitiez un fauteuil de style spécifique ou un meuble en acajou, nous avons l'expertise pour répondre à vos besoins. Nos assises et dossiers sont réalisés avec soin pour un confort optimal. Avec notre connaissance de l'histoire de l'art, nous respectons les techniques et les styles propres à chaque époque. Faites confiance à notre expertise de restaurateur pour donner une nouvelle vie à vos meubles anciens.](/src/assets/img/napo.png "Fern")
 </div>
 <article>
 
 ## Services aux professionnels
 
-### Professions médicales
-J’interviens pour remplacer ou réparer les tables d’examen médical ou tables de massage avec du simili cuir conforme aux normes en vigueur.
+### Décorateurs d’intérieur et maîtres d’oeuvre
+L’Atelier Entrelacs travaille en partenariat avec les décorateurs d’intérieur, architectes, maîtres d'œuvre et menuisiers afin de créer et réaliser les banquettes et rideaux de vos chantiers dans toute la région rennaise. Je vous conseille sur les aspects techniques (choix des tissus, systèmes de rideaux) les mieux adaptés à chaque projet. Je m’occupe de l’installation chez vos clients selon vos directives. 
 
 ### Entreprises
-La confection de rideaux sur mesure ou de fauteuils recouverts d’un tissu orné du logo de votre entreprise peuvent habiller vos espaces de travail ou vos stands lors de salons et d’évènements.
+Des rideaux sur mesure ou des fauteuils recouverts d’un tissu orné du logo de votre entreprise peuvent habiller vos espaces de travail ou vos stands lors de salons et d’évènements.
 Je réalise ces supports de communication conformément à votre cahier des charges et votre identité visuelle.
 
 ### Collectivités
-Je vous propose des textiles d’ameublement anti-feu répondant aux normes de qualité et de sécurité adaptées à un usage répété au sein des collectivités, des professionnels, et de l’hôtellerie.
+Nous proposons des textiles d'ameublement anti-feu répondant aux normes de qualité et de sécurité adaptées à un usage répété au sein des collectivités, des professionnels et de l'hôtellerie.
+Professions médicales
+L’atelier se charge de la réparation de tables d'examen médical, en utilisant du simili cuir conforme aux normes en vigueur.
+
 </article>
 <div class="col no-bg">
 

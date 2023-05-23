@@ -1,42 +1,62 @@
 <form class="contact-form" name="contact" method="POST" data-netlify="true">
-  <label for="name">Name</label>
+<div class="field">
+  <label for="name">nom:</label>
   <input
     type="text"
     name="name"
     id="name"
     autocomplete="name"
-    placeholder="Your name"
-    title="Please enter your name"
+    placeholder="votre nom"
+    title="Entrez votre nom"
     required
   >
-  <label for="email">Email</label>
+</div>
+<div class="field">
+  <label for="email">e-mail:</label>
   <input
     type="email"
     name="email"
     id="email"
+    rows="7"
     autocomplete="email"
-    placeholder="Your email address"
-    title="The domain portion of the email address is invalid (the portion after the @)."
+    placeholder="votre adresse e-mail"
+    title="Ceci ne semble pas être un adresse e-mail"
     pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$"
     required
   >
-  <input type="checkbox"
-          name="fauteuil"
-          id="fauteuil"
-          checked>
-  <label for="fauteuil">fauteuil</label>
-  <input type="checkbox"
-         name="rideaux"
-         id="rideaux"
-         checked>
-  <label for="rideaux">rideaux</label>
-  <input type="file"
-         id="avatar"
-         name="avatar"
-         multiple
-         accept="image/png, image/jpeg">
+</div>
+<div class="field">
+    <label for="objet">objet:</label>
+    <div class="radios">
+    <div class="radio">
+      <input type="radio" id="fauteuils-ou-chaises" name="objet" value="fauteuils-ou-chaises"
+             checked>
+      <label for="fauteuils-ou-chaises">Fauteuils ou Chaises</label>
+    </div>
 
-  <label for="message">Message</label>
-  <textarea name="message" id="message" placeholder="Write your message here" rows="7" required></textarea>
-  <button class="contact-form__submit btn" type="submit" name="submit">Send Message</button>
+    <div class="radio">
+      <input type="radio" id="rideaux" name="objet" value="rideaux">
+      <label for="rideaux">Rideaux</label>
+    </div>
+
+    <div class="radio">
+      <input type="radio" id="autre" name="objet" value="autre">
+      <label for="autre">autre</label>
+    </div>
+    </div>
+</div>
+<div class="field">
+<label for="photos">joindre des photographies:</label>
+  <input type="file"
+         id="photos"
+         name="photos"
+         multiple
+         accept="image/png, image/jpeg, image/jpg, image/heif, image/hevc">
+  </div>
+<div class="field">
+<label for="message">message:</label>
+  <textarea name="message" id="message" placeholder="votre message" rows="7" required></textarea>
+  </div>
+  
+  <button class="contact-form__submit btn" type="submit" name="submit">envoyer</button>
 </form>

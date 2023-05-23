@@ -1,3 +1,94 @@
 .contact-form__submit {
   display: block;
 }
+
+.btn {
+  
+  display: flex;
+  padding: 1rem 7.15rem !important;
+  font-family: var(--font-family-base);
+  font-size: 0.793125em !important;
+  font-variation-settings: "wght" 590, "wdth" 100;
+  background: rgb(59, 109, 198);
+  background: -moz-linear-gradient(0deg, rgb(59, 109, 198) 0%, rgb(136, 161, 199) 100%);
+  background: -webkit-linear-gradient(0deg, rgb(59, 109, 198) 0%, rgb(136, 161, 199) 100%);
+  background: linear-gradient(0deg, rgb(59, 109, 198) 0%, rgb(136, 161, 199) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3b6dc6",endColorstr="#88a1c7",GradientType=1);
+  background-image: url(/assets/img/atelier-entrelacs-volutes-overlay.jpeg);
+  background-size: 150% auto;
+  background-position: 0% 60%;
+  color: white !important;
+  border: solid #E89C42 0.115em;
+  border-radius: none !important;
+  margin-bottom: 1.25em;
+  height: 5.5rem;
+  flex-direction: initial;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 3em;
+  position: relative;
+  width: 20rem;
+  margin: auto auto;
+  &::before{    position: absolute;
+    display: block;
+    content: "";
+    border-radius: 3em;
+    left: -0.25em;
+    top: -0.25em;
+    background: rgb(59,109,198);
+  background: -moz-linear-gradient(0deg, rgba(59,109,198,1) 0%, rgba(136,161,199,1) 100%);
+  background: -webkit-linear-gradient(0deg, rgba(59,109,198,1) 0%, rgba(136,161,199,1) 100%);
+  background: linear-gradient(0deg, rgba(59,109,198,1) 0%, rgba(136,161,199,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3b6dc6",endColorstr="#88a1c7",GradientType=1);
+    
+    /* border: solid 0.12em black; */
+    width: calc(100% + 0.5em);
+    height: calc(100% + 0.5em);
+    z-index: -1;
+  }
+  &:hover{
+    background: inherit;
+    border: none;
+    filter: brightness(90%);
+    color: red;}
+    &:focus{
+      background: inherit;
+      border: none;
+      filter: brightness(90%);
+      color: red;}
+}
+
+.contact-form{display: flex;
+  flex-direction: column;
+.field, .radio, .radios{
+  display: flex;
+  flex-direction: row;
+  label{
+    width: 14rem;
+    text-align: right;
+    font-family: var(--font-family-base);
+    font-size: 0.793125em !important;
+    font-variation-settings: "wght" 590, "wdth" 100;
+    padding-top: 0.5rem;
+    padding-right: 1rem;
+  }
+}
+.radio{
+  align-items: flex-end;
+}
+  
+.radio label{
+  width: auto; background: none;
+  }
+  textarea, input[type=text], input[type=email] {
+    width:calc(100% - 14rem);
+    max-width: calc(100% - 14rem);
+}
+input[type=file] {
+
+}
+
+
+
+
+}
