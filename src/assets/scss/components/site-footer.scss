@@ -12,7 +12,11 @@
   }
   #map {width:70vh; height:70vh; position: relative;
     overflow: hidden;
-    border-radius: 100%;
+    border-radius: 0;
+    @media (min-width: 1024px) {
+      border-radius: 100%;
+    }
+
   }* {
     box-sizing: border-box;
   }
