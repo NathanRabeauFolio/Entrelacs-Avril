@@ -356,15 +356,22 @@ fieldset {
   flex-direction: row;
   padding: 10rem;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
 
 a { display: flex;
   flex-direction: column;
   justify-content: center;
-  max-width: calc(33% - 5rem);
+  max-width: calc(50% - 5rem);
+  @media (min-width: 1024px) {
+    max-width: calc(33% - 5rem);
+  }
+  transition: transform .5s;
+
 &:hover{
   color: none;
   border-bottom: none;
+  transform: scale(1.15);
+  transition: transform .5s;
 }}
 
   .img-gal{
