@@ -45,6 +45,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/admin');
   eleventyConfig.addPassthroughCopy('./src/assets/img');
   eleventyConfig.addPassthroughCopy('./src/assets/fonts');
+  eleventyConfig.addPassthroughCopy('./src/assets/div');
 
   // Allow Turbolinks to work in development mode
   eleventyConfig.setBrowserSyncConfig(browserSyncConfig);
