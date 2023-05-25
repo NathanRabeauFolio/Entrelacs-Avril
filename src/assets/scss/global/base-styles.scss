@@ -350,3 +350,21 @@ fieldset {
 }
 
 .behold-grid {width:80vw!important}
+
+.gallerie{
+  display: flex;
+  flex-direction: row;
+  padding: 10rem;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+picture{ display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: calc(33% - 5rem);}
+
+  .img-gal{
+    width: 100%;
+  }
+
+}
