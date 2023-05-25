@@ -26,13 +26,13 @@ Une réfection dans les règles de l’art assure une durée de vie d’une ving
 Le choix du tissu et de la finition (cloutée, passepoil, galon…) est entièrement libre quelle que soit la méthode de réfection.
 </article>
 
-<div class="col">
+<div class="col no-bg">
 
 ![Faites appel à notre décorateur d'intérieur pour sublimer votre espace. Nos tapissiers décorateurs sont des experts du garnissage et de la restauration de canapés. Avec leurs compétences en tapissier garnisseur, ils maîtrisent l'art d'embellir les carcasses de meubles. Grâce à leur savoir-faire, vos canapés seront restaurés avec soin et ravivés dans le style Louis XV ou Louis XVI. Nos tapissiers expérimentés utilisent des clous décoratifs pour un habillage élégant. Que ce soit pour rénover un fauteuil ancien ou donner une nouvelle vie à des meubles de tous styles, nos tapissiers sont à votre service. Ils connaissent les secrets des ressorts et des garnitures pour assurer un confort optimal. Avec une passion pour les métiers d'art, ils mettent leur expertise au service de votre décoration intérieure. Nos tapissiers garnisseurs sont des artisans passionnés par l'artisanat, capables de transformer tous les styles d'intérieurs. Confiez-leur votre crapaud préféré ou vos meubles anciens, ils sauront les retapisser avec expertise. Faites appel à leur savoir-faire pour donner une nouvelle vie à vos meubles anciens. Nous sommes fiers de perpétuer les traditions de l'artisanat et de créer des intérieurs uniques](/src/assets/img/fauteuil-trad.png "Fern")
 </div>
 </section>
 <section>
-<div class="col">
+<div class="col no-bg">
 
 ![Nos designers talentueux sont spécialisés dans la création de décors uniques pour votre intérieur. Nous sommes experts dans la restauration de fauteuils, alliant savoir-faire artisanal et passion pour l'ébénisterie. Que ce soit pour le cannage, le recouvrement ou la restauration complète d'un fauteuil, nous redonnons vie à vos pièces préférées. Nos assises confortables sont réalisées avec soin, utilisant des textiles de qualité pour un résultat exceptionnel. Du fauteuil bridge au fauteuil Voltaire, en passant par les fauteuils et canapés, nous maîtrisons l'art de leur restauration. Nous créons également des plafonds uniques, des têtes de lit originales et des banquettes personnalisées pour compléter votre décoration intérieure. Notre approche artisanale nous permet de recouvrir vos meubles avec précision et souci du détail. Ajoutez une touche de confort à votre espace avec notre chauffeuse ou une tête de lit sur mesure. Nous proposons également des sommiers de haute qualité pour un repos optimal. Pour habiller vos fenêtres, nos rideaux et voilages sont confectionnés avec soin, tandis que nos tentures murales ajoutent une touche artistique à votre intérieur. Confiez-nous la restauration de vos fauteuils, qu'il s'agisse d'une chaise Louis ou d'un fauteuil sellier. Notre équipe qualifiée se fera un plaisir de réaliser un devis personnalisé pour votre projet. Faites confiance à notre expertise et à notre expérience pour transformer votre intérieur en un espace unique et raffiné.](/src/assets/img/fauteuil-contempo.png "Fern")
 </div>
@@ -49,7 +49,7 @@ Le choix du tissu et de la finition (cloutée, passepoil, galon…) est entière
 </div>
 </section>
 <section>
-<div class="col">
+<div class="col no-bg">
 
 ![Offrez une seconde vie à vos meubles grâce à notre expertise en restauration. Nous utilisons de la ouate de haute qualité pour le rembourrage et confectionner des pièces durables et confortables. Pour une touche rustique, nous travaillons avec des toiles de jute, ajoutant des plis délicats à nos créations. Nos tapissiers qualifiés possèdent un bac professionnel et manient les ciseaux avec précision pour un travail minutieux. Pour les finitions, nous proposons également des techniques de paillage pour apporter une touche naturelle à vos meubles. En collaboration avec des marques prestigieuses comme Pierre Frey, nous offrons une large sélection de tissus pour vos projets de rénovation. Que vous ayez un vieux fauteuil ou une tenture murale à restaurer, notre maître artisan donnera une nouvelle vie à vos pièces. Notre savoir-faire artisanal d'art nous permet de créer des intérieurs uniques et personnalisés. Explorez notre collection de papiers peints peints à la main, offrant une esthétique intemporelle inspirée du style Louis XIII. Avec notre expertise en couture, nous pouvons coudre des tissus de qualité pour transformer votre mobilier. Que ce soit pour la restauration d'un vieux fauteuil ou la création d'une tenture murale, nous sommes là pour vous guider. En tant que maîtres artisans, nous mettons en valeur l'artisanat d'art dans chacune de nos créations. Nos revêtements muraux permanents ajoutent une touche d'élégance à votre intérieur. Nous utilisons des sangles solides et durables pour garantir la longévité de nos literies. Avec un pied de biche expert, nous réalisons des finitions précises et professionnelles. Faites confiance à nos artisans et architectes d'intérieur pour transformer votre espace en un lieu accueillant et esthétique.](/src/assets/img/coussin-01.png "Fern")
 </div>
@@ -84,8 +84,9 @@ Des rideaux sur mesure ou des fauteuils recouverts d’un tissu orné du logo de
 Je réalise ces supports de communication conformément à votre cahier des charges et votre identité visuelle.
 
 ### Collectivités
-Nous proposons des textiles d'ameublement anti-feu répondant aux normes de qualité et de sécurité adaptées à un usage répété au sein des collectivités, des professionnels et de l'hôtellerie.
-Professions médicales
+Je propose des textiles d'ameublement anti-feu répondant aux normes de qualité et de sécurité adaptées à un usage répété au sein des collectivités, des professionnels et de l'hôtellerie.
+
+### Professions médicales
 L’atelier se charge de la réparation de tables d'examen médical, en utilisant du simili cuir conforme aux normes en vigueur.
 
 </article>
