@@ -13,11 +13,7 @@ module.exports = function (eleventyConfig) {
   // Plugins
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.addPlugin(syntaxHighlight);
-  eleventyConfig.addPlugin(sitemap, {
-    sitemap: {
-      hostname: "https://atelier-entrelacs.com/",
-    },
-  });
+  
 
   // Filters
   eleventyConfig.addFilter('markdown', markdownFilter);
@@ -46,8 +42,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/assets/img');
   eleventyConfig.addPassthroughCopy('./src/assets/fonts');
   eleventyConfig.addPassthroughCopy('./src/assets/div');
+  eleventyConfig.addPassthroughCopy('./src/sitemap.xml');
   eleventyConfig.addPassthroughCopy('./src/robots.txt');
-  
+
 
   // Allow Turbolinks to work in development mode
   eleventyConfig.setBrowserSyncConfig(browserSyncConfig);
