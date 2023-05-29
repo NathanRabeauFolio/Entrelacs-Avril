@@ -15,7 +15,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(sitemap, {
     sitemap: {
-      hostname: "https://www.atelier-entrelacs.com/",
+      hostname: "https://atelier-entrelacs.com/",
     },
   });
 
