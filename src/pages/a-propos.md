@@ -31,6 +31,16 @@ Je suis installée au Rheu, j'interviens dans toute la région de <a href="../ta
 </section>
 <section>
 <div class="col">
+
+<video width="100%" height="100%" autoplay loop muted playsinline>
+    <source 
+        src="/assets/img/crin.mp4" 
+        type='video/mp4; codecs="hvc1"'>
+    <source 
+        src="/assets/img/crin-chrome.webm" 
+        type="video/webm">
+</video>
+
 </div>
 
 <article>
