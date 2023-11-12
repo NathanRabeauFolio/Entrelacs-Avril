@@ -1,0 +1,80 @@
+---
+layout: base.njk
+section: page
+---
+	<body>
+		{% include "partials/site-header.njk" %}
+		{% include "partials/drawer.njk" %}
+
+<div class="contact">
+<section>
+  <div class="col no-bg">
+    {% image
+        "src/assets/img/stage-01.png",
+        "Nos tentures murales sont de véritables éléments décoratifs, réalisés selon les règles de l'art dans notre atelier de tapisserie. Chaque murale est soigneusement restaurée et agrémentée de galons décoratifs pour une finition impeccable. Nos tapissiers garnisseurs, diplômés du DMA, apportent leur savoir-faire pour créer des têtes de lit sur mesure, en travaillant minutieusement sur la carcasse. Nous sommes également spécialisés dans la pose de plafonds tendus, offrant une esthétique élégante et moderne à votre intérieur. Si vous préférez le charme intemporel du lin, nous proposons des revêtements muraux qui sauront vous séduire. Pour un aménagement mural raffiné, nos tapissiers décorateurs réalisent des créations artisanales dans tous les styles. Nous offrons également des abat-jour sur mesure pour compléter votre décoration. En matière de sellerie, nous utilisons des techniques de garnissage professionnelles pour assurer votre confort, y compris l'installation de ressorts de qualité. Notre ébéniste talentueux travaille avec soin pour créer des mobiliers artisanaux, inspirés du style Louis XV et d'autres époques. Notre objectif est de redonner vie à vos fauteuils et canapés en les rénovant avec expertise. Pour la tringlerie et la pose de rideaux sur mesure, notre équipe est là pour vous offrir une large gamme de choix. Nous nous engageons également à vous offrir un service personnalisé, en écoutant attentivement vos besoins. En tant que membre de l'Union Nationale des Tapissiers, nous sommes fiers de notre savoir-faire et de notre expertise. En collaboration avec des marques prestigieuses comme Pierre Frey, nous proposons une sélection de tissus d'ameublement de haute qualité. Que vous souhaitiez un agencement intérieur complet ou simplement suivre des cours de tapisserie, notre showroom est ouvert pour vous accueillir. Avec notre mesure d'audience, nous veillons à protéger votre vie privée en ligne. Nos éléments de décoration, tels que les voilages et les jolies tringles, complètent harmonieusement votre intérieur.",
+        "(min-width: 1024px) 50vw, 100vw",
+        "img-col",
+        "eager"
+      %}
+    </div>
+  
+    <article>
+  <h1>{{ title }}</h1>
+  <hr/>
+    {{ layoutContent | safe }}
+  <h3>je m'incris</h3>
+<form class="contact-form" name="contact-stage" method="POST" data-netlify="true">
+<div class="field">
+  <label for="name">nom:</label>
+  <input
+    type="text"
+    name="name"
+    id="name"
+    autocomplete="name"
+    placeholder="votre nom"
+    title="Entrez votre nom"
+    required
+  >
+</div>
+<div class="field">
+  <label for="email">e-mail:</label>
+  <input
+    type="email"
+    name="email"
+    id="email"
+    rows="7"
+    autocomplete="email"
+    placeholder="votre adresse e-mail"
+    title="Ceci ne semble pas être un adresse e-mail"
+    pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$"
+    required
+  >
+</div>
+<div class="field">
+  <label for="tel">telephone:</label>
+  <input
+    type="tel"
+    name="tel"
+    id="tel"
+    rows="9"
+    autocomplete="tel"
+    placeholder="votre numero de telephone"
+    title="Ceci ne semble pas être un numéro de telephone"
+    pattern="^(?:(?:(?:\+|00)33[ ]?(?:\(0\)[ ]?)?)|0){1}[1-9]{1}([ .-]?)(?:\d{2}\1?){3}\d{2}$"
+    required
+  >
+</div>
+  <button class="contact-form__submit btn" type="submit" name="submit">envoyer</button>
+</form>
+      </article>
+        <div class="col no-bg">
+          {% image
+        "src/assets/img/stage-02.jpg",
+        "Nos tentures murales sont de véritables éléments décoratifs, réalisés selon les règles de l'art dans notre atelier de tapisserie. Chaque murale est soigneusement restaurée et agrémentée de galons décoratifs pour une finition impeccable. Nos tapissiers garnisseurs, diplômés du DMA, apportent leur savoir-faire pour créer des têtes de lit sur mesure, en travaillant minutieusement sur la carcasse. Nous sommes également spécialisés dans la pose de plafonds tendus, offrant une esthétique élégante et moderne à votre intérieur. Si vous préférez le charme intemporel du lin, nous proposons des revêtements muraux qui sauront vous séduire. Pour un aménagement mural raffiné, nos tapissiers décorateurs réalisent des créations artisanales dans tous les styles. Nous offrons également des abat-jour sur mesure pour compléter votre décoration. En matière de sellerie, nous utilisons des techniques de garnissage professionnelles pour assurer votre confort, y compris l'installation de ressorts de qualité. Notre ébéniste talentueux travaille avec soin pour créer des mobiliers artisanaux, inspirés du style Louis XV et d'autres époques. Notre objectif est de redonner vie à vos fauteuils et canapés en les rénovant avec expertise. Pour la tringlerie et la pose de rideaux sur mesure, notre équipe est là pour vous offrir une large gamme de choix. Nous nous engageons également à vous offrir un service personnalisé, en écoutant attentivement vos besoins. En tant que membre de l'Union Nationale des Tapissiers, nous sommes fiers de notre savoir-faire et de notre expertise. En collaboration avec des marques prestigieuses comme Pierre Frey, nous proposons une sélection de tissus d'ameublement de haute qualité. Que vous souhaitiez un agencement intérieur complet ou simplement suivre des cours de tapisserie, notre showroom est ouvert pour vous accueillir. Avec notre mesure d'audience, nous veillons à protéger votre vie privée en ligne. Nos éléments de décoration, tels que les voilages et les jolies tringles, complètent harmonieusement votre intérieur.",
+        "(min-width: 1024px) 50vw, 100vw",
+        "img-col",
+        "eager"
+      %}
+    </div>
+</div>
+{% include "partials/footer.njk" %}
