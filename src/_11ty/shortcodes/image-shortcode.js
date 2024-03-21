@@ -6,6 +6,16 @@ async function imageShortcode (src, alt, sizes, classes, loading = 'lazy') {
     formats: ['webp', 'jpeg'],
     urlPath: '/assets/img/',
     outputDir: '_site/assets/img/',
+    filenameFormat: function (id, src, width, format, options) {
+      const ext = path.extname(src)
+      const name = path.basename(src, ext)
+      
+      if (width) {
+        return `${name}-${id}-${width}.${format}`;
+      }
+  
+      return `${name}-${id}.${format}`;
+    }
   });
 
   let imageAttributes = {
@@ -15,6 +25,8 @@ async function imageShortcode (src, alt, sizes, classes, loading = 'lazy') {
     loading,
     decoding: 'async',
   };
+
+  
 
   return Image.generateHTML(metadata, imageAttributes);
 }
