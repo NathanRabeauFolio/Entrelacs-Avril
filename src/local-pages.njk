@@ -1,5 +1,4 @@
 ---
-
 pagination:
     data: pdv
     size: 1
@@ -9,11 +8,15 @@ sitemap:
   priority: 0.5
 permalink: "tapisserie-d-ameublement-proche-de-{{ pdv.ville | slug | safe }}/"
 ---
+<!doctype html>
+<html {% if section %} data-current="{{ section }}"{% endif %} lang="fr">
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="LYVBr3gnfK1krvf9EurD5ZWTUsbY9ISvoT8pBAtznJc" />
   <title>{{ pdv.titlepage }}</title>
+
   <meta name="description" content="{{ pdv.descr}}">
   <link rel="dns-prefetch" href="https://identity.netlify.com">
 
@@ -58,7 +61,7 @@ permalink: "tapisserie-d-ameublement-proche-de-{{ pdv.ville | slug | safe }}/"
   </div>
   <article>
   <h1>Vos travaux de tapisserie d'ameublement proche de {{ pdv.ville }}</h1>
-<p>L’Atelier Entrelacs, situé au <a href="https://tapissier-d-ameublement-rennes.business.site/" target="_blank">Rheu</a>, est votre artisane spécialiste en tapisserie d'ameublement. Je propose des services de réfection et création de fauteuils, rideaux et coussins. L’Atelier Entrelacs s’adresse autant aux particuliers qu’aux professionnels de la région rennaise, notamment à {{ pdv.ville }}, <a href="../tapisserie-d-ameublement-proche-de-{{ pdv.prox1 | slug | safe }}">{{ pdv.prox1 }}</a> ou <a href="../tapisserie-d-ameublement-proche-de-{{ pdv.prox2 | slug | safe }}">{{ pdv.prox2 }}</a> pour des projets de décoration intérieure sur mesure.</p>
+<p>L’Atelier Entrelacs, situé au <a href="https://tapissier-d-ameublement-rennes.business.site/" target="_blank" hreflang="fr">Rheu</a>, est votre artisane spécialiste en tapisserie d'ameublement. Je propose des services de réfection et création de fauteuils, rideaux et coussins. L’Atelier Entrelacs s’adresse autant aux particuliers qu’aux professionnels de la région rennaise, notamment à {{ pdv.ville }}, <a href="../tapisserie-d-ameublement-proche-de-{{ pdv.prox1 | slug | safe }}">{{ pdv.prox1 }}</a> ou <a href="../tapisserie-d-ameublement-proche-de-{{ pdv.prox2 | slug | safe }}">{{ pdv.prox2 }}</a> pour des projets de décoration intérieure sur mesure.</p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10659.312896700207!2d-1.7827511!3d48.0942568!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480ee319935a090b%3A0x2547f5a54ac4a174!2sAtelier%20Entrelacstête%20de%20lit%20tenture%20coussin%20tenture%20murale%20murale%20restauré%20dma%20tous%20styles%20artisanal%20architecte%20d%20intérieur%20tissu%20d%20ameublement%20pouf%20tringlerie%20mesure%20d%20audience%20permanents%20moquette%20sommier%20traceurs%20patine%20jacquard%20maître%20artisan%20habille%20chauffeuse%20fauteuil%20crapaud%20couturière%20créer%20une%20entreprise%20décorer%20machine%20à%20coudre%20stagiaire%20fauteuil%20voltaire%20rideau%20d%20ameublement%20établir%20un%20devis%20recouvrir%20un%20fauteuil%20double%20rideaux%20restauration%20de%20fauteuils%20sellier%20artisan%20d%20art%20couturier%20personnes%20maximum%20cérusé%20spécialiser%20taupe%20crochet%20marie%20jo%20père%20et%20fils%20chiné%20contemporaines%20confection%20de%20coussins%20broderie%20son%20métier%20mentions%20nouveau%20module%20nos%20formations%20entreprises%20artisanales%20rubrique%20actualité%20tissus%20muraux%20ouvrier!5e0!3m2!1sfr!2sfr!4v1684160658181!5m2!1sfr!2sfr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   
   </article>
@@ -239,14 +242,17 @@ permalink: "tapisserie-d-ameublement-proche-de-{{ pdv.ville | slug | safe }}/"
   </div>
 </div>
 
-  <a href="https://www.instagram.com/atelier_entrelacs/" class="insta" target="_blank"><i class="fa fa-instagram fa-fw" aria-hidden="true"></i>&nbsp;instagram</a>
-  <a href="https://www.facebook.com/atelierentrelacs/" class="facebook" target="_blank"> <i class="fa fa-facebook-official fa-fw" aria-hidden="true"></i>&nbsp;facebook</a>
-  <a href="https://www.pinterest.fr/alice_entrelacs/" class="pinterest" target="_blank"> <i class="fa fa-pinterest" aria-hidden="true"></i>&nbsp;pinterest</a>
+  <a href="https://www.instagram.com/atelier_entrelacs/" class="insta" target="_blank" hreflang="fr"><i class="fa fa-instagram fa-fw" aria-hidden="true"></i>&nbsp;instagram</a>
+  <a href="https://www.facebook.com/atelierentrelacs/" class="facebook" target="_blank" hreflang="fr"> <i class="fa fa-facebook-official fa-fw" aria-hidden="true"></i>&nbsp;facebook</a>
+  <a href="https://www.pinterest.fr/alice_entrelacs/" class="pinterest" target="_blank" hreflang="fr"> <i class="fa fa-pinterest" aria-hidden="true"></i>&nbsp;pinterest</a>
 </div>
 <div class="mentionslegales">
   <a href="../mentions-legales">mentions légales</a>
 </div>
 </footer>
+	</body>
+
+
 
 <script>
 // Get the modal and the button that opens it
@@ -488,4 +494,4 @@ async defer></script>
                 bermudaTriangle.setMap(map);
             }
 			});
-		}</script>
+		}</script></html>
